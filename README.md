@@ -1,10 +1,9 @@
 # Javier's Reviews Dashboard
 
-> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 24 &nbsp;|&nbsp; **Updated:** 2026-06-05 18:43:30
+> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 24 &nbsp;|&nbsp; **Updated:** 2026-06-05 22:55:03
 
 ## Staff Mentions
 
-TEST
 | Name | Mentions | Avg Rating |
 |:---|:---:|:---:|
 | Kat | 10 | 5.0 ★ |
