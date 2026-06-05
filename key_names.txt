@@ -1,0 +1,47 @@
+# Staff name variants for mention matching
+# Format: name_variant|Display Name
+# One entry per line. Lines starting with # are ignored.
+# Short names (4 chars or fewer) use exact word match; longer names use fuzzy match.
+#
+# Example:
+# alex|Alex Johnson
+# javi|Javier
+# maria|Maria Lopez
+
+ab|Abdallah
+abby|Abdallah
+abdallah|Abdallah
+yousef|Yousef
+yous|Yousef
+juan|Juan
+kiki|Kiara
+keke|Kiara
+ke ke|Kiara
+kiara|Kiara
+brian|Brian
+danny|Danny
+dan|Danny
+bobbi|Bobbi
+ardit|Ardit
+big ty|Tyler
+tyler|Tyler
+donny|Donny
+simon|Simon
+ariel|Ariel
+kat|Kat
+cat|Kat
+bella|Bella
+ali|Ali
+davis|Davis
+john|John
+leon|Leon
+edona|Edona
+la|La
+moe|Moe
+stela|Stela
+stella|Stela
+noah|Noah
+alexa|Alexa
+madison|Madison
+sarah|Sarah
+jessica|Jessica

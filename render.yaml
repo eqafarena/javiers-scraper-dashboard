@@ -1,0 +1,10 @@
+services:
+  - type: cron
+    name: javiers-review-scraper
+    runtime: python
+    schedule: "0 */2 * * *"
+    buildCommand: |
+      pip install -r requirements.txt
+      playwright install chromium
+      playwright install-deps chromium
+    startCommand: python scraper.py

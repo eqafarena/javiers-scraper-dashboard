@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& \"C:\\\\Users\\\\elvis\\\\OneDrive\\\\Desktop\\\\javiers-scraper\\\\venv\\\\Scripts\\\\python.exe\" -c \"import playwright; import supabase; import rapidfuzz; import dotenv; print\\('All imports OK'\\)\")",
+      "PowerShell(& \"C:\\\\Users\\\\elvis\\\\OneDrive\\\\Desktop\\\\javiers-scraper\\\\venv\\\\Scripts\\\\python.exe\" -m pip list 2>&1)",
+      "PowerShell(& \"C:\\\\Users\\\\elvis\\\\OneDrive\\\\Desktop\\\\javiers-scraper\\\\venv\\\\Scripts\\\\python.exe\" -m pip install -r \"C:\\\\Users\\\\elvis\\\\OneDrive\\\\Desktop\\\\javiers-scraper\\\\requirements.txt\" 2>&1)",
+      "PowerShell(& \"C:\\\\Users\\\\elvis\\\\OneDrive\\\\Desktop\\\\javiers-scraper\\\\venv\\\\Scripts\\\\python.exe\" -m playwright install --dry-run chromium 2>&1)"
+    ]
+  }
+}
