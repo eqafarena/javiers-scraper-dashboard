@@ -34,8 +34,8 @@ jobs:
 
       - name: Commit results
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "eqafarena"
+          git config user.email "eqafarena@sflcompanies.com"
           git add output.txt README.md log.txt
           git diff --staged --quiet || git commit -m "chore: scrape run $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
