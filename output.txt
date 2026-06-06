@@ -1,11 +1,11 @@
-=== Run: 2026-06-05 23:00:56 ===
-Reviews in last 7 days: 24
+=== Run: 2026-06-06 02:30:58 ===
+Reviews in last 7 days: 19
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21rME5IVnRhR1pvVlVORFlrczFWR3RIVmpsM2VFRRAB
 Author:    tina frazier
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      My first time eating at the restaurant...everything was amazing...just dont make reservations during an event..we had to walk 2 miles..but im a walker..lol
 
 --- Review ---
@@ -146,43 +146,3 @@ Rating:    5
 Published: a week ago
 Text:      Cat is the best! Will be coming back!
 Mentions:  cat (Kat)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2t0dFpWZzJXbDlqU0U1SWFteEdaMlZ6YmxWd2JtYxAB
-Author:    ATRTA TRUCKING
-Rating:    5
-Published: a week ago
-Text:      The food was amazing and service was great. Noah was our server and he was great. Thank you for taking good care of us
-Mentions:  noah (Noah)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xkbFRUQk1lakpCVkZKWU5YQllUemhGUVd3d1UyYxAB
-Author:    Erin Fortune
-Rating:    5
-Published: a week ago
-Text:      Cat was amazing! The food and ambiance was very nice. The Rockefeller oysters stood out to me; they were very great would recommend. Also, the Spicy gold rush was a really great drink that Kat made!
-Mentions:  kat (Kat)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25KSlltNTNjWGMzVEdoelVtNVFjRzlpYWtsQ1ZFRRAB
-Author:    Shania Carter
-Rating:    5
-Published: a week ago
-Text:      Cat was amazing! Loved her energy
-Mentions:  cat (Kat)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xKRVZHcExSRkpWVjNkTWNUSm9aRTk0WTBobGJrRRAB
-Author:    Lola Bradshaw Rushin
-Rating:    5
-Published: a week ago
-Text:      KiKi was absolutely amazing! Great customer service and personality.
-Mentions:  kiki (Kiara)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT21kZkxUWjVVVUl6YTFsQmJUZDVjR3hDYTJzNVZFRRAB
-Author:    Ajit Raghavan
-Rating:    5
-Published: a week ago
-Text:      AB was awesome giving us recs, providing awesome drinks and service!
-Mentions:  ab (Abdallah)
