@@ -1,4 +1,4 @@
-=== Run: 2026-06-06 13:15:15 ===
+=== Run: 2026-06-06 19:10:01 ===
 Reviews in last 7 days: 12
 
 --- Review ---
@@ -28,7 +28,7 @@ Mentions:  juan (Juan)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21kWlNTMTZTMWxvYjNCclUxQkZVazltYTJkb01FRRAB
 Author:    roger ray
 Rating:    4
-Published: 6 days ago
+Published: a week ago
 Text:      Great service & food
 
 --- Review ---
