@@ -1,5 +1,5 @@
-=== Run: 2026-06-06 02:30:58 ===
-Reviews in last 7 days: 19
+=== Run: 2026-06-06 08:28:25 ===
+Reviews in last 7 days: 12
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21rME5IVnRhR1pvVlVORFlrczFWR3RIVmpsM2VFRRAB
@@ -90,59 +90,3 @@ Rating:    5
 Published: a week ago
 Text:      Our waiter AB What’s awesome he went above and beyond on the service 😊 …
 Mentions:  ab (Abdallah)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2w5VU1tRnVRVGRLTkZSb2NYazNlRlpxUkdOMFltYxAB
-Author:    Matthew Rogers
-Rating:    5
-Published: a week ago
-Text:      Special shout out to cat was great service today food was amazing definitely could come back again
-Mentions:  cat (Kat)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2toMVoza3RWbTUxYlhsRFZURmpMWGhLTVZOZk4zYxAB
-Author:    Mahdi Falouji
-Rating:    5
-Published: a week ago
-Text:      Came with a couple friends was genuinely a fun time and i appreciate the service cat gave to me and my friends very kind and definitely would come back again
-Mentions:  cat (Kat)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT21WSmJUSXhXa2xOYVUxM2NUTkRNVVJJU1hNME5sRRAB
-Author:    Mahdi Falouji
-Rating:    5
-Published: a week ago
-Text:      Special shout out to cat for serving the best drinks I really appreciate her service and kindness that was shown
-Mentions:  cat (Kat)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xSMmMyWnVWMGxuVTNWQk5EWkxSVUpHTWkxa1RIYxAB
-Author:    Mahdi Falouji
-Rating:    5
-Published: a week ago
-Text:      It was a beautiful place to visit and have dinner at cat did an excellent job with customer service and getting me everything on time
-Mentions:  cat (Kat)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2pOUVZFMXpXRFZJV1hZMU1WSmFPVTFYVFMxcmVsRRAB
-Author:    Mohamad Mehanna
-Rating:    5
-Published: a week ago
-Text:      Cat was great!! Great smile great service
-Mentions:  cat (Kat)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT21Gc1lrdHlMVWhIY1dVeFdGcFBPUzFMTmxwcFdVRRAB
-Author:    conrad celestin
-Rating:    5
-Published: Edited a week ago
-Text:      Cat is the best bartender!!! Great drinks.
-Mentions:  cat (Kat)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xnNE0wWXRORlZHWkdOTU56TkNOblJJVXpGMlVtYxAB
-Author:    Wally Hadad
-Rating:    5
-Published: a week ago
-Text:      Cat is the best! Will be coming back!
-Mentions:  cat (Kat)

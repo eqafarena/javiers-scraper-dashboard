@@ -1,16 +1,16 @@
 # Javier's Reviews Dashboard
 
-> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 19 &nbsp;|&nbsp; **Updated:** 2026-06-06 02:30:58
+> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 12 &nbsp;|&nbsp; **Updated:** 2026-06-06 08:28:25
 
 ## Staff Mentions
 
 | Name | Mentions | Avg Rating |
 |:---|:---:|:---:|
-| Kat | 8 | 5.0 ★ |
 | Juan | 2 | 5.0 ★ |
 | Abdallah | 1 | 5.0 ★ |
 | Ardit | 1 | 5.0 ★ |
 | Ariel | 1 | 5.0 ★ |
+| Kat | 1 | 5.0 ★ |
 | Kiara | 1 | 5.0 ★ |
 | Simon | 1 | 5.0 ★ |
 
