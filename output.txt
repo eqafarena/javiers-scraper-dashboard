@@ -1,18 +1,33 @@
-=== Run: 2026-06-06 19:10:01 ===
-Reviews in last 7 days: 12
+=== Run: 2026-06-07 02:48:02 ===
+Reviews in last 7 days: 8
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT201M1dFcG9aMU5OWkdaWWFtTk9SREJGY0Zjd05WRRAB
+Author:    JT Shupe
+Rating:    5
+Published: 2 hours ago
+Text:      While expensive, every dish we had was superb.
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2xwTlNGUnRibmM0VFRoNk9HazRaMlpDYlZNelJuYxAB
+Author:    Nicola Filipi
+Rating:    5
+Published: 2 hours ago
+Text:      Love this place so fun!!! Ardit is so professional and makes sure everything is good. If you need anything make sure to ask for Ardit!!!
+Mentions:  ardit (Ardit)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21rME5IVnRhR1pvVlVORFlrczFWR3RIVmpsM2VFRRAB
 Author:    tina frazier
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      My first time eating at the restaurant...everything was amazing...just dont make reservations during an event..we had to walk 2 miles..but im a walker..lol
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tsWlVYZEVTekpKUlZsSVpuWXpibGd0WTNaak1IYxAB
 Author:    Anthony Spearman
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      The food was amazing. Chef Juan did an excellent job. The Branzino was the Best i have ever had. My wife had the Sea bass that she said was great. The lobster fried rice presentation and taste were great. The service with our server Ms. Ariel was perfection. You have to check this place out.
 Mentions:  juan (Juan), ariel (Ariel)
 
@@ -20,7 +35,7 @@ Mentions:  juan (Juan), ariel (Ariel)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2s5SlVGUnpZVXBKT0Radk5IZEhSMDk1VTBnNVdFRRAB
 Author:    Ebony Spearman
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      The food and atmosphere was amazing. Chef Juan did an amazing job preparing the Branzino and the Sea Bass was amazing! Would definitely recommend and we’ll be back.
 Mentions:  juan (Juan)
 
@@ -45,48 +60,3 @@ Rating:    5
 Published: a week ago
 Text:      Ardit was the perfect host/waiter. He gave some excellent food recommendations. I will be back.
 Mentions:  ardit (Ardit)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xkbFZsRmtaa290YTNGNE9UbHFjMkpPT0RBNVNGRRAB
-Author:    I AmTheGrind LLC
-Rating:    5
-Published: a week ago
-Text:      I took my wife there for her birthday. Everything was outstanding!
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25RMWRXbHVXbEZJWDNsdmFscG5aRGhLTTJSdGQxRRAB
-Author:    Dewyne Watson
-Rating:    5
-Published: a week ago
-Text:      Ke ke and KAT was amazing bartenders really attentive and pleasant and cocktail was amazing 10 out of 10 service
-Mentions:  ke ke (Kiara), kat (Kat)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xGWFIxaHFNa1J2TTBKWlZ6TklPRXBFYlZKM1pIYxAB
-Author:    Adam “VisibilityV” thevisibility
-Rating:    5
-Published: a week ago
-Text:      The atmosphere and the food were equally incredible. I tried the swordfish and it did not disappoint. The portion sizes were very large and our service was excellent. The cocktails were strong and delicious 😋 …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2s1YWRFMW5WMWRQZEU5ek1reG9aR1ZSZEMxaU4xRRAB
-Author:    Okay Izzy
-Rating:    5
-Published: a week ago
-Text:      Great atmosphere and vibe!
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2kxUWVFbERWVjlHVFZaSlZVSjZYMVZuUzBGNlJXYxAB
-Author:    Emily
-Rating:    5
-Published: Edited a week ago
-Text:      Simon was fantastic with us… Great customer service!!  As Canadians we will happily return!! Fantastic food and service.  😁 semi retirement!!! …
-Mentions:  simon (Simon)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT210YWRreHFRa1JNU0d0SWNsaFBUeTB4VTB0Wk9VRRAB
-Author:    Chrystal Wilkes
-Rating:    5
-Published: a week ago
-Text:      Our waiter AB What’s awesome he went above and beyond on the service 😊 …
-Mentions:  ab (Abdallah)
