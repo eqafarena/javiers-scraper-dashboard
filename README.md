@@ -1,13 +1,13 @@
 # Javier's Reviews Dashboard
 
-> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 9 &nbsp;|&nbsp; **Updated:** 2026-06-07 19:11:32
+> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 9 &nbsp;|&nbsp; **Updated:** 2026-06-08 02:52:37
 
 ## Staff Mentions
 
 | Name | Mentions | Avg Rating |
 |:---|:---:|:---:|
-| Ardit | 2 | 5.0 ★ |
 | Juan | 2 | 5.0 ★ |
+| Ardit | 1 | 5.0 ★ |
 | Ariel | 1 | 5.0 ★ |
 
 ---

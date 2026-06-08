@@ -1,25 +1,32 @@
-=== Run: 2026-06-07 19:11:32 ===
+=== Run: 2026-06-08 02:52:37 ===
 Reviews in last 7 days: 9
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25wUWMzcHRYMmxXVlc1bGNXcGxkRmRVZUhrd1FuYxAB
+Author:    Shay F.
+Rating:    5
+Published: 6 hours ago
+Text:      Great experience food was so good
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25GMFJ6VlFUR0pDVFdKT1dYUllOak54WWtwQlRHYxAB
 Author:    Dana Webb
 Rating:    1
-Published: an hour ago
+Published: 9 hours ago
 Text:      I was SO excited to go here and will never return. The hosts and the atmosphere were great however, the service and server experience was awful. Now let's keep in mind she knew she was getting her 20% tip because that's included in the bill …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT201M1dFcG9aMU5OWkdaWWFtTk9SREJGY0Zjd05WRRAB
 Author:    JT Shupe
 Rating:    5
-Published: 18 hours ago
+Published: a day ago
 Text:      While expensive, every dish we had was superb.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xwTlNGUnRibmM0VFRoNk9HazRaMlpDYlZNelJuYxAB
 Author:    Nicola Filipi
 Rating:    5
-Published: 18 hours ago
+Published: a day ago
 Text:      Love this place so fun!!! Ardit is so professional and makes sure everything is good. If you need anything make sure to ask for Ardit!!!
 Mentions:  ardit (Ardit)
 
@@ -27,7 +34,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21rME5IVnRhR1pvVlVORFlrczFWR3RIVmpsM2VFRRAB
 Author:    tina frazier
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      My first time eating at the restaurant...everything was amazing...just dont make reservations during an event..we had to walk 2 miles..but im a walker..lol
 
 --- Review ---
@@ -59,11 +66,3 @@ Author:    Angela Thomas
 Rating:    1
 Published: a week ago
 Text:      Absolutely unacceptable! We are from out of town and wanted to try the food, so we placed a DoorDash order because we are at a hotel for a meeting! They waited until our order was placed for over an hour to cancel it! Please do better! If …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xKVVduZE5OR2hWT1VKMVdqVkljRjlLVUZWdmJWRRAB
-Author:    Trish Tate
-Rating:    5
-Published: a week ago
-Text:      Ardit was the perfect host/waiter. He gave some excellent food recommendations. I will be back.
-Mentions:  ardit (Ardit)
