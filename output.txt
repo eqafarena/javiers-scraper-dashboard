@@ -1,18 +1,18 @@
-=== Run: 2026-06-08 02:52:37 ===
-Reviews in last 7 days: 9
+=== Run: 2026-06-08 10:24:42 ===
+Reviews in last 7 days: 8
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25wUWMzcHRYMmxXVlc1bGNXcGxkRmRVZUhrd1FuYxAB
 Author:    Shay F.
 Rating:    5
-Published: 6 hours ago
+Published: 13 hours ago
 Text:      Great experience food was so good
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25GMFJ6VlFUR0pDVFdKT1dYUllOak54WWtwQlRHYxAB
 Author:    Dana Webb
 Rating:    1
-Published: 9 hours ago
+Published: 17 hours ago
 Text:      I was SO excited to go here and will never return. The hosts and the atmosphere were great however, the service and server experience was awful. Now let's keep in mind she knew she was getting her 20% tip because that's included in the bill …
 
 --- Review ---
@@ -59,10 +59,3 @@ Author:    roger ray
 Rating:    4
 Published: a week ago
 Text:      Great service & food
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2tZNVdqbGhlVjl1Y3pWMWVHWk9aRUkzVm5scGNIYxAB
-Author:    Angela Thomas
-Rating:    1
-Published: a week ago
-Text:      Absolutely unacceptable! We are from out of town and wanted to try the food, so we placed a DoorDash order because we are at a hotel for a meeting! They waited until our order was placed for over an hour to cancel it! Please do better! If …
