@@ -1,4 +1,4 @@
-=== Run: 2026-06-10 15:01:00 ===
+=== Run: 2026-06-10 20:20:04 ===
 Reviews in last 7 days: 9
 
 --- Review ---
@@ -19,7 +19,7 @@ Text:      Great experience food was so good
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25GMFJ6VlFUR0pDVFdKT1dYUllOak54WWtwQlRHYxAB
 Author:    Dana Webb
 Rating:    1
-Published: 2 days ago
+Published: 3 days ago
 Text:      I was SO excited to go here and will never return. The hosts and the atmosphere were great however, the service and server experience was awful. Now let's keep in mind she knew she was getting her 20% tip because that's included in the bill …
 
 --- Review ---
