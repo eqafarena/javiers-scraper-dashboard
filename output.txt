@@ -1,11 +1,11 @@
-=== Run: 2026-06-12 14:43:02 ===
+=== Run: 2026-06-12 20:01:59 ===
 Reviews in last 7 days: 10
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xaTWFtbHpkMmMwYWtoTWJrOXBiVUp1UkVKWWFrRRAB
 Author:    Princeton Johnson
 Rating:    5
-Published: 9 hours ago
+Published: 14 hours ago
 Text:      Peyton was great!! I will definitely be back
 
 --- Review ---
@@ -26,7 +26,7 @@ Text:      Great experience food was so good
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25GMFJ6VlFUR0pDVFdKT1dYUllOak54WWtwQlRHYxAB
 Author:    Dana Webb
 Rating:    1
-Published: 4 days ago
+Published: 5 days ago
 Text:      I was SO excited to go here and will never return. The hosts and the atmosphere were great however, the service and server experience was awful. Now let's keep in mind she knew she was getting her 20% tip because that's included in the bill …
 
 --- Review ---
