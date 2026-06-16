@@ -1,11 +1,18 @@
-=== Run: 2026-06-15 20:53:10 ===
-Reviews in last 7 days: 10
+=== Run: 2026-06-16 11:01:48 ===
+Reviews in last 7 days: 11
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25oc1UyRjZOSGg1WTB0cFNtSlVaVEl3ZUcwME1sRRAB
+Author:    Amber Briggs
+Rating:    3
+Published: 10 hours ago
+Text:      Beautiful restaurant and atmosphere ! Some of the food dishes are definitely overpriced. Our food took a long time and wasn’t hot.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21GbmMyeEtZamc0Wm5nMGFIcDJkVnBHTkVSRllWRRAB
 Author:    Sheila Dubose
 Rating:    5
-Published: 20 hours ago
+Published: a day ago
 Text:      Our experience was everything we wanted. We were celebrating 51 yes of marriage. The staff( our waiter AB) did everything and more to make us feel good. The food was a 10 out of 10 ( two lobster tails, strip steak) one of the best we've tasted. Portion size of the sides was very large. We will be returning ❤️
 Mentions:  ab (Abdallah), stela (Stela)
 
@@ -13,7 +20,7 @@ Mentions:  ab (Abdallah), stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT20xRVR6UkZja3d5WWpaT1ZraENSM0ZFVEZSYVMxRRAB
 Author:    latiesha lawson
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      Bobby was awesome!
 Mentions:  bobbi (Bobbi)
 
@@ -21,21 +28,21 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pFNU1VeGZaRTU1VVZCZmQwODVSRkl0VkVGbFNrRRAB
 Author:    Taijanai Watts
 Rating:    1
-Published: 2 days ago
+Published: 3 days ago
 Text:      very bad, overly priced. didn’t let me get liquor on my 21st birthday even though the id showed that it was my birthday and was clearly me. 0/10 never again but
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xaTWFtbHpkMmMwYWtoTWJrOXBiVUp1UkVKWWFrRRAB
 Author:    Princeton Johnson
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      Peyton was great!! I will definitely be back
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21aclRWcGthVEIzUm5waWVIRk1ZazFXWjBsclpWRRAB
 Author:    LaVar Charleston
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      The corn ribs were phenomenal. Service was fantastic. We went on Monday during happy hour and the deals were awesome and food and cocktails were delicious. I will definitely be coming back!
 
 --- Review ---
