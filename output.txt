@@ -1,4 +1,4 @@
-=== Run: 2026-06-21 02:59:44 ===
+=== Run: 2026-06-21 09:43:47 ===
 Reviews in last 7 days: 10
 
 --- Review ---
@@ -12,7 +12,7 @@ Text:      the hostess peyton was amazing and very personable
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tkWVRXSldWSEJXZFdFMFUza3daamRtYkVFNFdYYxAB
 Author:    Chris Torrella
 Rating:    2
-Published: a day ago
+Published: 2 days ago
 Text:      Forced 20% included gratuity for a party of 3 is insane. If you want your burger cooked anything other than “medium well”, don’t bother asking — “the chef doesn’t take requests for custom heating of the patties.” What the hell? What is this place?
 
 --- Review ---
