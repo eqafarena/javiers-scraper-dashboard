@@ -1,11 +1,11 @@
-=== Run: 2026-06-20 19:20:29 ===
-Reviews in last 7 days: 12
+=== Run: 2026-06-21 02:59:44 ===
+Reviews in last 7 days: 10
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2taNGVIQktVVFExVkY5dlRrOTZMWGxQZDFoRllWRRAB
 Author:    Rekisha Marberry
 Rating:    5
-Published: 17 hours ago
+Published: a day ago
 Text:      the hostess peyton was amazing and very personable
 
 --- Review ---
@@ -26,14 +26,14 @@ Text:      Changed up menu's.
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25oc1UyRjZOSGg1WTB0cFNtSlVaVEl3ZUcwME1sRRAB
 Author:    Amber Briggs
 Rating:    3
-Published: 4 days ago
+Published: 5 days ago
 Text:      Beautiful restaurant and atmosphere ! Some of the food dishes are definitely overpriced. Our food took a long time and wasn’t hot.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21GbmMyeEtZamc0Wm5nMGFIcDJkVnBHTkVSRllWRRAB
 Author:    Sheila Dubose
 Rating:    5
-Published: 5 days ago
+Published: 6 days ago
 Text:      Our experience was everything we wanted. We were celebrating 51 yes of marriage. The staff( our waiter AB) did everything and more to make us feel good. The food was a 10 out of 10 ( two lobster tails, strip steak) one of the best we've tasted. Portion size of the sides was very large. We will be returning ❤️
 Mentions:  ab (Abdallah), stela (Stela)
 
@@ -41,7 +41,7 @@ Mentions:  ab (Abdallah), stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT20xRVR6UkZja3d5WWpaT1ZraENSM0ZFVEZSYVMxRRAB
 Author:    latiesha lawson
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      Bobby was awesome!
 Mentions:  bobbi (Bobbi)
 
@@ -72,18 +72,3 @@ Author:    Dana Webb
 Rating:    1
 Published: a week ago
 Text:      I was SO excited to go here and will never return. The hosts and the atmosphere were great however, the service and server experience was awful. Now let's keep in mind she knew she was getting her 20% tip because that's included in the bill …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT201M1dFcG9aMU5OWkdaWWFtTk9SREJGY0Zjd05WRRAB
-Author:    JT Shupe
-Rating:    5
-Published: a week ago
-Text:      While expensive, every dish we had was superb.
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xwTlNGUnRibmM0VFRoNk9HazRaMlpDYlZNelJuYxAB
-Author:    Nicola Filipi
-Rating:    5
-Published: a week ago
-Text:      Love this place so fun!!! Ardit is so professional and makes sure everything is good. If you need anything make sure to ask for Ardit!!!
-Mentions:  ardit (Ardit)
