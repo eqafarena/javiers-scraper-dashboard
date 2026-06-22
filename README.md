@@ -1,13 +1,13 @@
 # Javier's Reviews Dashboard
 
-> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 13 &nbsp;|&nbsp; **Updated:** 2026-06-22 03:02:08
+> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 18 &nbsp;|&nbsp; **Updated:** 2026-06-22 11:44:20
 
 ## Staff Mentions
 
 | Name | Mentions | Avg Rating |
 |:---|:---:|:---:|
+| Ardit | 5 | 5.0 ★ |
 | Abdallah | 1 | 5.0 ★ |
-| Ardit | 1 | 5.0 ★ |
 | Bobbi | 1 | 5.0 ★ |
 | Jessica | 1 | 5.0 ★ |
 | Stela | 1 | 5.0 ★ |

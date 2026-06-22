@@ -1,18 +1,57 @@
-=== Run: 2026-06-22 03:02:08 ===
-Reviews in last 7 days: 13
+=== Run: 2026-06-22 11:44:20 ===
+Reviews in last 7 days: 18
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2xkTVNtdEdUbEpzTTBsc1J6QkNiWGs1VjJoaFMzYxAB
+Author:    William Rhymes
+Rating:    5
+Published: 6 hours ago
+Text:      The service was exactly i had wonderful night Peyton was extremely helpful. 😏 …
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT210U2NsZHpNamRhVWpaaGNFZHZSVGRCY1haaGRVRRAB
+Author:    Tianna Hass
+Rating:    5
+Published: 7 hours ago
+Text:      Great place to celebrate Father’s Day. Ardit was an outstanding server friendly, fast, and professional. We’ll be back!
+Mentions:  ardit (Ardit)
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2kxQlFsaGxZako0Y0ZWUlZEaElSVll6TmpOT1QwRRAB
+Author:    Melanie Johnson
+Rating:    5
+Published: 7 hours ago
+Text:      Came to Javier’s Downtown for Father’s Day and had an outstanding experience. The food was delicious, the drinks were excellent, and the atmosphere made for a perfect family celebration. A special thank you to Ardit for providing …
+Mentions:  ardit (Ardit)
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2prNVR6Rk9XV3BzTVVaR2RGSTRkMVpCVlMxeWQzYxAB
+Author:    Kyandra Simons
+Rating:    5
+Published: 7 hours ago
+Text:      Fantastic experience at Javier’s Downtown. The food was fresh, flavorful, and beautifully presented, and the drinks were spot on. What really made the night stand out was the exceptional service from Ardit. He was welcoming, professional, and went above and beyond to make sure we had a great time.
+Mentions:  ardit (Ardit)
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT21KQ1V6WkpOelJVZHkxd1pWSnBSMVJYTjA1TGJVRRAB
+Author:    Galoria H
+Rating:    5
+Published: 7 hours ago
+Text:      Had an amazing experience at Javier’s Downtown! The food was delicious, the drinks were excellent, and the atmosphere was perfect. A special shoutout to Ardit, who provided outstanding service from start to finish. He was attentive, friendly, knowledgeable, and made sure everything was perfect throughout our visit.
+Mentions:  ardit (Ardit)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xSMk4zQjZNVlowZEZocVQzSkJUVWRhUTNsVGVsRRAB
 Author:    Masiel Gomez
 Rating:    5
-Published: 9 minutes ago
+Published: 8 hours ago
 Text:      Excellent
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pNeGJrSlZabmRtVGtwUk0ybHBYMFkzUzJOM1gxRRAB
 Author:    Antonia Mitchellel
 Rating:    5
-Published: an hour ago
+Published: 9 hours ago
 Text:      Great atmosphere, love the decor. We have a lovely waiter, Jessica C. She made sure to check in with us throughout of dinner. This was our first time here & this def is high on our list!
 Mentions:  jessica (Jessica)
 
@@ -20,14 +59,14 @@ Mentions:  jessica (Jessica)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21sMU5XRTRRbTFtYjI5VU5FNU5WekZ4YUZwYWFuYxAB
 Author:    Senneca Scott
 Rating:    4
-Published: an hour ago
+Published: 10 hours ago
 Text:      I’m only rating a 4 cuz where are the napkins lol. I’m a clumsy girl and spilled stuff on me or had it on my hands and couldn’t clean up!. But I absolutely loved my time here. Great vibe, music and service!!
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21wSlNVRnpNblY1V2kxbFNtWjViMEpITjNscldsRRAB
 Author:    Yasma
 Rating:    5
-Published: 4 hours ago
+Published: 13 hours ago
 Text:      Friendly staff, great food, & nice ambiance! Our waiter Ardit was wonderful!
 Mentions:  ardit (Ardit)
 
@@ -35,7 +74,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT210cE1qTjBjVk5ET1hVNGNFVkVSalpOWkRSSldXYxAB
 Author:    Andrea Augustine
 Rating:    5
-Published: 10 hours ago
+Published: 19 hours ago
 Text:      I chose Javier’s for my friend’s birthday. The restaurant was absolutely beautiful and Kaylee was extremely helpful in making sure we had a great experience! Would definitely recommend for big celebrations.
 
 --- Review ---
@@ -49,7 +88,7 @@ Text:      the hostess peyton was amazing and very personable
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tkWVRXSldWSEJXZFdFMFUza3daamRtYkVFNFdYYxAB
 Author:    Chris Torrella
 Rating:    2
-Published: 2 days ago
+Published: 3 days ago
 Text:      Forced 20% included gratuity for a party of 3 is insane. If you want your burger cooked anything other than “medium well”, don’t bother asking — “the chef doesn’t take requests for custom heating of the patties.” What the hell? What is this place?
 
 --- Review ---
