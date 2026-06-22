@@ -1,18 +1,48 @@
-=== Run: 2026-06-21 19:23:58 ===
-Reviews in last 7 days: 10
+=== Run: 2026-06-22 03:02:08 ===
+Reviews in last 7 days: 13
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2xSMk4zQjZNVlowZEZocVQzSkJUVWRhUTNsVGVsRRAB
+Author:    Masiel Gomez
+Rating:    5
+Published: 9 minutes ago
+Text:      Excellent
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2pNeGJrSlZabmRtVGtwUk0ybHBYMFkzUzJOM1gxRRAB
+Author:    Antonia Mitchellel
+Rating:    5
+Published: an hour ago
+Text:      Great atmosphere, love the decor. We have a lovely waiter, Jessica C. She made sure to check in with us throughout of dinner. This was our first time here & this def is high on our list!
+Mentions:  jessica (Jessica)
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT21sMU5XRTRRbTFtYjI5VU5FNU5WekZ4YUZwYWFuYxAB
+Author:    Senneca Scott
+Rating:    4
+Published: an hour ago
+Text:      I’m only rating a 4 cuz where are the napkins lol. I’m a clumsy girl and spilled stuff on me or had it on my hands and couldn’t clean up!. But I absolutely loved my time here. Great vibe, music and service!!
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT21wSlNVRnpNblY1V2kxbFNtWjViMEpITjNscldsRRAB
+Author:    Yasma
+Rating:    5
+Published: 4 hours ago
+Text:      Friendly staff, great food, & nice ambiance! Our waiter Ardit was wonderful!
+Mentions:  ardit (Ardit)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT210cE1qTjBjVk5ET1hVNGNFVkVSalpOWkRSSldXYxAB
 Author:    Andrea Augustine
 Rating:    5
-Published: 3 hours ago
+Published: 10 hours ago
 Text:      I chose Javier’s for my friend’s birthday. The restaurant was absolutely beautiful and Kaylee was extremely helpful in making sure we had a great experience! Would definitely recommend for big celebrations.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2taNGVIQktVVFExVkY5dlRrOTZMWGxQZDFoRllWRRAB
 Author:    Rekisha Marberry
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      the hostess peyton was amazing and very personable
 
 --- Review ---
@@ -33,14 +63,14 @@ Text:      Changed up menu's.
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25oc1UyRjZOSGg1WTB0cFNtSlVaVEl3ZUcwME1sRRAB
 Author:    Amber Briggs
 Rating:    3
-Published: 5 days ago
+Published: 6 days ago
 Text:      Beautiful restaurant and atmosphere ! Some of the food dishes are definitely overpriced. Our food took a long time and wasn’t hot.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21GbmMyeEtZamc0Wm5nMGFIcDJkVnBHTkVSRllWRRAB
 Author:    Sheila Dubose
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      Our experience was everything we wanted. We were celebrating 51 yes of marriage. The staff( our waiter AB) did everything and more to make us feel good. The food was a 10 out of 10 ( two lobster tails, strip steak) one of the best we've tasted. Portion size of the sides was very large. We will be returning ❤️
 Mentions:  ab (Abdallah), stela (Stela)
 
@@ -65,10 +95,3 @@ Author:    LaVar Charleston
 Rating:    5
 Published: a week ago
 Text:      The corn ribs were phenomenal. Service was fantastic. We went on Monday during happy hour and the deals were awesome and food and cocktails were delicious. I will definitely be coming back!
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25wUWMzcHRYMmxXVlc1bGNXcGxkRmRVZUhrd1FuYxAB
-Author:    Shay F.
-Rating:    5
-Published: a week ago
-Text:      Great experience food was so good
