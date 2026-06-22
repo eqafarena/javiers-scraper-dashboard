@@ -1,18 +1,18 @@
-=== Run: 2026-06-22 16:46:15 ===
+=== Run: 2026-06-22 20:41:33 ===
 Reviews in last 7 days: 18
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xkTVNtdEdUbEpzTTBsc1J6QkNiWGs1VjJoaFMzYxAB
 Author:    William Rhymes
 Rating:    5
-Published: 11 hours ago
+Published: 14 hours ago
 Text:      The service was exactly i had wonderful night Peyton was extremely helpful. 😏 …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT210U2NsZHpNamRhVWpaaGNFZHZSVGRCY1haaGRVRRAB
 Author:    Tianna Hass
 Rating:    5
-Published: 12 hours ago
+Published: 16 hours ago
 Text:      Great place to celebrate Father’s Day. Ardit was an outstanding server friendly, fast, and professional. We’ll be back!
 Mentions:  ardit (Ardit)
 
@@ -20,7 +20,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2kxQlFsaGxZako0Y0ZWUlZEaElSVll6TmpOT1QwRRAB
 Author:    Melanie Johnson
 Rating:    5
-Published: 12 hours ago
+Published: 16 hours ago
 Text:      Came to Javier’s Downtown for Father’s Day and had an outstanding experience. The food was delicious, the drinks were excellent, and the atmosphere made for a perfect family celebration. A special thank you to Ardit for providing …
 Mentions:  ardit (Ardit)
 
@@ -28,7 +28,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2prNVR6Rk9XV3BzTVVaR2RGSTRkMVpCVlMxeWQzYxAB
 Author:    Kyandra Simons
 Rating:    5
-Published: 12 hours ago
+Published: 16 hours ago
 Text:      Fantastic experience at Javier’s Downtown. The food was fresh, flavorful, and beautifully presented, and the drinks were spot on. What really made the night stand out was the exceptional service from Ardit. He was welcoming, professional, and went above and beyond to make sure we had a great time.
 Mentions:  ardit (Ardit)
 
@@ -36,7 +36,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21KQ1V6WkpOelJVZHkxd1pWSnBSMVJYTjA1TGJVRRAB
 Author:    Galoria H
 Rating:    5
-Published: 12 hours ago
+Published: 16 hours ago
 Text:      Had an amazing experience at Javier’s Downtown! The food was delicious, the drinks were excellent, and the atmosphere was perfect. A special shoutout to Ardit, who provided outstanding service from start to finish. He was attentive, friendly, knowledgeable, and made sure everything was perfect throughout our visit.
 Mentions:  ardit (Ardit)
 
@@ -44,14 +44,14 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xSMk4zQjZNVlowZEZocVQzSkJUVWRhUTNsVGVsRRAB
 Author:    Masiel Gomez
 Rating:    5
-Published: 13 hours ago
+Published: 17 hours ago
 Text:      Excellent
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pNeGJrSlZabmRtVGtwUk0ybHBYMFkzUzJOM1gxRRAB
 Author:    Antonia Mitchellel
 Rating:    5
-Published: 14 hours ago
+Published: 18 hours ago
 Text:      Great atmosphere, love the decor. We have a lovely waiter, Jessica C. She made sure to check in with us throughout of dinner. This was our first time here & this def is high on our list!
 Mentions:  jessica (Jessica)
 
@@ -59,14 +59,14 @@ Mentions:  jessica (Jessica)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21sMU5XRTRRbTFtYjI5VU5FNU5WekZ4YUZwYWFuYxAB
 Author:    Senneca Scott
 Rating:    4
-Published: 15 hours ago
+Published: 19 hours ago
 Text:      I’m only rating a 4 cuz where are the napkins lol. I’m a clumsy girl and spilled stuff on me or had it on my hands and couldn’t clean up!. But I absolutely loved my time here. Great vibe, music and service!!
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21wSlNVRnpNblY1V2kxbFNtWjViMEpITjNscldsRRAB
 Author:    Yasma
 Rating:    5
-Published: 18 hours ago
+Published: 22 hours ago
 Text:      Friendly staff, great food, & nice ambiance! Our waiter Ardit was wonderful!
 Mentions:  ardit (Ardit)
 
