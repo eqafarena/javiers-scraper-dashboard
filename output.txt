@@ -1,11 +1,11 @@
-=== Run: 2026-06-24 14:15:21 ===
+=== Run: 2026-06-24 19:33:16 ===
 Reviews in last 7 days: 18
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2toSFRFcHJUMVZrUkRkQlUycFRTQzFUUm1KM05FRRAB
 Author:    AVIONNA Williams
 Rating:    1
-Published: 23 hours ago
+Published: a day ago
 Text:      I was very disappointed with my experience from start to finish.
 
 My boyfriend ordered a burger, and I ordered a steak cooked well done. We were …
@@ -84,7 +84,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT210cE1qTjBjVk5ET1hVNGNFVkVSalpOWkRSSldXYxAB
 Author:    Andrea Augustine
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      I chose Javier’s for my friend’s birthday. The restaurant was absolutely beautiful and Kaylee was extremely helpful in making sure we had a great experience! Would definitely recommend for big celebrations.
 
 --- Review ---
