@@ -1,11 +1,11 @@
-=== Run: 2026-06-23 19:57:24 ===
+=== Run: 2026-06-24 02:38:29 ===
 Reviews in last 7 days: 18
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2toSFRFcHJUMVZrUkRkQlUycFRTQzFUUm1KM05FRRAB
 Author:    AVIONNA Williams
 Rating:    1
-Published: 5 hours ago
+Published: 12 hours ago
 Text:      I was very disappointed with my experience from start to finish.
 
 My boyfriend ordered a burger, and I ordered a steak cooked well done. We were …
@@ -61,7 +61,7 @@ Text:      Excellent
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pNeGJrSlZabmRtVGtwUk0ybHBYMFkzUzJOM1gxRRAB
 Author:    Antonia Mitchellel
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      Great atmosphere, love the decor. We have a lovely waiter, Jessica C. She made sure to check in with us throughout of dinner. This was our first time here & this def is high on our list!
 Mentions:  jessica (Jessica)
 
@@ -69,14 +69,14 @@ Mentions:  jessica (Jessica)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21sMU5XRTRRbTFtYjI5VU5FNU5WekZ4YUZwYWFuYxAB
 Author:    Senneca Scott
 Rating:    4
-Published: a day ago
+Published: 2 days ago
 Text:      I’m only rating a 4 cuz where are the napkins lol. I’m a clumsy girl and spilled stuff on me or had it on my hands and couldn’t clean up!. But I absolutely loved my time here. Great vibe, music and service!!
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21wSlNVRnpNblY1V2kxbFNtWjViMEpITjNscldsRRAB
 Author:    Yasma
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      Friendly staff, great food, & nice ambiance! Our waiter Ardit was wonderful!
 Mentions:  ardit (Ardit)
 
@@ -91,7 +91,7 @@ Text:      I chose Javier’s for my friend’s birthday. The restaurant was abs
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2taNGVIQktVVFExVkY5dlRrOTZMWGxQZDFoRllWRRAB
 Author:    Rekisha Marberry
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      the hostess peyton was amazing and very personable
 
 --- Review ---
