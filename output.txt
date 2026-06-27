@@ -1,25 +1,25 @@
-=== Run: 2026-06-27 02:36:21 ===
+=== Run: 2026-06-27 08:34:22 ===
 Reviews in last 7 days: 20
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25aWmRXZHBUMWswVkRaRGFISkhSbXQ0YlRsSVRrRRAB
 Author:    TaiLour
 Rating:    5
-Published: an hour ago
+Published: 7 hours ago
 Text:      LILLIE DID HER THANG! Food came fresh, correct, and her attitude was everything plus more ! Thanks Lillie !
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT210eFFXeGFlVVpQY1c5T05uaFVPRkIzWVdORWRsRRAB
 Author:    Caira Walker
 Rating:    5
-Published: an hour ago
+Published: 7 hours ago
 Text:      Javier’s was beautiful! I loved the atmosphere and our server Lillie was so sweet and super attentive. I will definitely be back!
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pGS05IcGFYM1JGUnpKSVowRTRkbEI2Ym1OSldIYxAB
 Author:    MISTER
 Rating:    3
-Published: 10 hours ago
+Published: 16 hours ago
 Text:      Recently, my wife and I visited our first time for lunch on her birthday. Ambiance and layout were very nice! There wasn’t a host at the entrance…we waited for a while then finally walked to the bar area and asked if anyone was working the …
 
 --- Review ---
@@ -36,14 +36,14 @@ Mentions:  stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xkTVNtdEdUbEpzTTBsc1J6QkNiWGs1VjJoaFMzYxAB
 Author:    William Rhymes
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      The service was exactly i had wonderful night Peyton was extremely helpful. 😏 …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT210U2NsZHpNamRhVWpaaGNFZHZSVGRCY1haaGRVRRAB
 Author:    Tianna Hass
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      Great place to celebrate Father’s Day. Ardit was an outstanding server friendly, fast, and professional. We’ll be back!
 Mentions:  ardit (Ardit)
 
@@ -51,7 +51,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2kxQlFsaGxZako0Y0ZWUlZEaElSVll6TmpOT1QwRRAB
 Author:    Melanie Johnson
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      Came to Javier’s Downtown for Father’s Day and had an outstanding experience. The food was delicious, the drinks were excellent, and the atmosphere made for a perfect family celebration. A special thank you to Ardit for providing …
 Mentions:  ardit (Ardit)
 
@@ -59,7 +59,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2prNVR6Rk9XV3BzTVVaR2RGSTRkMVpCVlMxeWQzYxAB
 Author:    Kyandra Simons
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      Fantastic experience at Javier’s Downtown. The food was fresh, flavorful, and beautifully presented, and the drinks were spot on. What really made the night stand out was the exceptional service from Ardit. He was welcoming, professional, and went above and beyond to make sure we had a great time.
 Mentions:  ardit (Ardit)
 
@@ -67,7 +67,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21KQ1V6WkpOelJVZHkxd1pWSnBSMVJYTjA1TGJVRRAB
 Author:    Galoria H
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      Had an amazing experience at Javier’s Downtown! The food was delicious, the drinks were excellent, and the atmosphere was perfect. A special shoutout to Ardit, who provided outstanding service from start to finish. He was attentive, friendly, knowledgeable, and made sure everything was perfect throughout our visit.
 Mentions:  ardit (Ardit)
 
@@ -75,7 +75,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xSMk4zQjZNVlowZEZocVQzSkJUVWRhUTNsVGVsRRAB
 Author:    Masiel Gomez
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      Excellent
 
 --- Review ---
