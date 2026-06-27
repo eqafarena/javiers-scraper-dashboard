@@ -1,11 +1,25 @@
-=== Run: 2026-06-26 19:35:27 ===
-Reviews in last 7 days: 19
+=== Run: 2026-06-27 02:36:21 ===
+Reviews in last 7 days: 20
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25aWmRXZHBUMWswVkRaRGFISkhSbXQ0YlRsSVRrRRAB
+Author:    TaiLour
+Rating:    5
+Published: an hour ago
+Text:      LILLIE DID HER THANG! Food came fresh, correct, and her attitude was everything plus more ! Thanks Lillie !
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT210eFFXeGFlVVpQY1c5T05uaFVPRkIzWVdORWRsRRAB
+Author:    Caira Walker
+Rating:    5
+Published: an hour ago
+Text:      Javier’s was beautiful! I loved the atmosphere and our server Lillie was so sweet and super attentive. I will definitely be back!
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pGS05IcGFYM1JGUnpKSVowRTRkbEI2Ym1OSldIYxAB
 Author:    MISTER
 Rating:    3
-Published: 3 hours ago
+Published: 10 hours ago
 Text:      Recently, my wife and I visited our first time for lunch on her birthday. Ambiance and layout were very nice! There wasn’t a host at the entrance…we waited for a while then finally walked to the bar area and asked if anyone was working the …
 
 --- Review ---
@@ -68,7 +82,7 @@ Text:      Excellent
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pNeGJrSlZabmRtVGtwUk0ybHBYMFkzUzJOM1gxRRAB
 Author:    Antonia Mitchellel
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      Great atmosphere, love the decor. We have a lovely waiter, Jessica C. She made sure to check in with us throughout of dinner. This was our first time here & this def is high on our list!
 Mentions:  jessica (Jessica)
 
@@ -76,14 +90,14 @@ Mentions:  jessica (Jessica)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21sMU5XRTRRbTFtYjI5VU5FNU5WekZ4YUZwYWFuYxAB
 Author:    Senneca Scott
 Rating:    4
-Published: 4 days ago
+Published: 5 days ago
 Text:      I’m only rating a 4 cuz where are the napkins lol. I’m a clumsy girl and spilled stuff on me or had it on my hands and couldn’t clean up!. But I absolutely loved my time here. Great vibe, music and service!!
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21wSlNVRnpNblY1V2kxbFNtWjViMEpITjNscldsRRAB
 Author:    Yasma
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      Friendly staff, great food, & nice ambiance! Our waiter Ardit was wonderful!
 Mentions:  ardit (Ardit)
 
@@ -98,7 +112,7 @@ Text:      I chose Javier’s for my friend’s birthday. The restaurant was abs
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2taNGVIQktVVFExVkY5dlRrOTZMWGxQZDFoRllWRRAB
 Author:    Rekisha Marberry
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      the hostess peyton was amazing and very personable
 
 --- Review ---
@@ -137,10 +151,3 @@ Rating:    5
 Published: a week ago
 Text:      Bobby was awesome!
 Mentions:  bobbi (Bobbi)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2pFNU1VeGZaRTU1VVZCZmQwODVSRkl0VkVGbFNrRRAB
-Author:    Taijanai Watts
-Rating:    1
-Published: a week ago
-Text:      very bad, overly priced. didn’t let me get liquor on my 21st birthday even though the id showed that it was my birthday and was clearly me. 0/10 never again but
