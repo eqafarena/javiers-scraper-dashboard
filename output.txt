@@ -1,18 +1,18 @@
-=== Run: 2026-06-28 13:27:19 ===
+=== Run: 2026-06-28 19:12:50 ===
 Reviews in last 7 days: 29
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21FMFFUQnFlWE5DYzNsU1RIVnlabTkyVTNoSlYwRRAB
 Author:    Brenda Brenner
 Rating:    1
-Published: an hour ago
+Published: 7 hours ago
 Text:      Went there for daughter’s birthday dinner. For the price of the food the quality is poor. Lamb chops were fatty, 3 people said there was more fat than meat. My salmon had seasoning dumped on top of it, not cooked into it. Lobster rice, rice …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pOeldubDVWM1l4UW5Cd1NIaHlhamxDWW05V09IYxAB
 Author:    Ashely
 Rating:    5
-Published: 12 hours ago
+Published: 17 hours ago
 Text:      We had a great experience here! The food was delicious, and the service was outstanding. Simon took such great care of us—he was friendly, attentive, and made sure we had everything we needed. He really made our visit enjoyable. We’ll definitely be coming back. Thank you, Simon!
 Mentions:  simon (Simon)
 
@@ -20,7 +20,7 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pJNWRYTmxaR0kyZHpkTFNEVndlamt0U2xWak1tYxAB
 Author:    Athraa Toma
 Rating:    5
-Published: 13 hours ago
+Published: 18 hours ago
 Text:      Simon was a great server! We came in on a busy Saturday, but he was still friendly, attentive, and made sure we had everything we needed. He checked on us throughout our meal, and everything came out quickly. He made our experience really enjoyable.
 Mentions:  simon (Simon)
 
@@ -28,7 +28,7 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pkWFJrdzVVa2h5ZDJWWFFYSmlRbGRpWlhwTU9WRRAB
 Author:    Raniah Wardi
 Rating:    5
-Published: 13 hours ago
+Published: 19 hours ago
 Text:      Great vibes and great service! Simon provided exceptional service during the time we were there. He was attentive, friendly, and made sure all our needs were met promptly no matter how busy they were. His positive attitude and professionalism really enhanced our dining experience.
 Mentions:  simon (Simon)
 
@@ -36,7 +36,7 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21WSldsOTJRa1Z0ZFVsUmMyVlJhalJ5TjFScGNHYxAB
 Author:    Maryam Shamoon
 Rating:    5
-Published: 13 hours ago
+Published: 19 hours ago
 Text:      Amazing experience at Javier’s Downtown! The food was delicious, the atmosphere was beautiful, and the service was excellent. Simon was especially attentive, friendly, and made sure we had everything we needed throughout our visit. He truly made our experience even better. We will definitely be coming back!
 Mentions:  simon (Simon)
 
@@ -44,7 +44,7 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21VelVuRjZlV0oxYlZsd1EyWXRkVWxHUlZsSWVGRRAB
 Author:    sarmad zaya
 Rating:    5
-Published: 13 hours ago
+Published: 19 hours ago
 Text:      Had an amazing experience! Simon provided outstanding service from the moment we sat down. He friendly, attentive, and made sure we had everything we needed throughout our meal. He checked in often without being overbearing, had great …
 Mentions:  simon (Simon)
 
@@ -52,7 +52,7 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25Nd1VtWk9NRTV6Wm1WTWNVdEtaRVpsT0hrdE1tYxAB
 Author:    Sam Y
 Rating:    5
-Published: 13 hours ago
+Published: 19 hours ago
 Text:      Simon was a great waiter. One of the best experiences I’ve had coming in was having Simon. If you go here ask for him!
 Mentions:  simon (Simon)
 
@@ -60,7 +60,7 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25OME1WTlBhMjQxYURFeWRsWXplVEozUjA1QmVHYxAB
 Author:    Stevie
 Rating:    5
-Published: 14 hours ago
+Published: 19 hours ago
 Text:      Simon was knowledgeable about the menu and gave great recommendations that really improved our meal. The food came out quickly, and he made the whole experience smooth and enjoyable. You can tell he takes pride in his work and genuinely cares about customers having a good time.
 Mentions:  simon (Simon), stella (Stela)
 
@@ -68,7 +68,7 @@ Mentions:  simon (Simon), stella (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tZd1Jsa3piMHhyTjFnME5XODFiRTE0T0hCM1YyYxAB
 Author:    Mikele Dalziel
 Rating:    5
-Published: 14 hours ago
+Published: 19 hours ago
 Text:      Unreal service by Simon, must have a lot of experience In this industry. Food came out quick, clean, but most importantly fresh! Definitely will be coming back because of this! Ask for Simon if you consider trying this place out.
 Mentions:  simon (Simon)
 
@@ -76,7 +76,7 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2taVWRTMVlVVmxSUjNkNlIyeG9WR1ZoYW5wc1dXYxAB
 Author:    Steven Zaya
 Rating:    5
-Published: 14 hours ago
+Published: 19 hours ago
 Text:      Simon took care of us with excellent service!
 Mentions:  simon (Simon)
 
@@ -98,14 +98,14 @@ Text:      Javier’s was beautiful! I loved the atmosphere and our server Lilli
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pGS05IcGFYM1JGUnpKSVowRTRkbEI2Ym1OSldIYxAB
 Author:    MISTER
 Rating:    3
-Published: a day ago
+Published: 2 days ago
 Text:      Recently, my wife and I visited our first time for lunch on her birthday. Ambiance and layout were very nice! There wasn’t a host at the entrance…we waited for a while then finally walked to the bar area and asked if anyone was working the …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2toSFRFcHJUMVZrUkRkQlUycFRTQzFUUm1KM05FRRAB
 Author:    AVIONNA Williams
 Rating:    1
-Published: 4 days ago
+Published: 5 days ago
 Text:      I was very disappointed with my experience from start to finish.
 
 My boyfriend ordered a burger, and I ordered a steak cooked well done. We were …
@@ -184,7 +184,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT210cE1qTjBjVk5ET1hVNGNFVkVSalpOWkRSSldXYxAB
 Author:    Andrea Augustine
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      I chose Javier’s for my friend’s birthday. The restaurant was absolutely beautiful and Kaylee was extremely helpful in making sure we had a great experience! Would definitely recommend for big celebrations.
 
 --- Review ---
