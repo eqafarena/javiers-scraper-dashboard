@@ -1,18 +1,18 @@
-=== Run: 2026-06-29 15:39:56 ===
+=== Run: 2026-06-29 19:51:10 ===
 Reviews in last 7 days: 35
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2s4eE5sVXRSMmxXVUVaMVVUbHZjMnAxUzBsRGRsRRAB
 Author:    Alex Jordan
 Rating:    5
-Published: Edited 11 hours ago
+Published: Edited 15 hours ago
 Text:      Had a great time for my brother's bachelor dinner. Food was great, service was top notch and they had a very nice selection to choose from. Definitely will be going here again!
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2taME0wcE9TMjVyTm1SWWRsWmpOM2REVlV0SFRrRRAB
 Author:    katherine galvez
 Rating:    5
-Published: 11 hours ago
+Published: 16 hours ago
 Text:      first time here & it was an amazing time food and service was top tier! Bobbi was our server and she was wonderful!
 Mentions:  bobbi (Bobbi)
 
@@ -20,14 +20,14 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pWU1JEZzBWbE5DV1d4VVprSkpjWFJuVlRoeWFHYxAB
 Author:    Nia Reid-Allen
 Rating:    5
-Published: 15 hours ago
+Published: 19 hours ago
 Text:      It was good
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pWTVRHWlBjekJxUzNsV2NYaFhhRTFsU25OS1JYYxAB
 Author:    Jasma Motley
 Rating:    5
-Published: 15 hours ago
+Published: 19 hours ago
 Text:      Bobbi was an amazing server great recommendations, articulate, friendly and positive energy. Definitely made our first experience memorable. Looking forward to coming here again!
 Mentions:  bobbi (Bobbi)
 
@@ -35,7 +35,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pJeWVGVmpWa1Z0TkhCamFXZEZPV3RNTFZSQ2FWRRAB
 Author:    wanda hughley
 Rating:    5
-Published: 16 hours ago
+Published: 20 hours ago
 Text:      We arrived early and it wasn’t a problem to seat us. The waitress Bobbi was very efficient and charming, would love her to serve us again.
 Mentions:  bobbi (Bobbi)
 
@@ -43,14 +43,14 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2twNlJtSlVOMlJmUVZKS2RYZFBRbWxGVkMxc01uYxAB
 Author:    Karen Moore
 Rating:    5
-Published: 18 hours ago
+Published: 23 hours ago
 Text:      Our server was wonderful & very attentive! I haven’t had service like this in a long time‼️
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tGNVNrdHNRbEJ1V0RWalpDMUlVek5LYWtWalRYYxAB
 Author:    victoria johnson
 Rating:    5
-Published: 18 hours ago
+Published: 23 hours ago
 Text:      Bobby was excellent. She was very attentive, professional and caring about our experience here at the restaurant. Vicky JOHNSON.
 Mentions:  bobbi (Bobbi)
 
@@ -151,7 +151,7 @@ Text:      Javier’s was beautiful! I loved the atmosphere and our server Lilli
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pGS05IcGFYM1JGUnpKSVowRTRkbEI2Ym1OSldIYxAB
 Author:    MISTER
 Rating:    3
-Published: 2 days ago
+Published: 3 days ago
 Text:      Recently, my wife and I visited our first time for lunch on her birthday. Ambiance and layout were very nice! There wasn’t a host at the entrance…we waited for a while then finally walked to the bar area and asked if anyone was working the …
 
 --- Review ---
