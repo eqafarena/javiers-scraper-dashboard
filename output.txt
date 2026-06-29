@@ -1,18 +1,33 @@
-=== Run: 2026-06-29 02:49:48 ===
-Reviews in last 7 days: 33
+=== Run: 2026-06-29 10:32:10 ===
+Reviews in last 7 days: 35
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2s4eE5sVXRSMmxXVUVaMVVUbHZjMnAxUzBsRGRsRRAB
+Author:    Alex Jordan
+Rating:    5
+Published: Edited 6 hours ago
+Text:      Had a great time for my brother's bachelor dinner. Food was great, service was top notch and they had a very nice selection to choose from. Definitely will be going here again!
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2taME0wcE9TMjVyTm1SWWRsWmpOM2REVlV0SFRrRRAB
+Author:    katherine galvez
+Rating:    5
+Published: 6 hours ago
+Text:      first time here & it was an amazing time food and service was top tier! Bobbi was our server and she was wonderful!
+Mentions:  bobbi (Bobbi)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pWU1JEZzBWbE5DV1d4VVprSkpjWFJuVlRoeWFHYxAB
 Author:    Nia Reid-Allen
 Rating:    5
-Published: 2 hours ago
+Published: 10 hours ago
 Text:      It was good
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pWTVRHWlBjekJxUzNsV2NYaFhhRTFsU25OS1JYYxAB
 Author:    Jasma Motley
 Rating:    5
-Published: 2 hours ago
+Published: 10 hours ago
 Text:      Bobbi was an amazing server great recommendations, articulate, friendly and positive energy. Definitely made our first experience memorable. Looking forward to coming here again!
 Mentions:  bobbi (Bobbi)
 
@@ -20,7 +35,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pJeWVGVmpWa1Z0TkhCamFXZEZPV3RNTFZSQ2FWRRAB
 Author:    wanda hughley
 Rating:    5
-Published: 3 hours ago
+Published: 11 hours ago
 Text:      We arrived early and it wasn’t a problem to seat us. The waitress Bobbi was very efficient and charming, would love her to serve us again.
 Mentions:  bobbi (Bobbi)
 
@@ -28,14 +43,14 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2twNlJtSlVOMlJmUVZKS2RYZFBRbWxGVkMxc01uYxAB
 Author:    Karen Moore
 Rating:    5
-Published: 6 hours ago
+Published: 13 hours ago
 Text:      Our server was wonderful & very attentive! I haven’t had service like this in a long time‼️
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tGNVNrdHNRbEJ1V0RWalpDMUlVek5LYWtWalRYYxAB
 Author:    victoria johnson
 Rating:    5
-Published: 6 hours ago
+Published: 13 hours ago
 Text:      Bobby was excellent. She was very attentive, professional and caring about our experience here at the restaurant. Vicky JOHNSON.
 Mentions:  bobbi (Bobbi)
 
@@ -43,7 +58,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21FMFFUQnFlWE5DYzNsU1RIVnlabTkyVTNoSlYwRRAB
 Author:    Brenda Brenner
 Rating:    1
-Published: 14 hours ago
+Published: 22 hours ago
 Text:      Went there for daughter’s birthday dinner. For the price of the food the quality is poor. Lamb chops were fatty, 3 people said there was more fat than meat. My salmon had seasoning dumped on top of it, not cooked into it. Lobster rice, rice …
 
 --- Review ---
@@ -153,14 +168,14 @@ Mentions:  stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xkTVNtdEdUbEpzTTBsc1J6QkNiWGs1VjJoaFMzYxAB
 Author:    William Rhymes
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      The service was exactly i had wonderful night Peyton was extremely helpful. 😏 …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT210U2NsZHpNamRhVWpaaGNFZHZSVGRCY1haaGRVRRAB
 Author:    Tianna Hass
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      Great place to celebrate Father’s Day. Ardit was an outstanding server friendly, fast, and professional. We’ll be back!
 Mentions:  ardit (Ardit)
 
@@ -168,7 +183,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2kxQlFsaGxZako0Y0ZWUlZEaElSVll6TmpOT1QwRRAB
 Author:    Melanie Johnson
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      Came to Javier’s Downtown for Father’s Day and had an outstanding experience. The food was delicious, the drinks were excellent, and the atmosphere made for a perfect family celebration. A special thank you to Ardit for providing …
 Mentions:  ardit (Ardit)
 
@@ -176,7 +191,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2prNVR6Rk9XV3BzTVVaR2RGSTRkMVpCVlMxeWQzYxAB
 Author:    Kyandra Simons
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      Fantastic experience at Javier’s Downtown. The food was fresh, flavorful, and beautifully presented, and the drinks were spot on. What really made the night stand out was the exceptional service from Ardit. He was welcoming, professional, and went above and beyond to make sure we had a great time.
 Mentions:  ardit (Ardit)
 
@@ -184,7 +199,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21KQ1V6WkpOelJVZHkxd1pWSnBSMVJYTjA1TGJVRRAB
 Author:    Galoria H
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      Had an amazing experience at Javier’s Downtown! The food was delicious, the drinks were excellent, and the atmosphere was perfect. A special shoutout to Ardit, who provided outstanding service from start to finish. He was attentive, friendly, knowledgeable, and made sure everything was perfect throughout our visit.
 Mentions:  ardit (Ardit)
 
@@ -192,7 +207,7 @@ Mentions:  ardit (Ardit)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xSMk4zQjZNVlowZEZocVQzSkJUVWRhUTNsVGVsRRAB
 Author:    Masiel Gomez
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      Excellent
 
 --- Review ---

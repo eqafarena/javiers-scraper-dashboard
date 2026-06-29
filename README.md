@@ -1,6 +1,6 @@
 # Javier's Reviews Dashboard
 
-> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 33 &nbsp;|&nbsp; **Updated:** 2026-06-29 02:49:48
+> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 35 &nbsp;|&nbsp; **Updated:** 2026-06-29 10:32:10
 
 ## Staff Mentions
 
@@ -8,7 +8,7 @@
 |:---|:---:|:---:|
 | Simon | 9 | 5.0 ★ |
 | Ardit | 5 | 5.0 ★ |
-| Bobbi | 3 | 5.0 ★ |
+| Bobbi | 4 | 5.0 ★ |
 | Stela | 2 | 3.0 ★ |
 | Jessica | 1 | 5.0 ★ |
 
