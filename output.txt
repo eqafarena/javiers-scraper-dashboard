@@ -1,18 +1,18 @@
-=== Run: 2026-06-30 02:43:51 ===
+=== Run: 2026-06-30 09:04:13 ===
 Reviews in last 7 days: 34
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2s4eE5sVXRSMmxXVUVaMVVUbHZjMnAxUzBsRGRsRRAB
 Author:    Alex Jordan
 Rating:    5
-Published: Edited 22 hours ago
+Published: Edited a day ago
 Text:      Had a great time for my brother's bachelor dinner. Food was great, service was top notch and they had a very nice selection to choose from. Definitely will be going here again!
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2taME0wcE9TMjVyTm1SWWRsWmpOM2REVlV0SFRrRRAB
 Author:    katherine galvez
 Rating:    5
-Published: 22 hours ago
+Published: a day ago
 Text:      first time here & it was an amazing time food and service was top tier! Bobbi was our server and she was wonderful!
 Mentions:  bobbi (Bobbi)
 
