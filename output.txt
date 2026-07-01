@@ -1,4 +1,4 @@
-=== Run: 2026-06-30 19:49:19 ===
+=== Run: 2026-07-01 02:48:56 ===
 Reviews in last 7 days: 33
 
 --- Review ---
@@ -20,14 +20,14 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pWU1JEZzBWbE5DV1d4VVprSkpjWFJuVlRoeWFHYxAB
 Author:    Nia Reid-Allen
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      It was good
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pWTVRHWlBjekJxUzNsV2NYaFhhRTFsU25OS1JYYxAB
 Author:    Jasma Motley
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      Bobbi was an amazing server great recommendations, articulate, friendly and positive energy. Definitely made our first experience memorable. Looking forward to coming here again!
 Mentions:  bobbi (Bobbi)
 
@@ -35,7 +35,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pJeWVGVmpWa1Z0TkhCamFXZEZPV3RNTFZSQ2FWRRAB
 Author:    wanda hughley
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      We arrived early and it wasn’t a problem to seat us. The waitress Bobbi was very efficient and charming, would love her to serve us again.
 Mentions:  bobbi (Bobbi)
 
@@ -43,14 +43,14 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2twNlJtSlVOMlJmUVZKS2RYZFBRbWxGVkMxc01uYxAB
 Author:    Karen Moore
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      Our server was wonderful & very attentive! I haven’t had service like this in a long time‼️
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tGNVNrdHNRbEJ1V0RWalpDMUlVek5LYWtWalRYYxAB
 Author:    victoria johnson
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      Bobby was excellent. She was very attentive, professional and caring about our experience here at the restaurant. Vicky JOHNSON.
 Mentions:  bobbi (Bobbi)
 
@@ -65,7 +65,7 @@ Text:      Went there for daughter’s birthday dinner. For the price of the foo
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pOeldubDVWM1l4UW5Cd1NIaHlhamxDWW05V09IYxAB
 Author:    Ashely
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      We had a great experience here! The food was delicious, and the service was outstanding. Simon took such great care of us—he was friendly, attentive, and made sure we had everything we needed. He really made our visit enjoyable. We’ll definitely be coming back. Thank you, Simon!
 Mentions:  simon (Simon)
 
@@ -73,7 +73,7 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pJNWRYTmxaR0kyZHpkTFNEVndlamt0U2xWak1tYxAB
 Author:    Athraa Toma
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Simon was a great server! We came in on a busy Saturday, but he was still friendly, attentive, and made sure we had everything we needed. He checked on us throughout our meal, and everything came out quickly. He made our experience really enjoyable.
 Mentions:  simon (Simon)
 
@@ -81,7 +81,7 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pkWFJrdzVVa2h5ZDJWWFFYSmlRbGRpWlhwTU9WRRAB
 Author:    Raniah Wardi
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Great vibes and great service! Simon provided exceptional service during the time we were there. He was attentive, friendly, and made sure all our needs were met promptly no matter how busy they were. His positive attitude and professionalism really enhanced our dining experience.
 Mentions:  simon (Simon)
 
@@ -89,7 +89,7 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21WSldsOTJRa1Z0ZFVsUmMyVlJhalJ5TjFScGNHYxAB
 Author:    Maryam Shamoon
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Amazing experience at Javier’s Downtown! The food was delicious, the atmosphere was beautiful, and the service was excellent. Simon was especially attentive, friendly, and made sure we had everything we needed throughout our visit. He truly made our experience even better. We will definitely be coming back!
 Mentions:  simon (Simon)
 
@@ -97,7 +97,7 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21VelVuRjZlV0oxYlZsd1EyWXRkVWxHUlZsSWVGRRAB
 Author:    sarmad zaya
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Had an amazing experience! Simon provided outstanding service from the moment we sat down. He friendly, attentive, and made sure we had everything we needed throughout our meal. He checked in often without being overbearing, had great …
 Mentions:  simon (Simon)
 
@@ -105,7 +105,7 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25Nd1VtWk9NRTV6Wm1WTWNVdEtaRVpsT0hrdE1tYxAB
 Author:    Sam Y
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Simon was a great waiter. One of the best experiences I’ve had coming in was having Simon. If you go here ask for him!
 Mentions:  simon (Simon)
 
@@ -113,7 +113,7 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25OME1WTlBhMjQxYURFeWRsWXplVEozUjA1QmVHYxAB
 Author:    Stevie
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Simon was knowledgeable about the menu and gave great recommendations that really improved our meal. The food came out quickly, and he made the whole experience smooth and enjoyable. You can tell he takes pride in his work and genuinely cares about customers having a good time.
 Mentions:  simon (Simon), stella (Stela)
 
@@ -121,7 +121,7 @@ Mentions:  simon (Simon), stella (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tZd1Jsa3piMHhyTjFnME5XODFiRTE0T0hCM1YyYxAB
 Author:    Mikele Dalziel
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Unreal service by Simon, must have a lot of experience In this industry. Food came out quick, clean, but most importantly fresh! Definitely will be coming back because of this! Ask for Simon if you consider trying this place out.
 Mentions:  simon (Simon)
 
@@ -129,7 +129,7 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2taVWRTMVlVVmxSUjNkNlIyeG9WR1ZoYW5wc1dXYxAB
 Author:    Steven Zaya
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Simon took care of us with excellent service!
 Mentions:  simon (Simon)
 
@@ -137,14 +137,14 @@ Mentions:  simon (Simon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25aWmRXZHBUMWswVkRaRGFISkhSbXQ0YlRsSVRrRRAB
 Author:    TaiLour
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      LILLIE DID HER THANG! Food came fresh, correct, and her attitude was everything plus more ! Thanks Lillie !
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT210eFFXeGFlVVpQY1c5T05uaFVPRkIzWVdORWRsRRAB
 Author:    Caira Walker
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      Javier’s was beautiful! I loved the atmosphere and our server Lillie was so sweet and super attentive. I will definitely be back!
 
 --- Review ---
