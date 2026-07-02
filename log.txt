@@ -1,29 +1,29 @@
-2026-07-01 19:42:17  INFO      === Javier's Review Scraper Starting ===
-2026-07-01 19:42:17  INFO      Loaded 37 name variants to match.
-2026-07-01 19:42:18  INFO      Warming up via Google homepage...
-2026-07-01 19:42:21  INFO      Navigating to Javier's reviews...
-2026-07-01 19:42:21  INFO      Waiting for page to fully render...
-2026-07-01 19:42:32  INFO      Page title: Javier’s Downtown - Google Maps
-2026-07-01 19:42:32  INFO      Current URL: https://www.google.com/maps/place/Javier%E2%80%99s+Downtown/@42.3368423,-83.0476069,16z/data=!4m8!3m7!1s0x883b2db5aa8d2b05:0x8123192805412075!8m2!3d42.3368384!4d-83.045032!9m1!1b1!16s%2Fg%2F11y4q2xl14?entry=ttu&g_ep=EgoyMDI2MDYyOC4wIKXMDSoASAFQAw%3D%3D
-2026-07-01 19:42:32  INFO      Found scroll container with 30 children.
-2026-07-01 19:42:38  INFO      Sorted by newest.
-2026-07-01 19:42:38  INFO      Scroll target centre: (264, 445)
-2026-07-01 19:42:38  INFO      Scrolling and collecting reviews...
-2026-07-01 19:42:44  INFO        Unique reviews collected: 9
-2026-07-01 19:42:50  INFO        Unique reviews collected: 19
-2026-07-01 19:42:56  INFO        Unique reviews collected: 19
-2026-07-01 19:43:07  INFO        Unique reviews collected: 28
-2026-07-01 19:43:18  INFO        Unique reviews collected: 28
-2026-07-01 19:43:28  INFO        Unique reviews collected: 28
-2026-07-01 19:43:48  INFO        Unique reviews collected: 36
-2026-07-01 19:44:07  INFO        Unique reviews collected: 36
-2026-07-01 19:44:27  INFO        Unique reviews collected: 36
-2026-07-01 19:45:07  INFO        Unique reviews collected: 41
-2026-07-01 19:45:47  INFO        Unique reviews collected: 41
-2026-07-01 19:46:28  INFO        Unique reviews collected: 41
-2026-07-01 19:47:17  INFO      Scrolled past the lookback window, stopping early.
-2026-07-01 19:47:17  INFO      Done. Total unique reviews collected: 49
-2026-07-01 19:47:17  INFO      Scraped 49 total. 34 within the last 7 days.
-2026-07-01 19:47:17  INFO      Saved 34 reviews to output.txt.
-2026-07-01 19:47:17  INFO      Dashboard written to README.md (6 staff members mentioned).
-2026-07-01 19:47:17  INFO      === Done ===
+2026-07-02 02:33:38  INFO      === Javier's Review Scraper Starting ===
+2026-07-02 02:33:38  INFO      Loaded 37 name variants to match.
+2026-07-02 02:33:39  INFO      Warming up via Google homepage...
+2026-07-02 02:33:42  INFO      Navigating to Javier's reviews...
+2026-07-02 02:33:42  INFO      Waiting for page to fully render...
+2026-07-02 02:33:53  INFO      Page title: Javier’s Downtown - Google Maps
+2026-07-02 02:33:53  INFO      Current URL: https://www.google.com/maps/place/Javier%E2%80%99s+Downtown/@42.3368423,-83.0476069,16z/data=!4m8!3m7!1s0x883b2db5aa8d2b05:0x8123192805412075!8m2!3d42.3368384!4d-83.045032!9m1!1b1!16s%2Fg%2F11y4q2xl14?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D
+2026-07-02 02:33:53  INFO      Found scroll container with 30 children.
+2026-07-02 02:33:58  INFO      Sorted by newest.
+2026-07-02 02:33:58  INFO      Scroll target centre: (264, 445)
+2026-07-02 02:33:58  INFO      Scrolling and collecting reviews...
+2026-07-02 02:34:04  INFO        Unique reviews collected: 9
+2026-07-02 02:34:10  INFO        Unique reviews collected: 19
+2026-07-02 02:34:17  INFO        Unique reviews collected: 19
+2026-07-02 02:34:27  INFO        Unique reviews collected: 28
+2026-07-02 02:34:38  INFO        Unique reviews collected: 28
+2026-07-02 02:34:48  INFO        Unique reviews collected: 28
+2026-07-02 02:35:07  INFO        Unique reviews collected: 36
+2026-07-02 02:35:26  INFO        Unique reviews collected: 36
+2026-07-02 02:35:45  INFO        Unique reviews collected: 36
+2026-07-02 02:36:24  INFO        Unique reviews collected: 41
+2026-07-02 02:37:03  INFO        Unique reviews collected: 41
+2026-07-02 02:37:43  INFO        Unique reviews collected: 41
+2026-07-02 02:38:30  INFO      Scrolled past the lookback window, stopping early.
+2026-07-02 02:38:30  INFO      Done. Total unique reviews collected: 49
+2026-07-02 02:38:30  INFO      Scraped 49 total. 34 within the last 7 days.
+2026-07-02 02:38:30  INFO      Saved 34 reviews to output.txt.
+2026-07-02 02:38:30  INFO      Dashboard written to README.md (6 staff members mentioned).
+2026-07-02 02:38:30  INFO      === Done ===
