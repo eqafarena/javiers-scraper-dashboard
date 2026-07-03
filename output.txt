@@ -1,11 +1,11 @@
-=== Run: 2026-07-03 02:14:31 ===
-Reviews in last 7 days: 36
+=== Run: 2026-07-03 08:56:38 ===
+Reviews in last 7 days: 35
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xKMlZpMXZXazVHUW5SWVpqUTRhbkpDU0RkbGFtYxAB
 Author:    Maya Hackney
 Rating:    5
-Published: 12 minutes ago
+Published: 6 hours ago
 Text:      Very hot in here but the place is beautiful! Bobbi was amazing and so sweet! We traveled from Ohio to see the concert and this place was lovely to visit!
 Mentions:  bobbi (Bobbi)
 
@@ -13,7 +13,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pReGNXTlhNR0ZuUW1WUVNuaG1NR3BUZERKVlYyYxAB
 Author:    Taylor Meredith
 Rating:    1
-Published: 3 hours ago
+Published: 9 hours ago
 Text:      I am incredibly disappointed with my experience at Javier’s. From start to finish, the service and food fell far below expectations.
 Our drinks took approximately 55 minutes to arrive, which set the tone for the …
 
@@ -29,14 +29,14 @@ Mentions:  ali (Ali)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2s4eE5sVXRSMmxXVUVaMVVUbHZjMnAxUzBsRGRsRRAB
 Author:    Alex Jordan
 Rating:    5
-Published: Edited 3 days ago
+Published: Edited 4 days ago
 Text:      Had a great time for my brother's bachelor dinner. Food was great, service was top notch and they had a very nice selection to choose from. Definitely will be going here again!
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2taME0wcE9TMjVyTm1SWWRsWmpOM2REVlV0SFRrRRAB
 Author:    katherine galvez
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      first time here & it was an amazing time food and service was top tier! Bobbi was our server and she was wonderful!
 Mentions:  bobbi (Bobbi)
 
@@ -270,10 +270,3 @@ Author:    Rekisha Marberry
 Rating:    5
 Published: a week ago
 Text:      the hostess peyton was amazing and very personable
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2tkWVRXSldWSEJXZFdFMFUza3daamRtYkVFNFdYYxAB
-Author:    Chris Torrella
-Rating:    2
-Published: a week ago
-Text:      Forced 20% included gratuity for a party of 3 is insane. If you want your burger cooked anything other than “medium well”, don’t bother asking — “the chef doesn’t take requests for custom heating of the patties.” What the hell? What is this place?
