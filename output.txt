@@ -1,18 +1,18 @@
-=== Run: 2026-07-05 13:20:48 ===
-Reviews in last 7 days: 38
+=== Run: 2026-07-05 19:09:20 ===
+Reviews in last 7 days: 37
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21JNWRuQkxaVlZMVm1obVVIZGpiR3h4Y3pWdmVuYxAB
 Author:    f j
 Rating:    1
-Published: 6 hours ago
+Published: 11 hours ago
 Text:      This place is by far the worst place I’ve ever been in in my whole life , they charge you 35 dollars just to be there/ they charge you 20% gratuity, food eh music was garbage and we requested the manager 3 times till he his assistant showed up . What a shame please take my advice and go elsewhere
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xGbmVraENiV3A0VTNwd01sSTRUbk5qTW5JM1FtYxAB
 Author:    Ctgb
 Rating:    5
-Published: 21 hours ago
+Published: a day ago
 Text:      I had a wonderful meal at Javier’s Downtown, and it was a great addition to my time in Detroit. The atmosphere was lively, welcoming, and full of positive energy. I ordered a combination of tacos and enchiladas, and everything was fresh, …
 
 --- Review ---
@@ -50,7 +50,7 @@ Our drinks took approximately 55 minutes to arrive, which set the tone for the �
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2poTmRWcGxXSFpoVTBKcFZVZExjbFpRY3poMk1FRRAB
 Author:    Dennis Lenhart
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      This was our first time at Javier’s and it was a wonderful experience, made even better by our waiter Ali explaining each item we ordered to perfection. The drinks and food were amazing and we will certainly be back.
 Mentions:  ali (Ali)
 
@@ -285,10 +285,3 @@ Rating:    5
 Published: a week ago
 Text:      Friendly staff, great food, & nice ambiance! Our waiter Ardit was wonderful!
 Mentions:  ardit (Ardit)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT210cE1qTjBjVk5ET1hVNGNFVkVSalpOWkRSSldXYxAB
-Author:    Andrea Augustine
-Rating:    5
-Published: a week ago
-Text:      I chose Javier’s for my friend’s birthday. The restaurant was absolutely beautiful and Kaylee was extremely helpful in making sure we had a great experience! Would definitely recommend for big celebrations.
