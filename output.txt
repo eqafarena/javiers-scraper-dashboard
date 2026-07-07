@@ -1,11 +1,11 @@
-=== Run: 2026-07-06 19:49:59 ===
+=== Run: 2026-07-07 02:20:08 ===
 Reviews in last 7 days: 29
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT214MU1WSnhjalpvYzFSd2RVZFZhVTR3Wlhkc1NVRRAB
 Author:    Darrius Washington
 Rating:    4
-Published: 16 hours ago
+Published: 22 hours ago
 Text:      Pros:Nice ambiance. Great food. Good customer service.
 Con: Maybe pricy for some but the pros make it worth it. Don't go during an event. I waited 2 hours for my meal. Appetizer and drinks came in good timing. I was …
 
@@ -34,7 +34,7 @@ Text:      This was my 2nd time visiting this establishment. Once solo, on a slo
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tOTlNFOVFXREpqYVhaalRHSkpORkZZV0U0eVNuYxAB
 Author:    Porchia Mulligan
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Bobbi was great!
 Mentions:  bobbi (Bobbi)
 
@@ -42,7 +42,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xKMlZpMXZXazVHUW5SWVpqUTRhbkpDU0RkbGFtYxAB
 Author:    Maya Hackney
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      Very hot in here but the place is beautiful! Bobbi was amazing and so sweet! We traveled from Ohio to see the concert and this place was lovely to visit!
 Mentions:  bobbi (Bobbi)
 
@@ -50,7 +50,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pReGNXTlhNR0ZuUW1WUVNuaG1NR3BUZERKVlYyYxAB
 Author:    Taylor Meredith
 Rating:    1
-Published: 3 days ago
+Published: 4 days ago
 Text:      I am incredibly disappointed with my experience at Javier’s. From start to finish, the service and food fell far below expectations.
 Our drinks took approximately 55 minutes to arrive, which set the tone for the …
 
