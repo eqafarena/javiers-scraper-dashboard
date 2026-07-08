@@ -1,6 +1,6 @@
 # Javier's Reviews Dashboard
 
-> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 28 &nbsp;|&nbsp; **Updated:** 2026-07-07 19:48:54
+> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 29 &nbsp;|&nbsp; **Updated:** 2026-07-08 02:00:16
 
 ## Staff Mentions
 
@@ -9,6 +9,7 @@
 | Simon | 9 | 5.0 ★ |
 | Bobbi | 6 | 5.0 ★ |
 | Ali | 1 | 5.0 ★ |
+| Sarah | 1 | 5.0 ★ |
 | Stela | 1 | 5.0 ★ |
 
 ---

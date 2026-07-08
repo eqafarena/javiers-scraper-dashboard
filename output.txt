@@ -1,5 +1,14 @@
-=== Run: 2026-07-07 19:48:54 ===
-Reviews in last 7 days: 28
+=== Run: 2026-07-08 02:00:16 ===
+Reviews in last 7 days: 29
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2xNNVkzWlNRazVsT0VGdlRFeElNM2RWWTBsMGNIYxAB
+Author:    Darius Collins
+Rating:    5
+Published: 4 hours ago
+Text:      One of the best places to eat and vibe at in downtown Detroit. Will definitely revisit!
+Sara, the hostess was awesome
+Mentions:  sarah (Sarah)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT214MU1WSnhjalpvYzFSd2RVZFZhVTR3Wlhkc1NVRRAB
@@ -34,7 +43,7 @@ Text:      This was my 2nd time visiting this establishment. Once solo, on a slo
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tOTlNFOVFXREpqYVhaalRHSkpORkZZV0U0eVNuYxAB
 Author:    Porchia Mulligan
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      Bobbi was great!
 Mentions:  bobbi (Bobbi)
 
@@ -50,7 +59,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pReGNXTlhNR0ZuUW1WUVNuaG1NR3BUZERKVlYyYxAB
 Author:    Taylor Meredith
 Rating:    1
-Published: 4 days ago
+Published: 5 days ago
 Text:      I am incredibly disappointed with my experience at Javier’s. From start to finish, the service and food fell far below expectations.
 Our drinks took approximately 55 minutes to arrive, which set the tone for the …
 
