@@ -1,11 +1,19 @@
-=== Run: 2026-07-08 19:16:11 ===
+=== Run: 2026-07-09 02:13:58 ===
 Reviews in last 7 days: 29
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2twNlJtSlVOMlJmUVZKS2RYZFBRbWxGVkMxc01uYxAB
+Author:    Karen Moore
+Rating:    5
+Published: Edited 6 hours ago
+Text:      Our server Bobby was wonderful & very attentive! I haven’t had service like this in a long time‼️ The food was excellent & matched the high quality service! In our party of 4, all of us enjoyed our meal!
+Mentions:  bobbi (Bobbi)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xNNVkzWlNRazVsT0VGdlRFeElNM2RWWTBsMGNIYxAB
 Author:    Darius Collins
 Rating:    5
-Published: 19 hours ago
+Published: a day ago
 Text:      One of the best places to eat and vibe at in downtown Detroit. Will definitely revisit!
 Sara, the hostess was awesome
 Mentions:  sarah (Sarah)
@@ -43,7 +51,7 @@ Text:      This was my 2nd time visiting this establishment. Once solo, on a slo
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tOTlNFOVFXREpqYVhaalRHSkpORkZZV0U0eVNuYxAB
 Author:    Porchia Mulligan
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      Bobbi was great!
 Mentions:  bobbi (Bobbi)
 
@@ -51,7 +59,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xKMlZpMXZXazVHUW5SWVpqUTRhbkpDU0RkbGFtYxAB
 Author:    Maya Hackney
 Rating:    5
-Published: 5 days ago
+Published: 6 days ago
 Text:      Very hot in here but the place is beautiful! Bobbi was amazing and so sweet! We traveled from Ohio to see the concert and this place was lovely to visit!
 Mentions:  bobbi (Bobbi)
 
@@ -59,7 +67,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pReGNXTlhNR0ZuUW1WUVNuaG1NR3BUZERKVlYyYxAB
 Author:    Taylor Meredith
 Rating:    1
-Published: 5 days ago
+Published: 6 days ago
 Text:      I am incredibly disappointed with my experience at Javier’s. From start to finish, the service and food fell far below expectations.
 Our drinks took approximately 55 minutes to arrive, which set the tone for the …
 
@@ -108,13 +116,6 @@ Rating:    5
 Published: a week ago
 Text:      We arrived early and it wasn’t a problem to seat us. The waitress Bobbi was very efficient and charming, would love her to serve us again.
 Mentions:  bobbi (Bobbi)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2twNlJtSlVOMlJmUVZKS2RYZFBRbWxGVkMxc01uYxAB
-Author:    Karen Moore
-Rating:    5
-Published: a week ago
-Text:      Our server was wonderful & very attentive! I haven’t had service like this in a long time‼️
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tGNVNrdHNRbEJ1V0RWalpDMUlVek5LYWtWalRYYxAB
