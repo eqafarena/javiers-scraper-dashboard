@@ -1,5 +1,12 @@
-=== Run: 2026-07-10 02:13:20 ===
-Reviews in last 7 days: 29
+=== Run: 2026-07-10 09:25:27 ===
+Reviews in last 7 days: 30
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2xSbU0wZEdZM0pUT0VGVmRsVk5jREl0WDBoRVRYYxAB
+Author:    Ghadeer Atshan
+Rating:    1
+Published: 3 hours ago
+Text:      We were extremely disappointed to discover what felt like a hidden fee on our bill. Be aware of the hidden gratuity calculation! Our bill was discounted from $257 to $120 during happy hour, but the restaurant still charged a 20% automatic …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2twNlJtSlVOMlJmUVZKS2RYZFBRbWxGVkMxc01uYxAB
@@ -22,7 +29,7 @@ Mentions:  sarah (Sarah)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT214MU1WSnhjalpvYzFSd2RVZFZhVTR3Wlhkc1NVRRAB
 Author:    Darrius Washington
 Rating:    4
-Published: 3 days ago
+Published: 4 days ago
 Text:      Pros:Nice ambiance. Great food. Good customer service.
 Con: Maybe pricy for some but the pros make it worth it. Don't go during an event. I waited 2 hours for my meal. Appetizer and drinks came in good timing. I was …
 
@@ -30,7 +37,7 @@ Con: Maybe pricy for some but the pros make it worth it. Don't go during an even
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21JNWRuQkxaVlZMVm1obVVIZGpiR3h4Y3pWdmVuYxAB
 Author:    f j
 Rating:    1
-Published: 4 days ago
+Published: 5 days ago
 Text:      This place is by far the worst place I’ve ever been in in my whole life , they charge you 35 dollars just to be there/ they charge you 20% gratuity, food eh music was garbage and we requested the manager 3 times till he his assistant showed up . What a shame please take my advice and go elsewhere
 
 --- Review ---
@@ -44,7 +51,7 @@ Text:      I had a wonderful meal at Javier’s Downtown, and it was a great add
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2psclJXMU1hRkppVmpCcVVsZG9YemxhTXpoR1IxRRAB
 Author:    Angelica Proffett
 Rating:    1
-Published: 5 days ago
+Published: 6 days ago
 Text:      This was my 2nd time visiting this establishment. Once solo, on a slow night and the other time today, before the RnB concert. …
 
 --- Review ---
