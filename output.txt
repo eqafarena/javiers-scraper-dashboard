@@ -1,32 +1,39 @@
-=== Run: 2026-07-11 18:52:07 ===
-Reviews in last 7 days: 29
+=== Run: 2026-07-12 02:00:08 ===
+Reviews in last 7 days: 21
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25wdVUyUjBUa1ZNZDNaTWRYUmFiRzVCWWpCaVRuYxAB
+Author:    Chandice Wallace
+Rating:    1
+Published: 6 hours ago
+Text:      DO NOT GO TO THIS PLACE AT HAPPY HOUR. THEY DECEIVE YOU BY ADVERTISING CHEAPER PRICES ON DRINKS AND APPETIZERS AT HALF OFF. ONCE THE BILL COMES, THEY ADD 20% GRATUITY TO THE ORIGINAL PRICE OF THE ITEMS. THIS IS RIDICULOUS. I'VE NEVER HEARD …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xSbU0wZEdZM0pUT0VGVmRsVk5jREl0WDBoRVRYYxAB
 Author:    Ghadeer Atshan
 Rating:    1
-Published: Edited 6 hours ago
+Published: Edited 13 hours ago
 Text:      We were extremely disappointed to discover what felt like a hidden fee on our bill. Be aware of the hidden gratuity calculation! Our bill was discounted from $257 to $120 during happy hour, but the restaurant still charged a 20% automatic …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25Sa2VtWk1aMnQyT0hWNVVESTJUa3h2TnpoWk0xRRAB
 Author:    chloe H
 Rating:    1
-Published: 17 hours ago
+Published: a day ago
 Text:      This place is NOT worth the amount of money they have you pay. We waited for over an hour for below average food. Our steaks were all cooked wrong and none of the food was warm. With a place this nice on the outside, I expect the food to …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT205bFNqZFpObU5KY2pab2RsTnRWRlJCWlhoNlYxRRAB
 Author:    suvi sebastian22
 Rating:    5
-Published: 17 hours ago
+Published: a day ago
 Text:      We had a wonderful experience at this restaurant! The food was absolutely delicious, every dish was fresh, flavorful. What made the visit even more special was the warm and comfortable atmosphere, which allowed us to sit for a long time with our friends and enjoy our meal without feeling rushed.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2twNlJtSlVOMlJmUVZKS2RYZFBRbWxGVkMxc01uYxAB
 Author:    Karen Moore
 Rating:    5
-Published: Edited 2 days ago
+Published: Edited 3 days ago
 Text:      Our server Bobby was wonderful & very attentive! I haven’t had service like this in a long time‼️ The food was excellent & matched the high quality service! In our party of 4, all of us enjoyed our meal!
 Mentions:  bobbi (Bobbi)
 
@@ -34,7 +41,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xNNVkzWlNRazVsT0VGdlRFeElNM2RWWTBsMGNIYxAB
 Author:    Darius Collins
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      One of the best places to eat and vibe at in downtown Detroit. Will definitely revisit!
 Sara, the hostess was awesome
 Mentions:  sarah (Sarah)
@@ -152,75 +159,3 @@ Author:    Brenda Brenner
 Rating:    1
 Published: a week ago
 Text:      Went there for daughter’s birthday dinner. For the price of the food the quality is poor. Lamb chops were fatty, 3 people said there was more fat than meat. My salmon had seasoning dumped on top of it, not cooked into it. Lobster rice, rice …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2pOeldubDVWM1l4UW5Cd1NIaHlhamxDWW05V09IYxAB
-Author:    Ashely
-Rating:    5
-Published: a week ago
-Text:      We had a great experience here! The food was delicious, and the service was outstanding. Simon took such great care of us—he was friendly, attentive, and made sure we had everything we needed. He really made our visit enjoyable. We’ll definitely be coming back. Thank you, Simon!
-Mentions:  simon (Simon)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2pJNWRYTmxaR0kyZHpkTFNEVndlamt0U2xWak1tYxAB
-Author:    Athraa Toma
-Rating:    5
-Published: a week ago
-Text:      Simon was a great server! We came in on a busy Saturday, but he was still friendly, attentive, and made sure we had everything we needed. He checked on us throughout our meal, and everything came out quickly. He made our experience really enjoyable.
-Mentions:  simon (Simon)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2pkWFJrdzVVa2h5ZDJWWFFYSmlRbGRpWlhwTU9WRRAB
-Author:    Raniah Wardi
-Rating:    5
-Published: a week ago
-Text:      Great vibes and great service! Simon provided exceptional service during the time we were there. He was attentive, friendly, and made sure all our needs were met promptly no matter how busy they were. His positive attitude and professionalism really enhanced our dining experience.
-Mentions:  simon (Simon)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT21WSldsOTJRa1Z0ZFVsUmMyVlJhalJ5TjFScGNHYxAB
-Author:    Maryam Shamoon
-Rating:    5
-Published: a week ago
-Text:      Amazing experience at Javier’s Downtown! The food was delicious, the atmosphere was beautiful, and the service was excellent. Simon was especially attentive, friendly, and made sure we had everything we needed throughout our visit. He truly made our experience even better. We will definitely be coming back!
-Mentions:  simon (Simon)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT21VelVuRjZlV0oxYlZsd1EyWXRkVWxHUlZsSWVGRRAB
-Author:    sarmad zaya
-Rating:    5
-Published: a week ago
-Text:      Had an amazing experience! Simon provided outstanding service from the moment we sat down. He friendly, attentive, and made sure we had everything we needed throughout our meal. He checked in often without being overbearing, had great …
-Mentions:  simon (Simon)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25Nd1VtWk9NRTV6Wm1WTWNVdEtaRVpsT0hrdE1tYxAB
-Author:    Sam Y
-Rating:    5
-Published: a week ago
-Text:      Simon was a great waiter. One of the best experiences I’ve had coming in was having Simon. If you go here ask for him!
-Mentions:  simon (Simon)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25OME1WTlBhMjQxYURFeWRsWXplVEozUjA1QmVHYxAB
-Author:    Stevie
-Rating:    5
-Published: a week ago
-Text:      Simon was knowledgeable about the menu and gave great recommendations that really improved our meal. The food came out quickly, and he made the whole experience smooth and enjoyable. You can tell he takes pride in his work and genuinely cares about customers having a good time.
-Mentions:  simon (Simon), stella (Stela)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2tZd1Jsa3piMHhyTjFnME5XODFiRTE0T0hCM1YyYxAB
-Author:    Mikele Dalziel
-Rating:    5
-Published: a week ago
-Text:      Unreal service by Simon, must have a lot of experience In this industry. Food came out quick, clean, but most importantly fresh! Definitely will be coming back because of this! Ask for Simon if you consider trying this place out.
-Mentions:  simon (Simon)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2taVWRTMVlVVmxSUjNkNlIyeG9WR1ZoYW5wc1dXYxAB
-Author:    Steven Zaya
-Rating:    5
-Published: a week ago
-Text:      Simon took care of us with excellent service!
-Mentions:  simon (Simon)
