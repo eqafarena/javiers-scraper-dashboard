@@ -1,11 +1,11 @@
-=== Run: 2026-07-13 02:01:17 ===
-Reviews in last 7 days: 17
+=== Run: 2026-07-13 08:55:13 ===
+Reviews in last 7 days: 15
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2t0NlgxRlRjMFZyVFhWYVgxQk5ja3A2T1RkdGFVRRAB
 Author:    Stephanie
 Rating:    2
-Published: 11 hours ago
+Published: 18 hours ago
 Text:      I went for my anniversary with the idea that we could eat and stay for the live entertainment on Saturday as advertised on social media and on their website. We made reservations at 8pm with the idea that we could stay for the live …
 
 --- Review ---
@@ -57,7 +57,7 @@ Mentions:  sarah (Sarah)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT214MU1WSnhjalpvYzFSd2RVZFZhVTR3Wlhkc1NVRRAB
 Author:    Darrius Washington
 Rating:    4
-Published: 6 days ago
+Published: a week ago
 Text:      Pros:Nice ambiance. Great food. Good customer service.
 Con: Maybe pricy for some but the pros make it worth it. Don't go during an event. I waited 2 hours for my meal. Appetizer and drinks came in good timing. I was …
 
@@ -113,18 +113,3 @@ Rating:    5
 Published: a week ago
 Text:      This was our first time at Javier’s and it was a wonderful experience, made even better by our waiter Ali explaining each item we ordered to perfection. The drinks and food were amazing and we will certainly be back.
 Mentions:  ali (Ali)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2s4eE5sVXRSMmxXVUVaMVVUbHZjMnAxUzBsRGRsRRAB
-Author:    Alex Jordan
-Rating:    5
-Published: Edited a week ago
-Text:      Had a great time for my brother's bachelor dinner. Food was great, service was top notch and they had a very nice selection to choose from. Definitely will be going here again!
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2taME0wcE9TMjVyTm1SWWRsWmpOM2REVlV0SFRrRRAB
-Author:    katherine galvez
-Rating:    5
-Published: a week ago
-Text:      first time here & it was an amazing time food and service was top tier! Bobbi was our server and she was wonderful!
-Mentions:  bobbi (Bobbi)
