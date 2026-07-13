@@ -1,18 +1,18 @@
-=== Run: 2026-07-12 18:56:29 ===
-Reviews in last 7 days: 21
+=== Run: 2026-07-13 02:01:17 ===
+Reviews in last 7 days: 17
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2t0NlgxRlRjMFZyVFhWYVgxQk5ja3A2T1RkdGFVRRAB
 Author:    Stephanie
 Rating:    2
-Published: 4 hours ago
+Published: 11 hours ago
 Text:      I went for my anniversary with the idea that we could eat and stay for the live entertainment on Saturday as advertised on social media and on their website. We made reservations at 8pm with the idea that we could stay for the live …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25wdVUyUjBUa1ZNZDNaTWRYUmFiRzVCWWpCaVRuYxAB
 Author:    Chandice Wallace
 Rating:    1
-Published: 23 hours ago
+Published: a day ago
 Text:      DO NOT GO TO THIS PLACE AT HAPPY HOUR. THEY DECEIVE YOU BY ADVERTISING CHEAPER PRICES ON DRINKS AND APPETIZERS AT HALF OFF. ONCE THE BILL COMES, THEY ADD 20% GRATUITY TO THE ORIGINAL PRICE OF THE ITEMS. THIS IS RIDICULOUS. I'VE NEVER HEARD …
 
 --- Review ---
@@ -26,21 +26,21 @@ Text:      We were extremely disappointed to discover what felt like a hidden fe
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25Sa2VtWk1aMnQyT0hWNVVESTJUa3h2TnpoWk0xRRAB
 Author:    chloe H
 Rating:    1
-Published: a day ago
+Published: 2 days ago
 Text:      This place is NOT worth the amount of money they have you pay. We waited for over an hour for below average food. Our steaks were all cooked wrong and none of the food was warm. With a place this nice on the outside, I expect the food to …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT205bFNqZFpObU5KY2pab2RsTnRWRlJCWlhoNlYxRRAB
 Author:    suvi sebastian22
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      We had a wonderful experience at this restaurant! The food was absolutely delicious, every dish was fresh, flavorful. What made the visit even more special was the warm and comfortable atmosphere, which allowed us to sit for a long time with our friends and enjoy our meal without feeling rushed.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2twNlJtSlVOMlJmUVZKS2RYZFBRbWxGVkMxc01uYxAB
 Author:    Karen Moore
 Rating:    5
-Published: Edited 3 days ago
+Published: Edited 4 days ago
 Text:      Our server Bobby was wonderful & very attentive! I haven’t had service like this in a long time‼️ The food was excellent & matched the high quality service! In our party of 4, all of us enjoyed our meal!
 Mentions:  bobbi (Bobbi)
 
@@ -48,7 +48,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xNNVkzWlNRazVsT0VGdlRFeElNM2RWWTBsMGNIYxAB
 Author:    Darius Collins
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      One of the best places to eat and vibe at in downtown Detroit. Will definitely revisit!
 Sara, the hostess was awesome
 Mentions:  sarah (Sarah)
@@ -127,35 +127,4 @@ Author:    katherine galvez
 Rating:    5
 Published: a week ago
 Text:      first time here & it was an amazing time food and service was top tier! Bobbi was our server and she was wonderful!
-Mentions:  bobbi (Bobbi)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2pWU1JEZzBWbE5DV1d4VVprSkpjWFJuVlRoeWFHYxAB
-Author:    Nia Reid-Allen
-Rating:    5
-Published: a week ago
-Text:      It was good
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2pWTVRHWlBjekJxUzNsV2NYaFhhRTFsU25OS1JYYxAB
-Author:    Jasma Motley
-Rating:    5
-Published: a week ago
-Text:      Bobbi was an amazing server great recommendations, articulate, friendly and positive energy. Definitely made our first experience memorable. Looking forward to coming here again!
-Mentions:  bobbi (Bobbi)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2pJeWVGVmpWa1Z0TkhCamFXZEZPV3RNTFZSQ2FWRRAB
-Author:    wanda hughley
-Rating:    5
-Published: a week ago
-Text:      We arrived early and it wasn’t a problem to seat us. The waitress Bobbi was very efficient and charming, would love her to serve us again.
-Mentions:  bobbi (Bobbi)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2tGNVNrdHNRbEJ1V0RWalpDMUlVek5LYWtWalRYYxAB
-Author:    victoria johnson
-Rating:    5
-Published: a week ago
-Text:      Bobby was excellent. She was very attentive, professional and caring about our experience here at the restaurant. Vicky JOHNSON.
 Mentions:  bobbi (Bobbi)
