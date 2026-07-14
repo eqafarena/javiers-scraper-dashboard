@@ -1,4 +1,4 @@
-=== Run: 2026-07-14 07:51:30 ===
+=== Run: 2026-07-14 13:16:22 ===
 Reviews in last 7 days: 15
 
 --- Review ---
@@ -19,7 +19,7 @@ Text:      DO NOT GO TO THIS PLACE AT HAPPY HOUR. THEY DECEIVE YOU BY ADVERTISIN
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xSbU0wZEdZM0pUT0VGVmRsVk5jREl0WDBoRVRYYxAB
 Author:    Ghadeer Atshan
 Rating:    1
-Published: Edited 2 days ago
+Published: Edited 3 days ago
 Text:      We were extremely disappointed to discover what felt like a hidden fee on our bill. Be aware of the hidden gratuity calculation! Our bill was discounted from $257 to $120 during happy hour, but the restaurant still charged a 20% automatic …
 
 --- Review ---
