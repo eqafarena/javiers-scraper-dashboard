@@ -1,11 +1,11 @@
-=== Run: 2026-07-15 07:54:48 ===
+=== Run: 2026-07-15 13:20:10 ===
 Reviews in last 7 days: 16
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21jNVdIRnNValZIYzJJd1VIZzJNREZGYldScWRsRRAB
 Author:    Don Demarcco
 Rating:    5
-Published: 10 hours ago
+Published: 15 hours ago
 Text:      This place is beautiful inside and out parking was amazing The decorum is just wonderful my waiter are deep was very nice they have all the great drinks you could want a nice mix of cocktails!
 
 --- Review ---
@@ -26,7 +26,7 @@ Text:      DO NOT GO TO THIS PLACE AT HAPPY HOUR. THEY DECEIVE YOU BY ADVERTISIN
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xSbU0wZEdZM0pUT0VGVmRsVk5jREl0WDBoRVRYYxAB
 Author:    Ghadeer Atshan
 Rating:    1
-Published: Edited 3 days ago
+Published: Edited 4 days ago
 Text:      We were extremely disappointed to discover what felt like a hidden fee on our bill. Be aware of the hidden gratuity calculation! Our bill was discounted from $257 to $120 during happy hour, but the restaurant still charged a 20% automatic …
 
 --- Review ---
