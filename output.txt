@@ -1,11 +1,11 @@
-=== Run: 2026-07-18 12:58:20 ===
+=== Run: 2026-07-18 18:53:54 ===
 Reviews in last 7 days: 15
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2podk1qQkNXazEzTFdSU05VeHFObWxZWWpRd05IYxAB
 Author:    Paula W
 Rating:    5
-Published: 9 hours ago
+Published: 15 hours ago
 Text:      Branzino was top tier. Yousef was thee best server and the DJ was lit🔥🔥🔥 our bday dinner turned into a dance party. …
 Mentions:  yousef (Yousef)
 
@@ -13,14 +13,14 @@ Mentions:  yousef (Yousef)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25ZdE5YcHlkR1pTYVd4VmQzYzFRVWgzTUhSMmIwRRAB
 Author:    Willie S Clark III
 Rating:    5
-Published: 9 hours ago
+Published: 15 hours ago
 Text:      The experience was definitely worth the time!!! They accommodate every situation, the restaurant is alive and transforms with the crowd!!! I highly recommend Javier’s the lobster fried rice with the garlic butter was my selection.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pKT2FtMDBiMDV5ZVRKUVJ6UnpibTl5TkdFM05HYxAB
 Author:    Aaron Pugh
 Rating:    5
-Published: 9 hours ago
+Published: 15 hours ago
 Text:      Yousif is incredible. Ask for him. Also the DJ is amazing! Please check this place out if you’re in Detroit
 Mentions:  yousef (Yousef)
 
@@ -28,7 +28,7 @@ Mentions:  yousef (Yousef)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2s1a1JEQlphVFZoVkdsWVEwbFRUWEZ1YmtkaGEzYxAB
 Author:    Rodney Townsend
 Rating:    3
-Published: 14 hours ago
+Published: 20 hours ago
 Text:      Had the new York steak and must say look good but tasted like nothing at all.
 Mentions:  stela (Stela)
 
@@ -36,7 +36,7 @@ Mentions:  stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xWTUxYWk5ZelY2U1dsVGExbDNUMGhCVldoalJWRRAB
 Author:    Kania Kerma
 Rating:    5
-Published: 15 hours ago
+Published: 21 hours ago
 Text:      It looks very nice 🙂💯 …
 
 --- Review ---
@@ -57,7 +57,7 @@ Text:      This place is beautiful inside and out parking was amazing The decoru
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2t0NlgxRlRjMFZyVFhWYVgxQk5ja3A2T1RkdGFVRRAB
 Author:    Stephanie
 Rating:    2
-Published: 5 days ago
+Published: 6 days ago
 Text:      I went for my anniversary with the idea that we could eat and stay for the live entertainment on Saturday as advertised on social media and on their website. We made reservations at 8pm with the idea that we could stay for the live …
 
 --- Review ---
