@@ -1,11 +1,34 @@
-=== Run: 2026-07-18 01:48:28 ===
-Reviews in last 7 days: 13
+=== Run: 2026-07-18 07:31:27 ===
+Reviews in last 7 days: 15
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2podk1qQkNXazEzTFdSU05VeHFObWxZWWpRd05IYxAB
+Author:    Paula W
+Rating:    5
+Published: 4 hours ago
+Text:      Branzino was top tier. Yousef was thee best server and the DJ was lit🔥🔥🔥 our bday dinner turned into a dance party. …
+Mentions:  yousef (Yousef)
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25ZdE5YcHlkR1pTYVd4VmQzYzFRVWgzTUhSMmIwRRAB
+Author:    Willie S Clark III
+Rating:    5
+Published: 4 hours ago
+Text:      The experience was definitely worth the time!!! They accommodate every situation, the restaurant is alive and transforms with the crowd!!! I highly recommend Javier’s the lobster fried rice with the garlic butter was my selection.
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2pKT2FtMDBiMDV5ZVRKUVJ6UnpibTl5TkdFM05HYxAB
+Author:    Aaron Pugh
+Rating:    5
+Published: 4 hours ago
+Text:      Yousif is incredible. Ask for him. Also the DJ is amazing! Please check this place out if you’re in Detroit
+Mentions:  yousef (Yousef)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2s1a1JEQlphVFZoVkdsWVEwbFRUWEZ1YmtkaGEzYxAB
 Author:    Rodney Townsend
 Rating:    3
-Published: 3 hours ago
+Published: 9 hours ago
 Text:      Had the new York steak and must say look good but tasted like nothing at all.
 Mentions:  stela (Stela)
 
@@ -13,7 +36,7 @@ Mentions:  stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xWTUxYWk5ZelY2U1dsVGExbDNUMGhCVldoalJWRRAB
 Author:    Kania Kerma
 Rating:    5
-Published: 4 hours ago
+Published: 9 hours ago
 Text:      It looks very nice 🙂💯 …
 
 --- Review ---
@@ -89,10 +112,3 @@ Rating:    4
 Published: a week ago
 Text:      Pros:Nice ambiance. Great food. Good customer service.
 Con: Maybe pricy for some but the pros make it worth it. Don't go during an event. I waited 2 hours for my meal. Appetizer and drinks came in good timing. I was …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2psclJXMU1hRkppVmpCcVVsZG9YemxhTXpoR1IxRRAB
-Author:    Angelica Proffett
-Rating:    1
-Published: a week ago
-Text:      This was my 2nd time visiting this establishment. Once solo, on a slow night and the other time today, before the RnB concert. …
