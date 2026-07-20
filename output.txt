@@ -1,18 +1,25 @@
-=== Run: 2026-07-20 02:13:58 ===
+=== Run: 2026-07-20 08:45:43 ===
 Reviews in last 7 days: 17
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT214TGFqYzNVVE5DZUdFMVdIUnNlSHBOVVZkVlpFRRAB
+Author:    Danielle Mosby
+Rating:    4
+Published: 2 hours ago
+Text:      The food and vibe were good. I give it a 8/10. I believe the wait staff could be more attentive. Overall, I enjoyed myself and would definitely recommend. The esthetics were perfect for date night
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tkT2QwaElUa05GU21WR2FHOUZXVGhTVld0c2JuYxAB
 Author:    Natasha Jones
 Rating:    3
-Published: 14 hours ago
+Published: 20 hours ago
 Text:      The food was meh.. They didn't have oysters. My Medium well filet was perfect. Ambiance was nice. Sunday was advertised as live jazz. There was no jazz. The sat us directly behind a table of atleast 20 ppl. We were so clise together you …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2podk1qQkNXazEzTFdSU05VeHFObWxZWWpRd05IYxAB
 Author:    Paula W
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      Branzino was top tier. Yousef was thee best server and the DJ was lit🔥🔥🔥 our bday dinner turned into a dance party. …
 Mentions:  yousef (Yousef)
 
@@ -20,14 +27,14 @@ Mentions:  yousef (Yousef)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25ZdE5YcHlkR1pTYVd4VmQzYzFRVWgzTUhSMmIwRRAB
 Author:    Willie S Clark III
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      The experience was definitely worth the time!!! They accommodate every situation, the restaurant is alive and transforms with the crowd!!! I highly recommend Javier’s the lobster fried rice with the garlic butter was my selection.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pKT2FtMDBiMDV5ZVRKUVJ6UnpibTl5TkdFM05HYxAB
 Author:    Aaron Pugh
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      Yousif is incredible. Ask for him. Also the DJ is amazing! Please check this place out if you’re in Detroit
 Mentions:  yousef (Yousef)
 
@@ -119,11 +126,3 @@ Published: a week ago
 Text:      One of the best places to eat and vibe at in downtown Detroit. Will definitely revisit!
 Sara, the hostess was awesome
 Mentions:  sarah (Sarah)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT214MU1WSnhjalpvYzFSd2RVZFZhVTR3Wlhkc1NVRRAB
-Author:    Darrius Washington
-Rating:    4
-Published: a week ago
-Text:      Pros:Nice ambiance. Great food. Good customer service.
-Con: Maybe pricy for some but the pros make it worth it. Don't go during an event. I waited 2 hours for my meal. Appetizer and drinks came in good timing. I was …
