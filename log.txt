@@ -1,22 +1,22 @@
-2026-07-19 18:54:13  INFO      === Javier's Review Scraper Starting ===
-2026-07-19 18:54:13  INFO      Loaded 37 name variants to match.
-2026-07-19 18:54:13  INFO      Warming up via Google homepage...
-2026-07-19 18:54:16  INFO      Navigating to Javier's reviews...
-2026-07-19 18:54:16  INFO      Waiting for page to fully render...
-2026-07-19 18:54:27  INFO      Page title: Javier’s Downtown - Google Maps
-2026-07-19 18:54:27  INFO      Current URL: https://www.google.com/maps/place/Javier%E2%80%99s+Downtown/@42.3368423,-83.0476069,16z/data=!4m8!3m7!1s0x883b2db5aa8d2b05:0x8123192805412075!8m2!3d42.3368384!4d-83.045032!9m1!1b1!16s%2Fg%2F11y4q2xl14?entry=ttu&g_ep=EgoyMDI2MDcxNS4wIKXMDSoASAFQAw%3D%3D
-2026-07-19 18:54:27  INFO      Found scroll container with 30 children.
-2026-07-19 18:54:32  INFO      Sorted by newest.
-2026-07-19 18:54:32  INFO      Scroll target centre: (264, 445)
-2026-07-19 18:54:32  INFO      Scrolling and collecting reviews...
-2026-07-19 18:54:38  INFO        Unique reviews collected: 9
-2026-07-19 18:54:48  INFO        Unique reviews collected: 18
-2026-07-19 18:54:58  INFO        Unique reviews collected: 18
-2026-07-19 18:55:13  INFO        Unique reviews collected: 27
-2026-07-19 18:55:27  INFO        Unique reviews collected: 27
-2026-07-19 18:55:46  INFO      Scrolled past the lookback window, stopping early.
-2026-07-19 18:55:46  INFO      Done. Total unique reviews collected: 36
-2026-07-19 18:55:46  INFO      Scraped 36 total. 17 within the last 7 days.
-2026-07-19 18:55:46  INFO      Saved 17 reviews to output.txt.
-2026-07-19 18:55:46  INFO      Dashboard written to README.md (4 staff members mentioned).
-2026-07-19 18:55:46  INFO      === Done ===
+2026-07-20 02:12:23  INFO      === Javier's Review Scraper Starting ===
+2026-07-20 02:12:23  INFO      Loaded 37 name variants to match.
+2026-07-20 02:12:24  INFO      Warming up via Google homepage...
+2026-07-20 02:12:26  INFO      Navigating to Javier's reviews...
+2026-07-20 02:12:27  INFO      Waiting for page to fully render...
+2026-07-20 02:12:38  INFO      Page title: Javier’s Downtown - Google Maps
+2026-07-20 02:12:38  INFO      Current URL: https://www.google.com/maps/place/Javier%E2%80%99s+Downtown/@42.3368423,-83.0476069,16z/data=!4m8!3m7!1s0x883b2db5aa8d2b05:0x8123192805412075!8m2!3d42.3368384!4d-83.045032!9m1!1b1!16s%2Fg%2F11y4q2xl14?entry=ttu&g_ep=EgoyMDI2MDcxNS4wIKXMDSoASAFQAw%3D%3D
+2026-07-20 02:12:38  INFO      Found scroll container with 30 children.
+2026-07-20 02:12:43  INFO      Sorted by newest.
+2026-07-20 02:12:43  INFO      Scroll target centre: (264, 445)
+2026-07-20 02:12:43  INFO      Scrolling and collecting reviews...
+2026-07-20 02:12:49  INFO        Unique reviews collected: 9
+2026-07-20 02:12:59  INFO        Unique reviews collected: 18
+2026-07-20 02:13:09  INFO        Unique reviews collected: 18
+2026-07-20 02:13:24  INFO        Unique reviews collected: 27
+2026-07-20 02:13:39  INFO        Unique reviews collected: 27
+2026-07-20 02:13:58  INFO      Scrolled past the lookback window, stopping early.
+2026-07-20 02:13:58  INFO      Done. Total unique reviews collected: 36
+2026-07-20 02:13:58  INFO      Scraped 36 total. 17 within the last 7 days.
+2026-07-20 02:13:58  INFO      Saved 17 reviews to output.txt.
+2026-07-20 02:13:58  INFO      Dashboard written to README.md (4 staff members mentioned).
+2026-07-20 02:13:58  INFO      === Done ===

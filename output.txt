@@ -1,11 +1,11 @@
-=== Run: 2026-07-19 18:55:46 ===
+=== Run: 2026-07-20 02:13:58 ===
 Reviews in last 7 days: 17
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tkT2QwaElUa05GU21WR2FHOUZXVGhTVld0c2JuYxAB
 Author:    Natasha Jones
 Rating:    3
-Published: 6 hours ago
+Published: 14 hours ago
 Text:      The food was meh.. They didn't have oysters. My Medium well filet was perfect. Ambiance was nice. Sunday was advertised as live jazz. There was no jazz. The sat us directly behind a table of atleast 20 ppl. We were so clise together you …
 
 --- Review ---
@@ -35,7 +35,7 @@ Mentions:  yousef (Yousef)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2s1a1JEQlphVFZoVkdsWVEwbFRUWEZ1YmtkaGEzYxAB
 Author:    Rodney Townsend
 Rating:    3
-Published: a day ago
+Published: 2 days ago
 Text:      Had the new York steak and must say look good but tasted like nothing at all.
 Mentions:  stela (Stela)
 
@@ -43,21 +43,21 @@ Mentions:  stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xWTUxYWk5ZelY2U1dsVGExbDNUMGhCVldoalJWRRAB
 Author:    Kania Kerma
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      It looks very nice 🙂💯 …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21JNWRuQkxaVlZMVm1obVVIZGpiR3h4Y3pWdmVuYxAB
 Author:    f j
 Rating:    1
-Published: Edited 3 days ago
+Published: Edited 4 days ago
 Text:      This place is by far the worst place I’ve ever been in in my whole life , they charge you 35 dollars just to be there/ they charge you 20% gratuity, food eh music was garbage and we requested the manager 3 times till he his assistant showed up . What a shame please take my advice and go elsewhere
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21jNVdIRnNValZIYzJJd1VIZzJNREZGYldScWRsRRAB
 Author:    Don Demarcco
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      This place is beautiful inside and out parking was amazing The decorum is just wonderful my waiter are deep was very nice they have all the great drinks you could want a nice mix of cocktails!
 
 --- Review ---
