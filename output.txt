@@ -1,5 +1,12 @@
-=== Run: 2026-07-21 08:12:55 ===
-Reviews in last 7 days: 17
+=== Run: 2026-07-21 13:22:17 ===
+Reviews in last 7 days: 18
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2pKUGEyaGZORXRCYjFaZmIweHFNM28zU21Ob2JsRRAB
+Author:    Joseph Gibson
+Rating:    5
+Published: 2 hours ago
+Text:      Had a great time for my friend's birthday
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT214TGFqYzNVVE5DZUdFMVdIUnNlSHBOVVZkVlpFRRAB
@@ -12,7 +19,7 @@ Text:      The food and vibe were good. I give it a 8/10. I believe the wait sta
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tkT2QwaElUa05GU21WR2FHOUZXVGhTVld0c2JuYxAB
 Author:    Natasha Jones
 Rating:    3
-Published: a day ago
+Published: 2 days ago
 Text:      The food was meh.. They didn't have oysters. My Medium well filet was perfect. Ambiance was nice. Sunday was advertised as live jazz. There was no jazz. The sat us directly behind a table of atleast 20 ppl. We were so clise together you …
 
 --- Review ---
