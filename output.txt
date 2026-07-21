@@ -1,11 +1,11 @@
-=== Run: 2026-07-21 01:56:47 ===
+=== Run: 2026-07-21 08:12:55 ===
 Reviews in last 7 days: 17
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT214TGFqYzNVVE5DZUdFMVdIUnNlSHBOVVZkVlpFRRAB
 Author:    Danielle Mosby
 Rating:    4
-Published: 19 hours ago
+Published: a day ago
 Text:      The food and vibe were good. I give it a 8/10. I believe the wait staff could be more attentive. Overall, I enjoyed myself and would definitely recommend. The esthetics were perfect for date night
 
 --- Review ---
@@ -19,7 +19,7 @@ Text:      The food was meh.. They didn't have oysters. My Medium well filet was
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2podk1qQkNXazEzTFdSU05VeHFObWxZWWpRd05IYxAB
 Author:    Paula W
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Branzino was top tier. Yousef was thee best server and the DJ was lit🔥🔥🔥 our bday dinner turned into a dance party. …
 Mentions:  yousef (Yousef)
 
@@ -27,14 +27,14 @@ Mentions:  yousef (Yousef)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25ZdE5YcHlkR1pTYVd4VmQzYzFRVWgzTUhSMmIwRRAB
 Author:    Willie S Clark III
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      The experience was definitely worth the time!!! They accommodate every situation, the restaurant is alive and transforms with the crowd!!! I highly recommend Javier’s the lobster fried rice with the garlic butter was my selection.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pKT2FtMDBiMDV5ZVRKUVJ6UnpibTl5TkdFM05HYxAB
 Author:    Aaron Pugh
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Yousif is incredible. Ask for him. Also the DJ is amazing! Please check this place out if you’re in Detroit
 Mentions:  yousef (Yousef)
 
