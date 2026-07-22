@@ -1,11 +1,25 @@
-=== Run: 2026-07-21 19:08:10 ===
-Reviews in last 7 days: 18
+=== Run: 2026-07-22 01:55:11 ===
+Reviews in last 7 days: 19
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25Oc2FEaGFRMmxKU0habVJtSlRaV1JVYkdWVlUxRRAB
+Author:    Doreca Mack
+Rating:    5
+Published: 40 minutes ago
+Text:      First time visit for our Anniversary and they did not disappoint Atmosphere was just Beautiful. Food was Amazing, portion was perfect and options were many..Lamb chops were fantastic.Tender and juicy cooked to perfection.The Javier Sangria …
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT20xTVYxSjVXR3BHU21sNFJsSjJTVkJ2VVd4QmEwRRAB
+Author:    Ebony Riley
+Rating:    4
+Published: 3 hours ago
+Text:      I hosted my birthday with family here. The Ambiance from pulling up to valet to dining in was an experience. The food was VERY good. The portions for the sides could have been more but overall I enjoyed myself. Date night vibes for sure!!!
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pKUGEyaGZORXRCYjFaZmIweHFNM28zU21Ob2JsRRAB
 Author:    Joseph Gibson
 Rating:    5
-Published: 8 hours ago
+Published: 15 hours ago
 Text:      Had a great time for my friend's birthday
 
 --- Review ---
@@ -49,7 +63,7 @@ Mentions:  yousef (Yousef)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2s1a1JEQlphVFZoVkdsWVEwbFRUWEZ1YmtkaGEzYxAB
 Author:    Rodney Townsend
 Rating:    3
-Published: 3 days ago
+Published: 4 days ago
 Text:      Had the new York steak and must say look good but tasted like nothing at all.
 Mentions:  stela (Stela)
 
@@ -57,21 +71,21 @@ Mentions:  stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xWTUxYWk5ZelY2U1dsVGExbDNUMGhCVldoalJWRRAB
 Author:    Kania Kerma
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      It looks very nice 🙂💯 …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21JNWRuQkxaVlZMVm1obVVIZGpiR3h4Y3pWdmVuYxAB
 Author:    f j
 Rating:    1
-Published: Edited 5 days ago
+Published: Edited 6 days ago
 Text:      This place is by far the worst place I’ve ever been in in my whole life , they charge you 35 dollars just to be there/ they charge you 20% gratuity, food eh music was garbage and we requested the manager 3 times till he his assistant showed up . What a shame please take my advice and go elsewhere
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21jNVdIRnNValZIYzJJd1VIZzJNREZGYldScWRsRRAB
 Author:    Don Demarcco
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      This place is beautiful inside and out parking was amazing The decorum is just wonderful my waiter are deep was very nice they have all the great drinks you could want a nice mix of cocktails!
 
 --- Review ---
@@ -124,12 +138,3 @@ Rating:    5
 Published: Edited a week ago
 Text:      Our server Bobby was wonderful & very attentive! I haven’t had service like this in a long time‼️ The food was excellent & matched the high quality service! In our party of 4, all of us enjoyed our meal!
 Mentions:  bobbi (Bobbi)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xNNVkzWlNRazVsT0VGdlRFeElNM2RWWTBsMGNIYxAB
-Author:    Darius Collins
-Rating:    5
-Published: a week ago
-Text:      One of the best places to eat and vibe at in downtown Detroit. Will definitely revisit!
-Sara, the hostess was awesome
-Mentions:  sarah (Sarah)
