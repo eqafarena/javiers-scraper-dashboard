@@ -1,11 +1,19 @@
-=== Run: 2026-07-23 02:02:39 ===
-Reviews in last 7 days: 19
+=== Run: 2026-07-23 13:30:36 ===
+Reviews in last 7 days: 20
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25rdGQyRnRRMmRXT1RoR05FazFRVGRCTTBReFpVRRAB
+Author:    Tanya Hodges
+Rating:    5
+Published: 2 hours ago
+Text:      Absolutely loved Javier’s. Steak and branzino were top notch. Service was awesome. Atmosphere great. The only “small” negative was not a fan of the lobster bisque, but can’t wait to go back!! Best specials around too!!
+Mentions:  stela (Stela)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21keVdrbDZWVzFtWkhCR01YbE9iMlE1UjJ3d2JWRRAB
 Author:    Amy Lynn
 Rating:    5
-Published: an hour ago
+Published: 12 hours ago
 Text:      Fiancé took me here for my bday 7/21.
 From moment you walked in till u walked out was just Amazing!! Food was very flavorful and tasteful. Lamb chops were Full of flavor and Very Tender 😋!! …
 
@@ -27,28 +35,28 @@ Text:      I hosted my birthday with family here. The Ambiance from pulling up t
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pKUGEyaGZORXRCYjFaZmIweHFNM28zU21Ob2JsRRAB
 Author:    Joseph Gibson
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      Had a great time for my friend's birthday
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT214TGFqYzNVVE5DZUdFMVdIUnNlSHBOVVZkVlpFRRAB
 Author:    Danielle Mosby
 Rating:    4
-Published: 2 days ago
+Published: 3 days ago
 Text:      The food and vibe were good. I give it a 8/10. I believe the wait staff could be more attentive. Overall, I enjoyed myself and would definitely recommend. The esthetics were perfect for date night
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tkT2QwaElUa05GU21WR2FHOUZXVGhTVld0c2JuYxAB
 Author:    Natasha Jones
 Rating:    3
-Published: 3 days ago
+Published: 4 days ago
 Text:      The food was meh.. They didn't have oysters. My Medium well filet was perfect. Ambiance was nice. Sunday was advertised as live jazz. There was no jazz. The sat us directly behind a table of atleast 20 ppl. We were so clise together you …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2podk1qQkNXazEzTFdSU05VeHFObWxZWWpRd05IYxAB
 Author:    Paula W
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      Branzino was top tier. Yousef was thee best server and the DJ was lit🔥🔥🔥 our bday dinner turned into a dance party. …
 Mentions:  yousef (Yousef)
 
@@ -56,14 +64,14 @@ Mentions:  yousef (Yousef)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25ZdE5YcHlkR1pTYVd4VmQzYzFRVWgzTUhSMmIwRRAB
 Author:    Willie S Clark III
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      The experience was definitely worth the time!!! They accommodate every situation, the restaurant is alive and transforms with the crowd!!! I highly recommend Javier’s the lobster fried rice with the garlic butter was my selection.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pKT2FtMDBiMDV5ZVRKUVJ6UnpibTl5TkdFM05HYxAB
 Author:    Aaron Pugh
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      Yousif is incredible. Ask for him. Also the DJ is amazing! Please check this place out if you’re in Detroit
 Mentions:  yousef (Yousef)
 

@@ -1,12 +1,12 @@
 # Javier's Reviews Dashboard
 
-> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 19 &nbsp;|&nbsp; **Updated:** 2026-07-23 02:02:39
+> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 20 &nbsp;|&nbsp; **Updated:** 2026-07-23 13:30:36
 
 ## Staff Mentions
 
 | Name | Mentions | Avg Rating |
 |:---|:---:|:---:|
-| Stela | 2 | 2.0 ★ |
+| Stela | 3 | 3.0 ★ |
 | Yousef | 2 | 5.0 ★ |
 
 ---
