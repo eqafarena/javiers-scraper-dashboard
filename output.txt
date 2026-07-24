@@ -1,11 +1,19 @@
-=== Run: 2026-07-23 19:04:17 ===
-Reviews in last 7 days: 20
+=== Run: 2026-07-24 01:59:12 ===
+Reviews in last 7 days: 21
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2taUFlVdEdZazlqU25Wa1QxWllVV3A0WDNWak0xRRAB
+Author:    Kyle Richardson (Confirmed)
+Rating:    5
+Published: 4 hours ago
+Text:      Hopefully you're lucky enough to have Bobbi as your server. Legit the best in town.
+Mentions:  bobbi (Bobbi)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25rdGQyRnRRMmRXT1RoR05FazFRVGRCTTBReFpVRRAB
 Author:    Tanya Hodges
 Rating:    5
-Published: 8 hours ago
+Published: 15 hours ago
 Text:      Absolutely loved Javier’s. Steak and branzino were top notch. Service was awesome. Atmosphere great. The only “small” negative was not a fan of the lobster bisque, but can’t wait to go back!! Best specials around too!!
 Mentions:  stela (Stela)
 
@@ -13,7 +21,7 @@ Mentions:  stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21keVdrbDZWVzFtWkhCR01YbE9iMlE1UjJ3d2JWRRAB
 Author:    Amy Lynn
 Rating:    5
-Published: 18 hours ago
+Published: a day ago
 Text:      Fiancé took me here for my bday 7/21.
 From moment you walked in till u walked out was just Amazing!! Food was very flavorful and tasteful. Lamb chops were Full of flavor and Very Tender 😋!! …
 
@@ -21,14 +29,14 @@ From moment you walked in till u walked out was just Amazing!! Food was very fla
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25Oc2FEaGFRMmxKU0habVJtSlRaV1JVYkdWVlUxRRAB
 Author:    Doreca Mack
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      First time visit for our Anniversary and they did not disappoint Atmosphere was just Beautiful. Food was Amazing, portion was perfect and options were many..Lamb chops were fantastic.Tender and juicy cooked to perfection.The Javier Sangria …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT20xTVYxSjVXR3BHU21sNFJsSjJTVkJ2VVd4QmEwRRAB
 Author:    Ebony Riley
 Rating:    4
-Published: a day ago
+Published: 2 days ago
 Text:      I hosted my birthday with family here. The Ambiance from pulling up to valet to dining in was an experience. The food was VERY good. The portions for the sides could have been more but overall I enjoyed myself. Date night vibes for sure!!!
 
 --- Review ---
@@ -79,7 +87,7 @@ Mentions:  yousef (Yousef)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2s1a1JEQlphVFZoVkdsWVEwbFRUWEZ1YmtkaGEzYxAB
 Author:    Rodney Townsend
 Rating:    3
-Published: 5 days ago
+Published: 6 days ago
 Text:      Had the new York steak and must say look good but tasted like nothing at all.
 Mentions:  stela (Stela)
 
@@ -87,7 +95,7 @@ Mentions:  stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xWTUxYWk5ZelY2U1dsVGExbDNUMGhCVldoalJWRRAB
 Author:    Kania Kerma
 Rating:    5
-Published: 5 days ago
+Published: 6 days ago
 Text:      It looks very nice 🙂💯 …
 
 --- Review ---
