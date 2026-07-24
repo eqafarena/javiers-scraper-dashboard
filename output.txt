@@ -1,11 +1,11 @@
-=== Run: 2026-07-24 01:59:12 ===
+=== Run: 2026-07-24 08:13:24 ===
 Reviews in last 7 days: 21
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2taUFlVdEdZazlqU25Wa1QxWllVV3A0WDNWak0xRRAB
 Author:    Kyle Richardson (Confirmed)
 Rating:    5
-Published: 4 hours ago
+Published: 10 hours ago
 Text:      Hopefully you're lucky enough to have Bobbi as your server. Legit the best in town.
 Mentions:  bobbi (Bobbi)
 
@@ -13,7 +13,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25rdGQyRnRRMmRXT1RoR05FazFRVGRCTTBReFpVRRAB
 Author:    Tanya Hodges
 Rating:    5
-Published: 15 hours ago
+Published: 21 hours ago
 Text:      Absolutely loved Javier’s. Steak and branzino were top notch. Service was awesome. Atmosphere great. The only “small” negative was not a fan of the lobster bisque, but can’t wait to go back!! Best specials around too!!
 Mentions:  stela (Stela)
 
@@ -50,7 +50,7 @@ Text:      Had a great time for my friend's birthday
 ID:        Ci9DQUlRQUNvZENodHljRjlvT214TGFqYzNVVE5DZUdFMVdIUnNlSHBOVVZkVlpFRRAB
 Author:    Danielle Mosby
 Rating:    4
-Published: 3 days ago
+Published: 4 days ago
 Text:      The food and vibe were good. I give it a 8/10. I believe the wait staff could be more attentive. Overall, I enjoyed myself and would definitely recommend. The esthetics were perfect for date night
 
 --- Review ---
@@ -64,7 +64,7 @@ Text:      The food was meh.. They didn't have oysters. My Medium well filet was
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2podk1qQkNXazEzTFdSU05VeHFObWxZWWpRd05IYxAB
 Author:    Paula W
 Rating:    5
-Published: 5 days ago
+Published: 6 days ago
 Text:      Branzino was top tier. Yousef was thee best server and the DJ was lit🔥🔥🔥 our bday dinner turned into a dance party. …
 Mentions:  yousef (Yousef)
 
@@ -72,14 +72,14 @@ Mentions:  yousef (Yousef)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25ZdE5YcHlkR1pTYVd4VmQzYzFRVWgzTUhSMmIwRRAB
 Author:    Willie S Clark III
 Rating:    5
-Published: 5 days ago
+Published: 6 days ago
 Text:      The experience was definitely worth the time!!! They accommodate every situation, the restaurant is alive and transforms with the crowd!!! I highly recommend Javier’s the lobster fried rice with the garlic butter was my selection.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pKT2FtMDBiMDV5ZVRKUVJ6UnpibTl5TkdFM05HYxAB
 Author:    Aaron Pugh
 Rating:    5
-Published: 5 days ago
+Published: 6 days ago
 Text:      Yousif is incredible. Ask for him. Also the DJ is amazing! Please check this place out if you’re in Detroit
 Mentions:  yousef (Yousef)
 
