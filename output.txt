@@ -1,5 +1,12 @@
-=== Run: 2026-07-26 02:01:53 ===
+=== Run: 2026-07-26 08:12:56 ===
 Reviews in last 7 days: 18
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25CMmFXeGxiR0l6WHpSVU1YTlZSRFJ3VDA1TE5WRRAB
+Author:    Ronit Kogan
+Rating:    5
+Published: 4 hours ago
+Text:      We had such an amazing experience at Javier’s Downtown Detroit! Everything from the food to the service and atmosphere was incredible. The restaurant itself is absolutely beautiful — modern, stylish, and such a nice vibe. …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tFd2VGVXhWQzF0VDBoRWN5MUNWbTlMUWpaSk5VRRAB
@@ -58,7 +65,7 @@ Text:      Had a great time for my friend's birthday
 ID:        Ci9DQUlRQUNvZENodHljRjlvT214TGFqYzNVVE5DZUdFMVdIUnNlSHBOVVZkVlpFRRAB
 Author:    Danielle Mosby
 Rating:    4
-Published: 5 days ago
+Published: 6 days ago
 Text:      The food and vibe were good. I give it a 8/10. I believe the wait staff could be more attentive. Overall, I enjoyed myself and would definitely recommend. The esthetics were perfect for date night
 
 --- Review ---
@@ -126,11 +133,3 @@ Author:    Stephanie
 Rating:    2
 Published: a week ago
 Text:      I went for my anniversary with the idea that we could eat and stay for the live entertainment on Saturday as advertised on social media and on their website. We made reservations at 8pm with the idea that we could stay for the live …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2pKVGFrZEVWRUZ2U1hWNUxVcHFVa05CUW1KeWQwRRAB
-Author:    José Lugo
-Rating:    1
-Published: a week ago
-Text:      All appearance no substance. Ordered a drink the wrong drink was brought to the table. Ordered a steak, medium rare got well done and even after the error, the steak I ended getting was a tad over medium and no seasoning whatsoever. Just a …
-Mentions:  stela (Stela)
