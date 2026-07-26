@@ -1,11 +1,11 @@
-=== Run: 2026-07-26 13:03:48 ===
-Reviews in last 7 days: 18
+=== Run: 2026-07-26 19:00:50 ===
+Reviews in last 7 days: 17
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25CMmFXeGxiR0l6WHpSVU1YTlZSRFJ3VDA1TE5WRRAB
 Author:    Ronit Kogan
 Rating:    5
-Published: 9 hours ago
+Published: 15 hours ago
 Text:      We had such an amazing experience at Javier’s Downtown Detroit! Everything from the food to the service and atmosphere was incredible. The restaurant itself is absolutely beautiful — modern, stylish, and such a nice vibe. …
 
 --- Review ---
@@ -126,10 +126,3 @@ Author:    Don Demarcco
 Rating:    5
 Published: a week ago
 Text:      This place is beautiful inside and out parking was amazing The decorum is just wonderful my waiter are deep was very nice they have all the great drinks you could want a nice mix of cocktails!
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2t0NlgxRlRjMFZyVFhWYVgxQk5ja3A2T1RkdGFVRRAB
-Author:    Stephanie
-Rating:    2
-Published: a week ago
-Text:      I went for my anniversary with the idea that we could eat and stay for the live entertainment on Saturday as advertised on social media and on their website. We made reservations at 8pm with the idea that we could stay for the live …
