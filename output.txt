@@ -1,18 +1,26 @@
-=== Run: 2026-07-26 19:00:50 ===
-Reviews in last 7 days: 17
+=== Run: 2026-07-27 02:09:19 ===
+Reviews in last 7 days: 18
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2xaQlVIQndWbDlIV0RCSlRXSjZkVlZVTkMxSU9HYxAB
+Author:    Kenneth Buck
+Rating:    5
+Published: 46 minutes ago
+Text:      Food and service were great and Bobbi J was great 👍 ..but gratuity being added to the bill is a rip off because everyone is being charged tax on it...rip …
+Mentions:  bobbi (Bobbi)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25CMmFXeGxiR0l6WHpSVU1YTlZSRFJ3VDA1TE5WRRAB
 Author:    Ronit Kogan
 Rating:    5
-Published: 15 hours ago
+Published: 22 hours ago
 Text:      We had such an amazing experience at Javier’s Downtown Detroit! Everything from the food to the service and atmosphere was incredible. The restaurant itself is absolutely beautiful — modern, stylish, and such a nice vibe. …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tFd2VGVXhWQzF0VDBoRWN5MUNWbTlMUWpaSk5VRRAB
 Author:    lightfirequeen
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      Bobby was the best! She attended to our every need and presented out options in a superior fashion! Bobby made my 1st time experience here extremely enjoyable.
 Mentions:  bobbi (Bobbi)
 
@@ -20,7 +28,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2taUFlVdEdZazlqU25Wa1QxWllVV3A0WDNWak0xRRAB
 Author:    Kyle Richardson (Confirmed)
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Hopefully you're lucky enough to have Bobbi as your server. Legit the best in town.
 Mentions:  bobbi (Bobbi)
 
@@ -36,7 +44,7 @@ Mentions:  stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21keVdrbDZWVzFtWkhCR01YbE9iMlE1UjJ3d2JWRRAB
 Author:    Amy Lynn
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      Fiancé took me here for my bday 7/21.
 From moment you walked in till u walked out was just Amazing!! Food was very flavorful and tasteful. Lamb chops were Full of flavor and Very Tender 😋!! …
 
@@ -44,14 +52,14 @@ From moment you walked in till u walked out was just Amazing!! Food was very fla
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25Oc2FEaGFRMmxKU0habVJtSlRaV1JVYkdWVlUxRRAB
 Author:    Doreca Mack
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      First time visit for our Anniversary and they did not disappoint Atmosphere was just Beautiful. Food was Amazing, portion was perfect and options were many..Lamb chops were fantastic.Tender and juicy cooked to perfection.The Javier Sangria …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT20xTVYxSjVXR3BHU21sNFJsSjJTVkJ2VVd4QmEwRRAB
 Author:    Ebony Riley
 Rating:    4
-Published: 4 days ago
+Published: 5 days ago
 Text:      I hosted my birthday with family here. The Ambiance from pulling up to valet to dining in was an experience. The food was VERY good. The portions for the sides could have been more but overall I enjoyed myself. Date night vibes for sure!!!
 
 --- Review ---
