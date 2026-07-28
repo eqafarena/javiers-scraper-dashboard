@@ -1,18 +1,18 @@
-=== Run: 2026-07-28 01:52:10 ===
+=== Run: 2026-07-28 08:21:00 ===
 Reviews in last 7 days: 21
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT200MFFuQnFhR0pTU0ZwSE1sOTFUMDFQYkROUE5HYxAB
 Author:    S A
 Rating:    1
-Published: 2 hours ago
+Published: 8 hours ago
 Text:      I feel so bad for saying this, but the food was so bad. Like I tried. The appetizers, the entrees, everything was so bad.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25kak5IVlpSSEp2U1V0WlVHSkxVblJHWlhGWWQzYxAB
 Author:    Melanie Simms
 Rating:    5
-Published: 6 hours ago
+Published: 13 hours ago
 Text:      I visited Javier for the first time yesterday, and while the food and ambiance were both very enjoyable, the real highlight of my experience was our waitress, Bobbi. …
 Mentions:  bobbi (Bobbi)
 
@@ -35,7 +35,7 @@ Text:      Get the swordfish trust me
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25CMmFXeGxiR0l6WHpSVU1YTlZSRFJ3VDA1TE5WRRAB
 Author:    Ronit Kogan
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      We had such an amazing experience at Javier’s Downtown Detroit! Everything from the food to the service and atmosphere was incredible. The restaurant itself is absolutely beautiful — modern, stylish, and such a nice vibe. …
 
 --- Review ---
