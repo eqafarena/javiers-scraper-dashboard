@@ -1,18 +1,18 @@
-=== Run: 2026-07-28 08:21:00 ===
+=== Run: 2026-07-28 13:46:48 ===
 Reviews in last 7 days: 21
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT200MFFuQnFhR0pTU0ZwSE1sOTFUMDFQYkROUE5HYxAB
 Author:    S A
 Rating:    1
-Published: 8 hours ago
+Published: 14 hours ago
 Text:      I feel so bad for saying this, but the food was so bad. Like I tried. The appetizers, the entrees, everything was so bad.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25kak5IVlpSSEp2U1V0WlVHSkxVblJHWlhGWWQzYxAB
 Author:    Melanie Simms
 Rating:    5
-Published: 13 hours ago
+Published: 18 hours ago
 Text:      I visited Javier for the first time yesterday, and while the food and ambiance were both very enjoyable, the real highlight of my experience was our waitress, Bobbi. …
 Mentions:  bobbi (Bobbi)
 
@@ -58,7 +58,7 @@ Mentions:  bobbi (Bobbi)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25rdGQyRnRRMmRXT1RoR05FazFRVGRCTTBReFpVRRAB
 Author:    Tanya Hodges
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      Absolutely loved Javier’s. Steak and branzino were top notch. Service was awesome. Atmosphere great. The only “small” negative was not a fan of the lobster bisque, but can’t wait to go back!! Best specials around too!!
 Mentions:  stela (Stela)
 
@@ -88,7 +88,7 @@ Text:      I hosted my birthday with family here. The Ambiance from pulling up t
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pKUGEyaGZORXRCYjFaZmIweHFNM28zU21Ob2JsRRAB
 Author:    Joseph Gibson
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      Had a great time for my friend's birthday
 
 --- Review ---
