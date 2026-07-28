@@ -1,12 +1,12 @@
 # Javier's Reviews Dashboard
 
-> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 19 &nbsp;|&nbsp; **Updated:** 2026-07-27 19:16:42
+> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 21 &nbsp;|&nbsp; **Updated:** 2026-07-28 01:52:10
 
 ## Staff Mentions
 
 | Name | Mentions | Avg Rating |
 |:---|:---:|:---:|
-| Bobbi | 3 | 5.0 ★ |
+| Bobbi | 4 | 5.0 ★ |
 | Stela | 2 | 4.0 ★ |
 | Yousef | 2 | 5.0 ★ |
 
