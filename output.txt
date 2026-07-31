@@ -1,11 +1,11 @@
-=== Run: 2026-07-31 02:03:07 ===
+=== Run: 2026-07-31 08:38:43 ===
 Reviews in last 7 days: 20
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xBelNFWXlhVWRJWlVnMlFTMWphWGRIWkROelRGRRAB
 Author:    china d
 Rating:    2
-Published: 21 hours ago
+Published: a day ago
 Text:      Believe the reviews about the poor service—they're true. My boyfriend and I wanted to enjoy a nice dinner before leaving town, so I made a reservation and we decided to give this place a try. We were seated immediately, but it took about 10 …
 
 --- Review ---
@@ -42,7 +42,7 @@ Text:      Get the swordfish trust me
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25CMmFXeGxiR0l6WHpSVU1YTlZSRFJ3VDA1TE5WRRAB
 Author:    Ronit Kogan
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      We had such an amazing experience at Javier’s Downtown Detroit! Everything from the food to the service and atmosphere was incredible. The restaurant itself is absolutely beautiful — modern, stylish, and such a nice vibe. …
 
 --- Review ---
