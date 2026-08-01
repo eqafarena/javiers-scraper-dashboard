@@ -1,11 +1,11 @@
-=== Run: 2026-08-01 02:04:26 ===
-Reviews in last 7 days: 18
+=== Run: 2026-08-01 08:08:08 ===
+Reviews in last 7 days: 15
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xBelNFWXlhVWRJWlVnMlFTMWphWGRIWkROelRGRRAB
 Author:    china d
 Rating:    2
-Published: a day ago
+Published: 2 days ago
 Text:      Believe the reviews about the poor service—they're true. My boyfriend and I wanted to enjoy a nice dinner before leaving town, so I made a reservation and we decided to give this place a try. We were seated immediately, but it took about 10 …
 
 --- Review ---
@@ -42,7 +42,7 @@ Text:      Get the swordfish trust me
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25CMmFXeGxiR0l6WHpSVU1YTlZSRFJ3VDA1TE5WRRAB
 Author:    Ronit Kogan
 Rating:    5
-Published: 5 days ago
+Published: 6 days ago
 Text:      We had such an amazing experience at Javier’s Downtown Detroit! Everything from the food to the service and atmosphere was incredible. The restaurant itself is absolutely beautiful — modern, stylish, and such a nice vibe. …
 
 --- Review ---
@@ -111,26 +111,3 @@ Author:    Natasha Jones
 Rating:    3
 Published: a week ago
 Text:      The food was meh.. They didn't have oysters. My Medium well filet was perfect. Ambiance was nice. Sunday was advertised as live jazz. There was no jazz. The sat us directly behind a table of atleast 20 ppl. We were so clise together you …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2podk1qQkNXazEzTFdSU05VeHFObWxZWWpRd05IYxAB
-Author:    Paula W
-Rating:    5
-Published: a week ago
-Text:      Branzino was top tier. Yousef was thee best server and the DJ was lit🔥🔥🔥 our bday dinner turned into a dance party. …
-Mentions:  yousef (Yousef)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25ZdE5YcHlkR1pTYVd4VmQzYzFRVWgzTUhSMmIwRRAB
-Author:    Willie S Clark III
-Rating:    5
-Published: a week ago
-Text:      The experience was definitely worth the time!!! They accommodate every situation, the restaurant is alive and transforms with the crowd!!! I highly recommend Javier’s the lobster fried rice with the garlic butter was my selection.
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2pKT2FtMDBiMDV5ZVRKUVJ6UnpibTl5TkdFM05HYxAB
-Author:    Aaron Pugh
-Rating:    5
-Published: a week ago
-Text:      Yousif is incredible. Ask for him. Also the DJ is amazing! Please check this place out if you’re in Detroit
-Mentions:  yousef (Yousef)
