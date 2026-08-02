@@ -1,5 +1,12 @@
-=== Run: 2026-08-02 13:05:15 ===
-Reviews in last 7 days: 14
+=== Run: 2026-08-02 18:59:54 ===
+Reviews in last 7 days: 15
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2xCcWNpMVRhSG95U2xSTU1rVlJRazFLUVdaRGFHYxAB
+Author:    Carolyn Feddersen
+Rating:    5
+Published: 2 hours ago
+Text:      First time dining. Although we stopped in after a game and it is more upscale, we were welcomed and service was great.  Food was delicious.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xBelNFWXlhVWRJWlVnMlFTMWphWGRIWkROelRGRRAB
