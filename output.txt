@@ -1,32 +1,32 @@
-=== Run: 2026-08-03 02:04:24 ===
-Reviews in last 7 days: 17
+=== Run: 2026-08-03 09:29:30 ===
+Reviews in last 7 days: 16
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25WeGFreGpOMFIwYkd0UlMyeGZkbWhMUTFkbVpYYxAB
 Author:    chloe brikho
 Rating:    5
-Published: 2 hours ago
+Published: 10 hours ago
 Text:      I had a great experience at Jaivers! The atmosphere was amazing and the vibes were so fun especially with everyone dancing It made the whole night feel lively and enjoyable.The food was really good too I definitely recommend the fattoush salad and the corn as an appetizer I’ll definitely be coming back
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2twWVpsSTRXbTVYZVhWaVlqbENTalJYY0VGcFJWRRAB
 Author:    MERNA KESTO
 Rating:    5
-Published: 5 hours ago
+Published: 13 hours ago
 Text:      Had an amazing experience at Javier’s Downtown! The service was outstanding—everyone was welcoming, attentive, and made us feel right at home. The food was absolutely delicious, and every dish was full of flavor. Definitely a place I’ll be coming back to. Highly recommend!
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xCcWNpMVRhSG95U2xSTU1rVlJRazFLUVdaRGFHYxAB
 Author:    Carolyn Feddersen
 Rating:    5
-Published: 9 hours ago
+Published: 17 hours ago
 Text:      First time dining. Although we stopped in after a game and it is more upscale, we were welcomed and service was great.  Food was delicious.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xBelNFWXlhVWRJWlVnMlFTMWphWGRIWkROelRGRRAB
 Author:    china d
 Rating:    2
-Published: 3 days ago
+Published: 4 days ago
 Text:      Believe the reviews about the poor service—they're true. My boyfriend and I wanted to enjoy a nice dinner before leaving town, so I made a reservation and we decided to give this place a try. We were seated immediately, but it took about 10 …
 
 --- Review ---
@@ -118,10 +118,3 @@ Author:    Joseph Gibson
 Rating:    5
 Published: a week ago
 Text:      Had a great time for my friend's birthday
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT214TGFqYzNVVE5DZUdFMVdIUnNlSHBOVVZkVlpFRRAB
-Author:    Danielle Mosby
-Rating:    4
-Published: a week ago
-Text:      The food and vibe were good. I give it a 8/10. I believe the wait staff could be more attentive. Overall, I enjoyed myself and would definitely recommend. The esthetics were perfect for date night
