@@ -1,5 +1,5 @@
-=== Run: 2026-08-04 08:26:51 ===
-Reviews in last 7 days: 16
+=== Run: 2026-08-04 13:53:50 ===
+Reviews in last 7 days: 15
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25WeGFreGpOMFIwYkd0UlMyeGZkbWhMUTFkbVpYYxAB
@@ -111,10 +111,3 @@ Author:    Ebony Riley
 Rating:    4
 Published: a week ago
 Text:      I hosted my birthday with family here. The Ambiance from pulling up to valet to dining in was an experience. The food was VERY good. The portions for the sides could have been more but overall I enjoyed myself. Date night vibes for sure!!!
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2pKUGEyaGZORXRCYjFaZmIweHFNM28zU21Ob2JsRRAB
-Author:    Joseph Gibson
-Rating:    5
-Published: a week ago
-Text:      Had a great time for my friend's birthday
