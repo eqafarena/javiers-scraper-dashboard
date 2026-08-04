@@ -1,4 +1,4 @@
-=== Run: 2026-08-04 01:49:49 ===
+=== Run: 2026-08-04 08:26:51 ===
 Reviews in last 7 days: 16
 
 --- Review ---
@@ -26,7 +26,7 @@ Text:      First time dining. Although we stopped in after a game and it is more
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xBelNFWXlhVWRJWlVnMlFTMWphWGRIWkROelRGRRAB
 Author:    china d
 Rating:    2
-Published: 4 days ago
+Published: 5 days ago
 Text:      Believe the reviews about the poor service—they're true. My boyfriend and I wanted to enjoy a nice dinner before leaving town, so I made a reservation and we decided to give this place a try. We were seated immediately, but it took about 10 …
 
 --- Review ---
