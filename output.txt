@@ -1,18 +1,18 @@
-=== Run: 2026-08-04 19:22:20 ===
-Reviews in last 7 days: 15
+=== Run: 2026-08-05 01:51:24 ===
+Reviews in last 7 days: 13
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25WeGFreGpOMFIwYkd0UlMyeGZkbWhMUTFkbVpYYxAB
 Author:    chloe brikho
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      I had a great experience at Jaivers! The atmosphere was amazing and the vibes were so fun especially with everyone dancing It made the whole night feel lively and enjoyable.The food was really good too I definitely recommend the fattoush salad and the corn as an appetizer I’ll definitely be coming back
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2twWVpsSTRXbTVYZVhWaVlqbENTalJYY0VGcFJWRRAB
 Author:    MERNA KESTO
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      Had an amazing experience at Javier’s Downtown! The service was outstanding—everyone was welcoming, attentive, and made us feel right at home. The food was absolutely delicious, and every dish was full of flavor. Definitely a place I’ll be coming back to. Highly recommend!
 
 --- Review ---
@@ -97,17 +97,3 @@ Rating:    5
 Published: a week ago
 Text:      Fiancé took me here for my bday 7/21.
 From moment you walked in till u walked out was just Amazing!! Food was very flavorful and tasteful. Lamb chops were Full of flavor and Very Tender 😋!! …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25Oc2FEaGFRMmxKU0habVJtSlRaV1JVYkdWVlUxRRAB
-Author:    Doreca Mack
-Rating:    5
-Published: a week ago
-Text:      First time visit for our Anniversary and they did not disappoint Atmosphere was just Beautiful. Food was Amazing, portion was perfect and options were many..Lamb chops were fantastic.Tender and juicy cooked to perfection.The Javier Sangria …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT20xTVYxSjVXR3BHU21sNFJsSjJTVkJ2VVd4QmEwRRAB
-Author:    Ebony Riley
-Rating:    4
-Published: a week ago
-Text:      I hosted my birthday with family here. The Ambiance from pulling up to valet to dining in was an experience. The food was VERY good. The portions for the sides could have been more but overall I enjoyed myself. Date night vibes for sure!!!
