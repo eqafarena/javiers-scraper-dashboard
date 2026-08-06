@@ -1,18 +1,26 @@
-=== Run: 2026-08-05 19:20:16 ===
+=== Run: 2026-08-06 01:52:27 ===
 Reviews in last 7 days: 13
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT21Wc1pWTk5NM3BIU0Zsbk56WnVVREpZZEZwVlUzYxAB
+Author:    Christine Cuppetelli
+Rating:    5
+Published: 39 minutes ago
+Text:      Our waitress was so sweet and the steak was amazing
+Mentions:  stela (Stela)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25WeGFreGpOMFIwYkd0UlMyeGZkbWhMUTFkbVpYYxAB
 Author:    chloe brikho
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      I had a great experience at Jaivers! The atmosphere was amazing and the vibes were so fun especially with everyone dancing It made the whole night feel lively and enjoyable.The food was really good too I definitely recommend the fattoush salad and the corn as an appetizer I’ll definitely be coming back
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2twWVpsSTRXbTVYZVhWaVlqbENTalJYY0VGcFJWRRAB
 Author:    MERNA KESTO
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Had an amazing experience at Javier’s Downtown! The service was outstanding—everyone was welcoming, attentive, and made us feel right at home. The food was absolutely delicious, and every dish was full of flavor. Definitely a place I’ll be coming back to. Highly recommend!
 
 --- Review ---
@@ -89,11 +97,3 @@ Rating:    5
 Published: a week ago
 Text:      Absolutely loved Javier’s. Steak and branzino were top notch. Service was awesome. Atmosphere great. The only “small” negative was not a fan of the lobster bisque, but can’t wait to go back!! Best specials around too!!
 Mentions:  stela (Stela)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT21keVdrbDZWVzFtWkhCR01YbE9iMlE1UjJ3d2JWRRAB
-Author:    Amy Lynn
-Rating:    5
-Published: a week ago
-Text:      Fiancé took me here for my bday 7/21.
-From moment you walked in till u walked out was just Amazing!! Food was very flavorful and tasteful. Lamb chops were Full of flavor and Very Tender 😋!! …
