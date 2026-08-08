@@ -1,4 +1,4 @@
-=== Run: 2026-08-08 12:33:29 ===
+=== Run: 2026-08-08 18:27:56 ===
 Reviews in last 7 days: 10
 
 --- Review ---
@@ -27,7 +27,7 @@ Text:      Had an amazing experience at Javier’s Downtown! The service was out
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xCcWNpMVRhSG95U2xSTU1rVlJRazFLUVdaRGFHYxAB
 Author:    Carolyn Feddersen
 Rating:    5
-Published: 5 days ago
+Published: 6 days ago
 Text:      First time dining. Although we stopped in after a game and it is more upscale, we were welcomed and service was great.  Food was delicious.
 
 --- Review ---
