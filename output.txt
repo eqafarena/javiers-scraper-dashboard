@@ -1,11 +1,11 @@
-=== Run: 2026-08-09 06:44:17 ===
+=== Run: 2026-08-09 12:36:42 ===
 Reviews in last 7 days: 10
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pad05tSnBOak40WkVwME9FZHhNSFZsVURKcFUyYxAB
 Author:    Tuna Mac
 Rating:    1
-Published: an hour ago
+Published: 7 hours ago
 Text:      Dry steak seems a little over priced.
 Mentions:  stela (Stela)
 
