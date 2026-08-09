@@ -1,11 +1,19 @@
-=== Run: 2026-08-09 01:08:00 ===
+=== Run: 2026-08-09 06:44:17 ===
 Reviews in last 7 days: 10
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2pad05tSnBOak40WkVwME9FZHhNSFZsVURKcFUyYxAB
+Author:    Tuna Mac
+Rating:    1
+Published: an hour ago
+Text:      Dry steak seems a little over priced.
+Mentions:  stela (Stela)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21Wc1pWTk5NM3BIU0Zsbk56WnVVREpZZEZwVlUzYxAB
 Author:    Christine Cuppetelli
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Our waitress was so sweet and the steak was amazing
 Mentions:  stela (Stela)
 
@@ -66,10 +74,3 @@ Author:    Master Plumber
 Rating:    5
 Published: a week ago
 Text:      Get the swordfish trust me
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25CMmFXeGxiR0l6WHpSVU1YTlZSRFJ3VDA1TE5WRRAB
-Author:    Ronit Kogan
-Rating:    5
-Published: a week ago
-Text:      We had such an amazing experience at Javier’s Downtown Detroit! Everything from the food to the service and atmosphere was incredible. The restaurant itself is absolutely beautiful — modern, stylish, and such a nice vibe. …
