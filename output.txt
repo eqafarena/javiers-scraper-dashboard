@@ -1,11 +1,11 @@
-=== Run: 2026-08-11 01:09:49 ===
+=== Run: 2026-08-11 06:56:14 ===
 Reviews in last 7 days: 6
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pad05tSnBOak40WkVwME9FZHhNSFZsVURKcFUyYxAB
 Author:    Tuna Mac
 Rating:    1
-Published: a day ago
+Published: 2 days ago
 Text:      Dry steak seems a little over priced.
 Mentions:  stela (Stela)
 
@@ -13,7 +13,7 @@ Mentions:  stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21Wc1pWTk5NM3BIU0Zsbk56WnVVREpZZEZwVlUzYxAB
 Author:    Christine Cuppetelli
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      Our waitress was so sweet and the steak was amazing
 Mentions:  stela (Stela)
 
