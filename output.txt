@@ -1,5 +1,5 @@
-=== Run: 2026-08-10 18:48:06 ===
-Reviews in last 7 days: 8
+=== Run: 2026-08-11 01:09:49 ===
+Reviews in last 7 days: 6
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pad05tSnBOak40WkVwME9FZHhNSFZsVURKcFUyYxAB
@@ -44,18 +44,3 @@ Author:    china d
 Rating:    2
 Published: a week ago
 Text:      Believe the reviews about the poor service—they're true. My boyfriend and I wanted to enjoy a nice dinner before leaving town, so I made a reservation and we decided to give this place a try. We were seated immediately, but it took about 10 …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT200MFFuQnFhR0pTU0ZwSE1sOTFUMDFQYkROUE5HYxAB
-Author:    S A
-Rating:    1
-Published: a week ago
-Text:      I feel so bad for saying this, but the food was so bad. Like I tried. The appetizers, the entrees, everything was so bad.
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25kak5IVlpSSEp2U1V0WlVHSkxVblJHWlhGWWQzYxAB
-Author:    Melanie Simms
-Rating:    5
-Published: a week ago
-Text:      I visited Javier for the first time yesterday, and while the food and ambiance were both very enjoyable, the real highlight of my experience was our waitress, Bobbi. …
-Mentions:  bobbi (Bobbi)
