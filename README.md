@@ -1,6 +1,6 @@
 # Javier's Reviews Dashboard
 
-> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 13 &nbsp;|&nbsp; **Updated:** 2026-08-16 18:20:22
+> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 12 &nbsp;|&nbsp; **Updated:** 2026-08-17 00:50:17
 
 ## Staff Mentions
 

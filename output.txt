@@ -1,25 +1,32 @@
-=== Run: 2026-08-16 18:20:22 ===
-Reviews in last 7 days: 13
+=== Run: 2026-08-17 00:50:17 ===
+Reviews in last 7 days: 12
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2xSWlRqTXlSRUYzTFRnNFoweHdjVnA0UTBGRlNHYxAB
+Author:    Jessica Martin-Henderson
+Rating:    4
+Published: 4 hours ago
+Text:      It was a party of six, and we all ordered different dishes. Unfortunately, only my friend and I actually enjoyed our food. I had the branzino fish, and she had the short rib. The drinks were also weak and overpriced. My French 75 was $21, …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT20xTVYxSjVXR3BHU21sNFJsSjJTVkJ2VVd4QmEwRRAB
 Author:    Ebony Riley
 Rating:    4
-Published: Edited 6 hours ago
+Published: Edited 13 hours ago
 Text:      I hosted my birthday with family here. The Ambiance from pulling up to valet to dining in was an experience. The food was VERY good. The portions for the sides could have been more but overall I enjoyed myself. Date night vibes for sure!!!
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21SWlVFOHlXVVZ2YnpCd1UxQjFjMUJ0Y3pKaVUwRRAB
 Author:    Elton Mason
 Rating:    5
-Published: 16 hours ago
+Published: 22 hours ago
 Text:      Expensive but nice
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tveVUzSlVUazFYVEZwU1FWTnlVekZ5V0V4M1NGRRAB
 Author:    Savannah Wasson
 Rating:    5
-Published: 17 hours ago
+Published: a day ago
 Text:      We came here for a bachelorette dinner and there was 10 of us ! A huge shoutout to A B, our server at Javier’s! He was absolutely amazing from start to finish. So attentive, friendly, and genuinely made sure we had everything we needed …
 
 --- Review ---
@@ -34,35 +41,35 @@ We had a birthday dinner here and not like other places  we weren't limited …
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21zdGVFOUxTRGRSY0RodU9FNUJVVUZ3YzFKTmRrRRAB
 Author:    Fadwa Yaldo
 Rating:    2
-Published: a day ago
+Published: 2 days ago
 Text:      Nice place for drinks and apps, lobster fried rice was disappointing
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25wdVoxWjFjWGxVZERSVlNuZHFWMEV3Y2xCbE5VRRAB
 Author:    Crystal Blackmore
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      This is my second time and everything we ordered was so delicious 😋 …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tjemRqRm5ZMnhmTm5KWVNrSkllVjlSTWtGdVNsRRAB
 Author:    Ashley Garvin
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      Alicia was attentive and kind.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xZdGJqZ3RVakJqTjA5QmIyaFRiWEJLZUhSa1ptYxAB
 Author:    ANQ
 Rating:    2
-Published: 4 days ago
+Published: 5 days ago
 Text:      Rib eye great… lobster crab rice ok ….Mac and cheese looks better than it tastes ….service was every half hour on a Tuesday hardly none what so ever…Rockefeller oysters had some season taco beef on top horrible the atmosphere was great but I will not return unless happy hour
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21rMFgzVkJTbkJ4V25CbE1ta3lSamM1TFhCcE1FRRAB
 Author:    salon elite
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      My husband and I came here for our 19th wedding anniversary. The atmosphere was lovely,  the food was amazing and our waiter AB sealed the deal. His customer service was 10/10. We ordered the meatballs for the appetizer and for our entrée we got the wagyu burger and ribeye. Everything was delicious
 Mentions:  ab (Abdallah)
 
@@ -81,17 +88,3 @@ Rating:    5
 Published: a week ago
 Text:      Our waitress was so sweet and the steak was amazing
 Mentions:  stela (Stela)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25WeGFreGpOMFIwYkd0UlMyeGZkbWhMUTFkbVpYYxAB
-Author:    chloe brikho
-Rating:    5
-Published: a week ago
-Text:      I had a great experience at Jaivers! The atmosphere was amazing and the vibes were so fun especially with everyone dancing It made the whole night feel lively and enjoyable.The food was really good too I definitely recommend the fattoush salad and the corn as an appetizer I’ll definitely be coming back
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2twWVpsSTRXbTVYZVhWaVlqbENTalJYY0VGcFJWRRAB
-Author:    MERNA KESTO
-Rating:    5
-Published: a week ago
-Text:      Had an amazing experience at Javier’s Downtown! The service was outstanding—everyone was welcoming, attentive, and made us feel right at home. The food was absolutely delicious, and every dish was full of flavor. Definitely a place I’ll be coming back to. Highly recommend!
