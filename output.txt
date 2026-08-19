@@ -1,5 +1,12 @@
-=== Run: 2026-08-19 06:33:51 ===
-Reviews in last 7 days: 14
+=== Run: 2026-08-19 18:50:54 ===
+Reviews in last 7 days: 15
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2xBek5rMTRkVmgyY2poaWQzUkVlVVJ5V0ZwbFJXYxAB
+Author:    James White
+Rating:    5
+Published: 12 hours ago
+Text:      The vibe here is such a great mix of classy and lively, making it an easy spot to enjoy dinner and stay out for the night. Our server was friendly, sharp, and always on top of things without being overbearing. The food was excellent, with …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tWcmJuTlRUMnRDY201U2NUVkVTVm81ZW0xaWVrRRAB
@@ -12,7 +19,7 @@ Text:      The food was prompt, fresh, and exceptionally tasty.
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21WNk5rMU9RMWhCWVVWUlgzRndkalV4WXpORWVGRRAB
 Author:    Jody Thegod
 Rating:    2
-Published: a day ago
+Published: 2 days ago
 Text:      Overall decent experience. Food was over priced! Automatically added gratuity when we had a party of only 4. Normally it’s party of 6. Spent over $100 for 2 apps and two drinks.
 
 --- Review ---
@@ -26,7 +33,7 @@ Text:      It was a party of six, and we all ordered different dishes. Unfortuna
 ID:        Ci9DQUlRQUNvZENodHljRjlvT20xTVYxSjVXR3BHU21sNFJsSjJTVkJ2VVd4QmEwRRAB
 Author:    Ebony Riley
 Rating:    4
-Published: Edited 2 days ago
+Published: Edited 3 days ago
 Text:      I hosted my birthday with family here. The Ambiance from pulling up to valet to dining in was an experience. The food was VERY good. The portions for the sides could have been more but overall I enjoyed myself. Date night vibes for sure!!!
 
 --- Review ---
@@ -47,7 +54,7 @@ Text:      We came here for a bachelorette dinner and there was 10 of us ! A hug
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xKNVFqRlRVMUF5TUVZd1RHbExYelowTTFSUFpYYxAB
 Author:    Audrey Price
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      I was in aw when I entered this breathtaking restaurant! It was all in the details!💯
 We had a birthday dinner here and not like other places  we weren't limited …
 
