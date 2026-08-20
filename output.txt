@@ -1,11 +1,11 @@
-=== Run: 2026-08-20 12:33:56 ===
+=== Run: 2026-08-20 18:29:12 ===
 Reviews in last 7 days: 15
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2t0V1lUSndURTE2ZUVnNFMzbHZjbmhpWjBnd1dWRRAB
 Author:    Social Scene
 Rating:    5
-Published: 9 hours ago
+Published: 15 hours ago
 Text:      They have the best Branzino in the city. It is well seasoned and cooked to perfection.
 
 --- Review ---
@@ -26,7 +26,7 @@ Text:      The food was prompt, fresh, and exceptionally tasty.
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21WNk5rMU9RMWhCWVVWUlgzRndkalV4WXpORWVGRRAB
 Author:    Jody Thegod
 Rating:    2
-Published: 2 days ago
+Published: 3 days ago
 Text:      Overall decent experience. Food was over priced! Automatically added gratuity when we had a party of only 4. Normally it’s party of 6. Spent over $100 for 2 apps and two drinks.
 
 --- Review ---
