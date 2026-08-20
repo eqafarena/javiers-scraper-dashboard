@@ -1,11 +1,18 @@
-=== Run: 2026-08-20 00:48:25 ===
+=== Run: 2026-08-20 06:34:37 ===
 Reviews in last 7 days: 15
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2t0V1lUSndURTE2ZUVnNFMzbHZjbmhpWjBnd1dWRRAB
+Author:    Social Scene
+Rating:    5
+Published: 3 hours ago
+Text:      They have the best Branzino in the city. It is well seasoned and cooked to perfection.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xBek5rMTRkVmgyY2poaWQzUkVlVVJ5V0ZwbFJXYxAB
 Author:    James White
 Rating:    5
-Published: 18 hours ago
+Published: a day ago
 Text:      The vibe here is such a great mix of classy and lively, making it an easy spot to enjoy dinner and stay out for the night. Our server was friendly, sharp, and always on top of things without being overbearing. The food was excellent, with …
 
 --- Review ---
@@ -40,7 +47,7 @@ Text:      I hosted my birthday with family here. The Ambiance from pulling up t
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21SWlVFOHlXVVZ2YnpCd1UxQjFjMUJ0Y3pKaVUwRRAB
 Author:    Elton Mason
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      Expensive but nice
 
 --- Review ---
@@ -54,7 +61,7 @@ Text:      We came here for a bachelorette dinner and there was 10 of us ! A hug
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xKNVFqRlRVMUF5TUVZd1RHbExYelowTTFSUFpYYxAB
 Author:    Audrey Price
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      I was in aw when I entered this breathtaking restaurant! It was all in the details!💯
 We had a birthday dinner here and not like other places  we weren't limited …
 
@@ -100,12 +107,4 @@ Author:    Tuna Mac
 Rating:    1
 Published: a week ago
 Text:      Dry steak seems a little over priced.
-Mentions:  stela (Stela)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT21Wc1pWTk5NM3BIU0Zsbk56WnVVREpZZEZwVlUzYxAB
-Author:    Christine Cuppetelli
-Rating:    5
-Published: a week ago
-Text:      Our waitress was so sweet and the steak was amazing
 Mentions:  stela (Stela)
