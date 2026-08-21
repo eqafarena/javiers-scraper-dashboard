@@ -1,4 +1,4 @@
-=== Run: 2026-08-21 12:33:36 ===
+=== Run: 2026-08-21 18:28:03 ===
 Reviews in last 7 days: 15
 
 --- Review ---
@@ -26,7 +26,7 @@ Text:      The food was prompt, fresh, and exceptionally tasty.
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21WNk5rMU9RMWhCWVVWUlgzRndkalV4WXpORWVGRRAB
 Author:    Jody Thegod
 Rating:    2
-Published: 3 days ago
+Published: 4 days ago
 Text:      Overall decent experience. Food was over priced! Automatically added gratuity when we had a party of only 4. Normally it’s party of 6. Spent over $100 for 2 apps and two drinks.
 
 --- Review ---
