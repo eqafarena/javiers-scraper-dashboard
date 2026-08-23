@@ -1,4 +1,4 @@
-=== Run: 2026-08-23 06:29:45 ===
+=== Run: 2026-08-23 12:25:46 ===
 Reviews in last 7 days: 15
 
 --- Review ---
@@ -19,7 +19,7 @@ Text:      They have the best Branzino in the city. It is well seasoned and cook
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xBek5rMTRkVmgyY2poaWQzUkVlVVJ5V0ZwbFJXYxAB
 Author:    James White
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      The vibe here is such a great mix of classy and lively, making it an easy spot to enjoy dinner and stay out for the night. Our server was friendly, sharp, and always on top of things without being overbearing. The food was excellent, with …
 
 --- Review ---
@@ -47,7 +47,7 @@ Text:      It was a party of six, and we all ordered different dishes. Unfortuna
 ID:        Ci9DQUlRQUNvZENodHljRjlvT20xTVYxSjVXR3BHU21sNFJsSjJTVkJ2VVd4QmEwRRAB
 Author:    Ebony Riley
 Rating:    4
-Published: Edited 6 days ago
+Published: Edited a week ago
 Text:      I hosted my birthday with family here. The Ambiance from pulling up to valet to dining in was an experience. The food was VERY good. The portions for the sides could have been more but overall I enjoyed myself. Date night vibes for sure!!!
 
 --- Review ---
