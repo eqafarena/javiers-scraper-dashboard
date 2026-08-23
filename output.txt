@@ -1,5 +1,5 @@
-=== Run: 2026-08-23 00:53:39 ===
-Reviews in last 7 days: 16
+=== Run: 2026-08-23 06:29:45 ===
+Reviews in last 7 days: 15
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xnNGNqZGxWbVJ6Y0hWdU5qUjBUUzFLWDIxNFdVRRAB
@@ -12,7 +12,7 @@ Text:      If you want good service good food and a very beautiful atmosphere co
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2t0V1lUSndURTE2ZUVnNFMzbHZjbmhpWjBnd1dWRRAB
 Author:    Social Scene
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      They have the best Branzino in the city. It is well seasoned and cooked to perfection.
 
 --- Review ---
@@ -54,7 +54,7 @@ Text:      I hosted my birthday with family here. The Ambiance from pulling up t
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21SWlVFOHlXVVZ2YnpCd1UxQjFjMUJ0Y3pKaVUwRRAB
 Author:    Elton Mason
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      Expensive but nice
 
 --- Review ---
@@ -107,11 +107,3 @@ Rating:    5
 Published: a week ago
 Text:      My husband and I came here for our 19th wedding anniversary. The atmosphere was lovely,  the food was amazing and our waiter AB sealed the deal. His customer service was 10/10. We ordered the meatballs for the appetizer and for our entrée we got the wagyu burger and ribeye. Everything was delicious
 Mentions:  ab (Abdallah)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2pad05tSnBOak40WkVwME9FZHhNSFZsVURKcFUyYxAB
-Author:    Tuna Mac
-Rating:    1
-Published: a week ago
-Text:      Dry steak seems a little over priced.
-Mentions:  stela (Stela)
