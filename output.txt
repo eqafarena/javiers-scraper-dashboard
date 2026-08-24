@@ -1,4 +1,4 @@
-=== Run: 2026-08-24 00:51:27 ===
+=== Run: 2026-08-24 18:31:56 ===
 Reviews in last 7 days: 15
 
 --- Review ---
@@ -12,14 +12,14 @@ Text:      If you want good service good food and a very beautiful atmosphere co
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2t0V1lUSndURTE2ZUVnNFMzbHZjbmhpWjBnd1dWRRAB
 Author:    Social Scene
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      They have the best Branzino in the city. It is well seasoned and cooked to perfection.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xBek5rMTRkVmgyY2poaWQzUkVlVVJ5V0ZwbFJXYxAB
 Author:    James White
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      The vibe here is such a great mix of classy and lively, making it an easy spot to enjoy dinner and stay out for the night. Our server was friendly, sharp, and always on top of things without being overbearing. The food was excellent, with …
 
 --- Review ---
@@ -33,7 +33,7 @@ Text:      The food was prompt, fresh, and exceptionally tasty.
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21WNk5rMU9RMWhCWVVWUlgzRndkalV4WXpORWVGRRAB
 Author:    Jody Thegod
 Rating:    2
-Published: 6 days ago
+Published: a week ago
 Text:      Overall decent experience. Food was over priced! Automatically added gratuity when we had a party of only 4. Normally it’s party of 6. Spent over $100 for 2 apps and two drinks.
 
 --- Review ---
