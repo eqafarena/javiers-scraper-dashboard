@@ -1,11 +1,11 @@
-=== Run: 2026-08-23 18:20:39 ===
+=== Run: 2026-08-24 00:51:27 ===
 Reviews in last 7 days: 15
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xnNGNqZGxWbVJ6Y0hWdU5qUjBUUzFLWDIxNFdVRRAB
 Author:    Faithfullykarin55
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      If you want good service good food and a very beautiful atmosphere come to Javier's you will enjoy a experience within a experience ♥️♥️♥️♥️
 
 --- Review ---
@@ -26,7 +26,7 @@ Text:      The vibe here is such a great mix of classy and lively, making it an 
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tWcmJuTlRUMnRDY201U2NUVkVTVm81ZW0xaWVrRRAB
 Author:    Tony Scalia
 Rating:    5
-Published: 5 days ago
+Published: 6 days ago
 Text:      The food was prompt, fresh, and exceptionally tasty.
 
 --- Review ---
@@ -40,7 +40,7 @@ Text:      Overall decent experience. Food was over priced! Automatically added 
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xSWlRqTXlSRUYzTFRnNFoweHdjVnA0UTBGRlNHYxAB
 Author:    Jessica Martin-Henderson
 Rating:    4
-Published: 6 days ago
+Published: a week ago
 Text:      It was a party of six, and we all ordered different dishes. Unfortunately, only my friend and I actually enjoyed our food. I had the branzino fish, and she had the short rib. The drinks were also weak and overpriced. My French 75 was $21, …
 
 --- Review ---
