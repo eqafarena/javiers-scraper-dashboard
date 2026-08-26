@@ -1,18 +1,18 @@
-=== Run: 2026-08-25 18:30:22 ===
-Reviews in last 7 days: 16
+=== Run: 2026-08-26 00:52:28 ===
+Reviews in last 7 days: 14
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25Ca1FrOW5WMkZuTFdsbk5XbFpZVWxHY21FMllXYxAB
 Author:    stephanieb moreno
 Rating:    5
-Published: 21 hours ago
+Published: a day ago
 Text:      Omg! So I fly here for work every 6-8 weeks and I’m always looking for a good restaurant. The food in Detroit is soooooooo good! So this trip we came to Javier’s! From the moment we walked in we were treated like a million bucks. Everyone …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xnNGNqZGxWbVJ6Y0hWdU5qUjBUUzFLWDIxNFdVRRAB
 Author:    Faithfullykarin55
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      If you want good service good food and a very beautiful atmosphere come to Javier's you will enjoy a experience within a experience ♥️♥️♥️♥️
 
 --- Review ---
@@ -99,18 +99,3 @@ Author:    Ashley Garvin
 Rating:    5
 Published: a week ago
 Text:      Alicia was attentive and kind.
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xZdGJqZ3RVakJqTjA5QmIyaFRiWEJLZUhSa1ptYxAB
-Author:    ANQ
-Rating:    2
-Published: a week ago
-Text:      Rib eye great… lobster crab rice ok ….Mac and cheese looks better than it tastes ….service was every half hour on a Tuesday hardly none what so ever…Rockefeller oysters had some season taco beef on top horrible the atmosphere was great but I will not return unless happy hour
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT21rMFgzVkJTbkJ4V25CbE1ta3lSamM1TFhCcE1FRRAB
-Author:    salon elite
-Rating:    5
-Published: a week ago
-Text:      My husband and I came here for our 19th wedding anniversary. The atmosphere was lovely,  the food was amazing and our waiter AB sealed the deal. His customer service was 10/10. We ordered the meatballs for the appetizer and for our entrée we got the wagyu burger and ribeye. Everything was delicious
-Mentions:  ab (Abdallah)
