@@ -1,4 +1,4 @@
-=== Run: 2026-08-26 00:52:28 ===
+=== Run: 2026-08-26 06:37:22 ===
 Reviews in last 7 days: 14
 
 --- Review ---
@@ -19,14 +19,14 @@ Text:      If you want good service good food and a very beautiful atmosphere co
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2t0V1lUSndURTE2ZUVnNFMzbHZjbmhpWjBnd1dWRRAB
 Author:    Social Scene
 Rating:    5
-Published: 5 days ago
+Published: 6 days ago
 Text:      They have the best Branzino in the city. It is well seasoned and cooked to perfection.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xBek5rMTRkVmgyY2poaWQzUkVlVVJ5V0ZwbFJXYxAB
 Author:    James White
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      The vibe here is such a great mix of classy and lively, making it an easy spot to enjoy dinner and stay out for the night. Our server was friendly, sharp, and always on top of things without being overbearing. The food was excellent, with …
 
 --- Review ---
