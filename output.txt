@@ -1,5 +1,28 @@
-=== Run: 2026-08-28 21:40:29 ===
-Reviews in last 7 days: 13
+=== Run: 2026-08-29 05:00:53 ===
+Reviews in last 7 days: 14
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2xCVWNUaEpibXhQYnpkdFVUSTNZbVp0VmxKMWRYYxAB
+Author:    Chris OG
+Rating:    2
+Published: 3 hours ago
+Text:      Service was extremely slow for a restaurant that’s not even half packed. Food was good but like warm. presentation better than food. Server was extremely slow. he was so quiet idk if he’s nice or friendly. I’m being harsh only because of the price. the bell am i paying $90 for when i get better service at texas roadhouse
+Mentions:  bella (Bella)
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2xGZmFqWlBRM2xzY0RoNUxVOWhTVXhOYTFacVZsRRAB
+Author:    B.E. Goddess
+Rating:    4
+Published: 4 hours ago
+Text:      I celebrated my one year anniversary here. The ambience, and staff were excellent. Everyone was so nice. I also liked that our service expert was so knowledgeable about the specials they were having because we came right at the cusp of the …
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25kR2RISktiRUpYWlVkcFRqUk5OelE0TkhZMGRVRRAB
+Author:    Charis Perkins
+Rating:    5
+Published: 5 hours ago
+Text:      Came to celebrate my daughter’s 19th bday!! Our waitress Ariel was amazing!! Have great recommendations and really mad her night. Thanks so much!! The pork chops were great!
+Mentions:  ariel (Ariel)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25Ca1FrOW5WMkZuTFdsbk5XbFpZVWxHY21FMllXYxAB
@@ -78,17 +101,3 @@ Rating:    5
 Published: a week ago
 Text:      I was in aw when I entered this breathtaking restaurant! It was all in the details!💯
 We had a birthday dinner here and not like other places  we weren't limited …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT21zdGVFOUxTRGRSY0RodU9FNUJVVUZ3YzFKTmRrRRAB
-Author:    Fadwa Yaldo
-Rating:    2
-Published: a week ago
-Text:      Nice place for drinks and apps, lobster fried rice was disappointing
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25wdVoxWjFjWGxVZERSVlNuZHFWMEV3Y2xCbE5VRRAB
-Author:    Crystal Blackmore
-Rating:    5
-Published: a week ago
-Text:      This is my second time and everything we ordered was so delicious 😋 …
