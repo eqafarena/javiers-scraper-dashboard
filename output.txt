@@ -1,11 +1,18 @@
-=== Run: 2026-08-29 20:17:09 ===
-Reviews in last 7 days: 13
+=== Run: 2026-08-30 02:47:32 ===
+Reviews in last 7 days: 12
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25JMFFrbzVjWEZvVkdkdU9UZzNZMnR0VTNoWFRtYxAB
+Author:    Laticia Grant
+Rating:    4
+Published: 4 hours ago
+Text:      The staff was pleasant and great atmosphere.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xCVWNUaEpibXhQYnpkdFVUSTNZbVp0VmxKMWRYYxAB
 Author:    Chris OG
 Rating:    2
-Published: 18 hours ago
+Published: a day ago
 Text:      Service was extremely slow for a restaurant that’s not even half packed. Food was good but like warm. presentation better than food. Server was extremely slow. he was so quiet idk if he’s nice or friendly. I’m being harsh only because of the price. the bell am i paying $90 for when i get better service at texas roadhouse
 Mentions:  bella (Bella)
 
@@ -13,14 +20,14 @@ Mentions:  bella (Bella)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xGZmFqWlBRM2xzY0RoNUxVOWhTVXhOYTFacVZsRRAB
 Author:    B.E. Goddess
 Rating:    4
-Published: 20 hours ago
+Published: a day ago
 Text:      I celebrated my one year anniversary here. The ambience, and staff were excellent. Everyone was so nice. I also liked that our service expert was so knowledgeable about the specials they were having because we came right at the cusp of the …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25kR2RISktiRUpYWlVkcFRqUk5OelE0TkhZMGRVRRAB
 Author:    Charis Perkins
 Rating:    5
-Published: 21 hours ago
+Published: a day ago
 Text:      Came to celebrate my daughter’s 19th bday!! Our waitress Ariel was amazing!! Have great recommendations and really mad her night. Thanks so much!! The pork chops were great!
 Mentions:  ariel (Ariel)
 
@@ -28,7 +35,7 @@ Mentions:  ariel (Ariel)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25Ca1FrOW5WMkZuTFdsbk5XbFpZVWxHY21FMllXYxAB
 Author:    stephanieb moreno
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      Omg! So I fly here for work every 6-8 weeks and I’m always looking for a good restaurant. The food in Detroit is soooooooo good! So this trip we came to Javier’s! From the moment we walked in we were treated like a million bucks. Everyone …
 
 --- Review ---
@@ -79,17 +86,3 @@ Author:    Ebony Riley
 Rating:    4
 Published: Edited a week ago
 Text:      I hosted my birthday with family here. The Ambiance from pulling up to valet to dining in was an experience. The food was VERY good. The portions for the sides could have been more but overall I enjoyed myself. Date night vibes for sure!!!
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT21SWlVFOHlXVVZ2YnpCd1UxQjFjMUJ0Y3pKaVUwRRAB
-Author:    Elton Mason
-Rating:    5
-Published: a week ago
-Text:      Expensive but nice
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2tveVUzSlVUazFYVEZwU1FWTnlVekZ5V0V4M1NGRRAB
-Author:    Savannah Wasson
-Rating:    5
-Published: a week ago
-Text:      We came here for a bachelorette dinner and there was 10 of us ! A huge shoutout to A B, our server at Javier’s! He was absolutely amazing from start to finish. So attentive, friendly, and genuinely made sure we had everything we needed …
