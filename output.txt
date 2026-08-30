@@ -1,11 +1,18 @@
-=== Run: 2026-08-30 11:01:56 ===
+=== Run: 2026-08-30 15:50:28 ===
 Reviews in last 7 days: 13
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2trNFRteFFOM3BKUmxwVGJYaHFPVzUxUlRVeFJVRRAB
+Author:    Tina Sorg
+Rating:    5
+Published: 3 hours ago
+Text:      Delicious food in a very fun eclectic atmosphere. Perfect for pre or post show or game day meal or drinks and apps.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2s1R01reHVRMlE0ZDB0QlJGRjFhbEp4WXpOcGJGRRAB
 Author:    Alejandro Galicia Zarate
 Rating:    4
-Published: 6 hours ago
+Published: 11 hours ago
 Text:      Amazing place, music and deco...
 But... you can't overcook a steak when you ask for "medium"
 I asked for blue cheese croquettes and milanesa... but didn't have it available... maybe next time
@@ -15,7 +22,7 @@ Mentions:  stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25JMFFrbzVjWEZvVkdkdU9UZzNZMnR0VTNoWFRtYxAB
 Author:    Laticia Grant
 Rating:    4
-Published: 12 hours ago
+Published: 17 hours ago
 Text:      The staff was pleasant and great atmosphere.
 
 --- Review ---
@@ -78,7 +85,7 @@ Text:      The food was prompt, fresh, and exceptionally tasty.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21WNk5rMU9RMWhCWVVWUlgzRndkalV4WXpORWVGRRAB
-Author:    Jody Thegod
+Author:    King Breeze
 Rating:    2
 Published: a week ago
 Text:      Overall decent experience. Food was over priced! Automatically added gratuity when we had a party of only 4. Normally it’s party of 6. Spent over $100 for 2 apps and two drinks.
@@ -89,10 +96,3 @@ Author:    Jessica Martin-Henderson
 Rating:    4
 Published: a week ago
 Text:      It was a party of six, and we all ordered different dishes. Unfortunately, only my friend and I actually enjoyed our food. I had the branzino fish, and she had the short rib. The drinks were also weak and overpriced. My French 75 was $21, …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT20xTVYxSjVXR3BHU21sNFJsSjJTVkJ2VVd4QmEwRRAB
-Author:    Ebony Riley
-Rating:    4
-Published: Edited a week ago
-Text:      I hosted my birthday with family here. The Ambiance from pulling up to valet to dining in was an experience. The food was VERY good. The portions for the sides could have been more but overall I enjoyed myself. Date night vibes for sure!!!
