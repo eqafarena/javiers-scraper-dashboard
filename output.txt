@@ -1,11 +1,18 @@
-=== Run: 2026-08-31 12:20:30 ===
+=== Run: 2026-08-31 22:17:21 ===
 Reviews in last 7 days: 12
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2tKVE1tSlhSRzVmVDBsRVdWTnRPVkZTU1VSbWNVRRAB
+Author:    Robin
+Rating:    5
+Published: 6 hours ago
+Text:      The staff are polite, courteous and accommodating, the atmosphere is elegant and calming, it was a wonderful dinning experience.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2trNFRteFFOM3BKUmxwVGJYaHFPVzUxUlRVeFJVRRAB
 Author:    Tina Sorg
 Rating:    5
-Published: 23 hours ago
+Published: a day ago
 Text:      Delicious food in a very fun eclectic atmosphere. Perfect for pre or post show or game day meal or drinks and apps.
 
 --- Review ---
@@ -52,7 +59,7 @@ Mentions:  ariel (Ariel)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25Ca1FrOW5WMkZuTFdsbk5XbFpZVWxHY21FMllXYxAB
 Author:    stephanieb moreno
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      Omg! So I fly here for work every 6-8 weeks and I’m always looking for a good restaurant. The food in Detroit is soooooooo good! So this trip we came to Javier’s! From the moment we walked in we were treated like a million bucks. Everyone …
 
 --- Review ---
@@ -82,10 +89,3 @@ Author:    Tony Scalia
 Rating:    5
 Published: a week ago
 Text:      The food was prompt, fresh, and exceptionally tasty.
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT21WNk5rMU9RMWhCWVVWUlgzRndkalV4WXpORWVGRRAB
-Author:    King Breeze
-Rating:    2
-Published: a week ago
-Text:      Overall decent experience. Food was over priced! Automatically added gratuity when we had a party of only 4. Normally it’s party of 6. Spent over $100 for 2 apps and two drinks.
