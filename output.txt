@@ -1,11 +1,11 @@
-=== Run: 2026-09-02 02:14:56 ===
-Reviews in last 7 days: 12
+=== Run: 2026-09-02 10:20:22 ===
+Reviews in last 7 days: 11
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21ndFQyczVNSFEyTmt3MVprNHhaSEJ6ZEVkRE1tYxAB
 Author:    M M
 Rating:    1
-Published: an hour ago
+Published: 9 hours ago
 Text:      Beautiful venue, great servers , but food is absolutely disgusting and cheap products used , entrees range from 35$+
 
 --- Review ---
@@ -26,7 +26,7 @@ Text:      Delicious food in a very fun eclectic atmosphere. Perfect for pre or 
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2s1R01reHVRMlE0ZDB0QlJGRjFhbEp4WXpOcGJGRRAB
 Author:    Alejandro Galicia Zarate
 Rating:    4
-Published: 2 days ago
+Published: 3 days ago
 Text:      Amazing place, music and deco...
 But... you can't overcook a steak when you ask for "medium"
 I asked for blue cheese croquettes and milanesa... but didn't have it available... maybe next time
@@ -82,10 +82,3 @@ Author:    Social Scene
 Rating:    5
 Published: a week ago
 Text:      They have the best Branzino in the city. It is well seasoned and cooked to perfection.
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xBek5rMTRkVmgyY2poaWQzUkVlVVJ5V0ZwbFJXYxAB
-Author:    James White
-Rating:    5
-Published: a week ago
-Text:      The vibe here is such a great mix of classy and lively, making it an easy spot to enjoy dinner and stay out for the night. Our server was friendly, sharp, and always on top of things without being overbearing. The food was excellent, with …
