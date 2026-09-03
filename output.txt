@@ -1,5 +1,12 @@
-=== Run: 2026-09-03 10:30:45 ===
-Reviews in last 7 days: 10
+=== Run: 2026-09-03 15:35:43 ===
+Reviews in last 7 days: 11
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT21ZdGJHZFNVMkptYkZaM1MwTTVSR0l4UmtOS1kyYxAB
+Author:    deanne madison
+Rating:    3
+Published: 16 minutes ago
+Text:      A group of 9 of us women were initially told there were no tables, so we waited in the lobby for 1/2 an hour for our ride to pick us up. A server finally walked up to us and asked if we were ready. We explained that another server at the …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21ndFQyczVNSFEyTmt3MVprNHhaSEJ6ZEVkRE1tYxAB
@@ -19,7 +26,7 @@ Text:      The staff are polite, courteous and accommodating, the atmosphere is 
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2trNFRteFFOM3BKUmxwVGJYaHFPVzUxUlRVeFJVRRAB
 Author:    Tina Sorg
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      Delicious food in a very fun eclectic atmosphere. Perfect for pre or post show or game day meal or drinks and apps.
 
 --- Review ---
