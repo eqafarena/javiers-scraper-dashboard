@@ -1,25 +1,25 @@
-=== Run: 2026-09-03 15:35:43 ===
+=== Run: 2026-09-04 02:16:30 ===
 Reviews in last 7 days: 11
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21ZdGJHZFNVMkptYkZaM1MwTTVSR0l4UmtOS1kyYxAB
 Author:    deanne madison
 Rating:    3
-Published: 16 minutes ago
+Published: 10 hours ago
 Text:      A group of 9 of us women were initially told there were no tables, so we waited in the lobby for 1/2 an hour for our ride to pick us up. A server finally walked up to us and asked if we were ready. We explained that another server at the …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21ndFQyczVNSFEyTmt3MVprNHhaSEJ6ZEVkRE1tYxAB
 Author:    M M
 Rating:    1
-Published: a day ago
+Published: 2 days ago
 Text:      Beautiful venue, great servers , but food is absolutely disgusting and cheap products used , entrees range from 35$+
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tKVE1tSlhSRzVmVDBsRVdWTnRPVkZTU1VSbWNVRRAB
 Author:    Robin
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      The staff are polite, courteous and accommodating, the atmosphere is elegant and calming, it was a wonderful dinning experience.
 
 --- Review ---
@@ -43,14 +43,14 @@ Mentions:  stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25JMFFrbzVjWEZvVkdkdU9UZzNZMnR0VTNoWFRtYxAB
 Author:    Laticia Grant
 Rating:    4
-Published: 4 days ago
+Published: 5 days ago
 Text:      The staff was pleasant and great atmosphere.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xCVWNUaEpibXhQYnpkdFVUSTNZbVp0VmxKMWRYYxAB
 Author:    Chris OG
 Rating:    2
-Published: 5 days ago
+Published: 6 days ago
 Text:      Service was extremely slow for a restaurant that’s not even half packed. Food was good but like warm. presentation better than food. Server was extremely slow. he was so quiet idk if he’s nice or friendly. I’m being harsh only because of the price. the bell am i paying $90 for when i get better service at texas roadhouse
 Mentions:  bella (Bella)
 
@@ -58,14 +58,14 @@ Mentions:  bella (Bella)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xGZmFqWlBRM2xzY0RoNUxVOWhTVXhOYTFacVZsRRAB
 Author:    B.E. Goddess
 Rating:    4
-Published: 5 days ago
+Published: 6 days ago
 Text:      I celebrated my one year anniversary here. The ambience, and staff were excellent. Everyone was so nice. I also liked that our service expert was so knowledgeable about the specials they were having because we came right at the cusp of the …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25kR2RISktiRUpYWlVkcFRqUk5OelE0TkhZMGRVRRAB
 Author:    Charis Perkins
 Rating:    5
-Published: 5 days ago
+Published: 6 days ago
 Text:      Came to celebrate my daughter’s 19th bday!! Our waitress Ariel was amazing!! Have great recommendations and really mad her night. Thanks so much!! The pork chops were great!
 Mentions:  ariel (Ariel)
 
