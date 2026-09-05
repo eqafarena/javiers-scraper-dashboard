@@ -1,5 +1,5 @@
-=== Run: 2026-09-05 02:17:25 ===
-Reviews in last 7 days: 10
+=== Run: 2026-09-05 09:46:46 ===
+Reviews in last 7 days: 11
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21ZdGJHZFNVMkptYkZaM1MwTTVSR0l4UmtOS1kyYxAB
@@ -33,7 +33,7 @@ Text:      Delicious food in a very fun eclectic atmosphere. Perfect for pre or 
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2s1R01reHVRMlE0ZDB0QlJGRjFhbEp4WXpOcGJGRRAB
 Author:    Alejandro Galicia Zarate
 Rating:    4
-Published: 5 days ago
+Published: 6 days ago
 Text:      Amazing place, music and deco...
 But... you can't overcook a steak when you ask for "medium"
 I asked for blue cheese croquettes and milanesa... but didn't have it available... maybe next time
@@ -45,6 +45,13 @@ Author:    Laticia Grant
 Rating:    4
 Published: 6 days ago
 Text:      The staff was pleasant and great atmosphere.
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25Odlp6QlVTRmRETTNoamVEbFhjRnB6TkhKRFIzYxAB
+Author:    Andrew Busch
+Rating:    1
+Published: a week ago
+Text:      Tried to stop by Javier’s after a Tiger game.  Was instructed at the front door no gameday apparel was allowed.  The bar was almost completely empty. After walking by the front of the bar, after being turned away, my party and I noticed …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xCVWNUaEpibXhQYnpkdFVUSTNZbVp0VmxKMWRYYxAB
