@@ -1,5 +1,12 @@
-=== Run: 2026-09-06 02:12:43 ===
-Reviews in last 7 days: 11
+=== Run: 2026-09-06 10:02:07 ===
+Reviews in last 7 days: 12
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25KSVREZGlSekJpUVhabmVtNTFWMFpPY1V4d2VHYxAB
+Author:    E Aliko
+Rating:    2
+Published: 9 hours ago
+Text:      Not good! Expected better vibe
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21ZdGJHZFNVMkptYkZaM1MwTTVSR0l4UmtOS1kyYxAB
@@ -33,7 +40,7 @@ Text:      Delicious food in a very fun eclectic atmosphere. Perfect for pre or 
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2s1R01reHVRMlE0ZDB0QlJGRjFhbEp4WXpOcGJGRRAB
 Author:    Alejandro Galicia Zarate
 Rating:    4
-Published: 6 days ago
+Published: a week ago
 Text:      Amazing place, music and deco...
 But... you can't overcook a steak when you ask for "medium"
 I asked for blue cheese croquettes and milanesa... but didn't have it available... maybe next time
