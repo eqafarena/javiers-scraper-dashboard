@@ -1,4 +1,4 @@
-=== Run: 2026-09-10 10:23:33 ===
+=== Run: 2026-09-10 15:39:14 ===
 Reviews in last 7 days: 11
 
 --- Review ---
@@ -12,7 +12,7 @@ Text:      Not good! Expected better vibe
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21ZdGJHZFNVMkptYkZaM1MwTTVSR0l4UmtOS1kyYxAB
 Author:    deanne madison
 Rating:    3
-Published: 6 days ago
+Published: a week ago
 Text:      A group of 9 of us women were initially told there were no tables, so we waited in the lobby for 1/2 an hour for our ride to pick us up. A server finally walked up to us and asked if we were ready. We explained that another server at the …
 
 --- Review ---
