@@ -1,11 +1,11 @@
-=== Run: 2026-09-11 20:20:07 ===
-Reviews in last 7 days: 11
+=== Run: 2026-09-12 02:27:38 ===
+Reviews in last 7 days: 7
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25KSVREZGlSekJpUVhabmVtNTFWMFpPY1V4d2VHYxAB
 Author:    E Aliko
 Rating:    2
-Published: 5 days ago
+Published: 6 days ago
 Text:      Not good! Expected better vibe
 
 --- Review ---
@@ -52,33 +52,3 @@ Author:    Laticia Grant
 Rating:    4
 Published: a week ago
 Text:      The staff was pleasant and great atmosphere.
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25Odlp6QlVTRmRETTNoamVEbFhjRnB6TkhKRFIzYxAB
-Author:    Andrew Busch
-Rating:    1
-Published: a week ago
-Text:      Tried to stop by Javier’s after a Tiger game.  Was instructed at the front door no gameday apparel was allowed.  The bar was almost completely empty. After walking by the front of the bar, after being turned away, my party and I noticed …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xCVWNUaEpibXhQYnpkdFVUSTNZbVp0VmxKMWRYYxAB
-Author:    Chris OG
-Rating:    2
-Published: a week ago
-Text:      Service was extremely slow for a restaurant that’s not even half packed. Food was good but like warm. presentation better than food. Server was extremely slow. he was so quiet idk if he’s nice or friendly. I’m being harsh only because of the price. the bell am i paying $90 for when i get better service at texas roadhouse
-Mentions:  bella (Bella)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xGZmFqWlBRM2xzY0RoNUxVOWhTVXhOYTFacVZsRRAB
-Author:    Arbrielle Brazier
-Rating:    4
-Published: a week ago
-Text:      I celebrated my one year anniversary here. The ambience, and staff were excellent. Everyone was so nice. I also liked that our service expert was so knowledgeable about the specials they were having because we came right at the cusp of the …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25kR2RISktiRUpYWlVkcFRqUk5OelE0TkhZMGRVRRAB
-Author:    Charis Perkins
-Rating:    5
-Published: a week ago
-Text:      Came to celebrate my daughter’s 19th bday!! Our waitress Ariel was amazing!! Have great recommendations and really mad her night. Thanks so much!! The pork chops were great!
-Mentions:  ariel (Ariel)

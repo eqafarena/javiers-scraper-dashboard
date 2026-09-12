@@ -1,13 +1,11 @@
 # Javier's Reviews Dashboard
 
-> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 11 &nbsp;|&nbsp; **Updated:** 2026-09-11 20:20:07
+> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 7 &nbsp;|&nbsp; **Updated:** 2026-09-12 02:27:38
 
 ## Staff Mentions
 
 | Name | Mentions | Avg Rating |
 |:---|:---:|:---:|
-| Ariel | 1 | 5.0 ★ |
-| Bella | 1 | 2.0 ★ |
 | Stela | 1 | 4.0 ★ |
 
 ---
