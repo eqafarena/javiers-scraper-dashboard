@@ -1,5 +1,20 @@
-=== Run: 2026-09-12 02:27:38 ===
-Reviews in last 7 days: 7
+=== Run: 2026-09-12 09:55:34 ===
+Reviews in last 7 days: 9
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25CblZtSkxSSGRXTFhsUGNHUktlbVZqU2tjeFRtYxAB
+Author:    Natalie Mootry
+Rating:    5
+Published: 7 hours ago
+Text:      The food at the restaurant was amazing!!
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2xsNVprOXFORUUxVUZkMVVYVkRUR0ZoVGs0d1RuYxAB
+Author:    Regan Salo
+Rating:    5
+Published: 9 hours ago
+Text:      Jess, Bella, and Cat were fantastic!!
+Mentions:  cat (Kat), bella (Bella)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25KSVREZGlSekJpUVhabmVtNTFWMFpPY1V4d2VHYxAB
