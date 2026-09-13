@@ -1,11 +1,11 @@
-=== Run: 2026-09-13 10:55:29 ===
-Reviews in last 7 days: 8
+=== Run: 2026-09-13 15:26:54 ===
+Reviews in last 7 days: 7
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tWbGNFbFlhVXhWYTAxQ1V6QTFjVkZmZFZOblExRRAB
 Author:    KeNiqua Hawkins
 Rating:    5
-Published: 4 hours ago
+Published: 9 hours ago
 Text:      Leon was O-mazing! & Cat was O-mazin as well! Can’t wait to come back!
 Mentions:  cat (Kat), leon (Leon)
 
@@ -51,10 +51,3 @@ Author:    Robin
 Rating:    5
 Published: a week ago
 Text:      The staff are polite, courteous and accommodating, the atmosphere is elegant and calming, it was a wonderful dinning experience.
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2trNFRteFFOM3BKUmxwVGJYaHFPVzUxUlRVeFJVRRAB
-Author:    Tina Sorg
-Rating:    5
-Published: a week ago
-Text:      Delicious food in a very fun eclectic atmosphere. Perfect for pre or post show or game day meal or drinks and apps.
