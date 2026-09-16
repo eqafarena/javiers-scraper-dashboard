@@ -1,18 +1,18 @@
-=== Run: 2026-09-14 21:17:59 ===
-Reviews in last 7 days: 7
+=== Run: 2026-09-16 10:36:29 ===
+Reviews in last 7 days: 6
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pSWFRXbG1abXg2ZEhrdFpFdDJPRVJ0TlRsM2FVRRAB
 Author:    Brittany Tubbs
 Rating:    2
-Published: 6 hours ago
+Published: a day ago
 Text:      Me and my guy came in from out of town and had on our list of must try restaurants. The atmosphere was really nice. The drink I ordered tasted like they just poured syrup in it and threw a couple pieces of fruit in. I ordered the chicken …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tWbGNFbFlhVXhWYTAxQ1V6QTFjVkZmZFZOblExRRAB
 Author:    KeNiqua Hawkins
 Rating:    5
-Published: a day ago
+Published: 3 days ago
 Text:      Leon was O-mazing! & Cat was O-mazin as well! Can’t wait to come back!
 Mentions:  cat (Kat), leon (Leon)
 
@@ -20,14 +20,14 @@ Mentions:  cat (Kat), leon (Leon)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25CblZtSkxSSGRXTFhsUGNHUktlbVZqU2tjeFRtYxAB
 Author:    Natalie Mootry
 Rating:    5
-Published: 2 days ago
+Published: 4 days ago
 Text:      The food at the restaurant was amazing!!
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xsNVprOXFORUUxVUZkMVVYVkRUR0ZoVGs0d1RuYxAB
 Author:    Regan Salo
 Rating:    5
-Published: 2 days ago
+Published: 4 days ago
 Text:      Jess, Bella, and Cat were fantastic!!
 Mentions:  cat (Kat), bella (Bella)
 
@@ -44,10 +44,3 @@ Author:    deanne madison
 Rating:    3
 Published: a week ago
 Text:      A group of 9 of us women were initially told there were no tables, so we waited in the lobby for 1/2 an hour for our ride to pick us up. A server finally walked up to us and asked if we were ready. We explained that another server at the …
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT21ndFQyczVNSFEyTmt3MVprNHhaSEJ6ZEVkRE1tYxAB
-Author:    M M
-Rating:    1
-Published: a week ago
-Text:      Beautiful venue, great servers , but food is absolutely disgusting and cheap products used , entrees range from 35$+
