@@ -1,11 +1,11 @@
-=== Run: 2026-09-16 10:36:29 ===
+=== Run: 2026-09-17 02:43:43 ===
 Reviews in last 7 days: 6
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pSWFRXbG1abXg2ZEhrdFpFdDJPRVJ0TlRsM2FVRRAB
 Author:    Brittany Tubbs
 Rating:    2
-Published: a day ago
+Published: 2 days ago
 Text:      Me and my guy came in from out of town and had on our list of must try restaurants. The atmosphere was really nice. The drink I ordered tasted like they just poured syrup in it and threw a couple pieces of fruit in. I ordered the chicken …
 
 --- Review ---
@@ -27,7 +27,7 @@ Text:      The food at the restaurant was amazing!!
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xsNVprOXFORUUxVUZkMVVYVkRUR0ZoVGs0d1RuYxAB
 Author:    Regan Salo
 Rating:    5
-Published: 4 days ago
+Published: 5 days ago
 Text:      Jess, Bella, and Cat were fantastic!!
 Mentions:  cat (Kat), bella (Bella)
 
