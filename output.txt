@@ -1,11 +1,11 @@
-=== Run: 2026-09-20 02:41:42 ===
+=== Run: 2026-09-20 20:06:21 ===
 Reviews in last 7 days: 6
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pOQmREbG5kMlpQYnkxU2VuZHlMVUZmZFdOcFFVRRAB
 Author:    Sue May
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      Stumbled into Javier’s last week to catch the end of the Lions game and was pleasantly surprised, the restaurant is just beautiful, we were taken care of by Alexa and her older sister and they were great! My brother-in-law was messing with …
 Mentions:  alexa (Alexa)
 
@@ -13,21 +13,21 @@ Mentions:  alexa (Alexa)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25WVGNreEtjME5qUWpKMlEzVlBRamhVYVRkQ2VtYxAB
 Author:    Jonathan Dunwoody
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      Yusuf was the greatest server of all time. Best guy I’ve ever met. Executed all the steps of service perfectly and above and beyond. It was an honor to have him as my server for my 3 year anniversary with my girlfriend! And all the food tasted wonderful.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pSWFRXbG1abXg2ZEhrdFpFdDJPRVJ0TlRsM2FVRRAB
 Author:    Brittany Tubbs
 Rating:    2
-Published: 5 days ago
+Published: 6 days ago
 Text:      Me and my guy came in from out of town and had on our list of must try restaurants. The atmosphere was really nice. The drink I ordered tasted like they just poured syrup in it and threw a couple pieces of fruit in. I ordered the chicken …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tWbGNFbFlhVXhWYTAxQ1V6QTFjVkZmZFZOblExRRAB
 Author:    KeNiqua Hawkins
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      Leon was O-mazing! & Cat was O-mazin as well! Can’t wait to come back!
 Mentions:  cat (Kat), leon (Leon)
 
