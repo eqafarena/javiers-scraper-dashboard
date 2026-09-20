@@ -1,5 +1,5 @@
-=== Run: 2026-09-19 10:06:08 ===
-Reviews in last 7 days: 7
+=== Run: 2026-09-20 02:41:42 ===
+Reviews in last 7 days: 6
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pOQmREbG5kMlpQYnkxU2VuZHlMVUZmZFdOcFFVRRAB
@@ -20,7 +20,7 @@ Text:      Yusuf was the greatest server of all time. Best guy I’ve ever met. 
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pSWFRXbG1abXg2ZEhrdFpFdDJPRVJ0TlRsM2FVRRAB
 Author:    Brittany Tubbs
 Rating:    2
-Published: 4 days ago
+Published: 5 days ago
 Text:      Me and my guy came in from out of town and had on our list of must try restaurants. The atmosphere was really nice. The drink I ordered tasted like they just poured syrup in it and threw a couple pieces of fruit in. I ordered the chicken …
 
 --- Review ---
@@ -45,10 +45,3 @@ Rating:    5
 Published: a week ago
 Text:      Jess, Bella, and Cat were fantastic!!
 Mentions:  cat (Kat), bella (Bella)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25KSVREZGlSekJpUVhabmVtNTFWMFpPY1V4d2VHYxAB
-Author:    E Aliko
-Rating:    2
-Published: a week ago
-Text:      Not good! Expected better vibe
