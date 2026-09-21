@@ -1,5 +1,5 @@
-=== Run: 2026-09-21 11:38:14 ===
-Reviews in last 7 days: 6
+=== Run: 2026-09-21 21:34:21 ===
+Reviews in last 7 days: 7
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pOQmREbG5kMlpQYnkxU2VuZHlMVUZmZFdOcFFVRRAB
@@ -20,8 +20,15 @@ Text:      Yusuf was the greatest server of all time. Best guy I’ve ever met. 
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pSWFRXbG1abXg2ZEhrdFpFdDJPRVJ0TlRsM2FVRRAB
 Author:    Brittany Tubbs
 Rating:    2
-Published: 6 days ago
+Published: a week ago
 Text:      Me and my guy came in from out of town and had on our list of must try restaurants. The atmosphere was really nice. The drink I ordered tasted like they just poured syrup in it and threw a couple pieces of fruit in. I ordered the chicken …
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT20xZlFsWm1OakpyWDBsNE4ySTRZV0psTkZObVJWRRAB
+Author:    Derrick Whatley
+Rating:    1
+Published: a week ago
+Text:      Javiers is a well put together piece of real estate but the Food is so trash a garbage can won’t want it. Detroit have so many great soul Food spots I ‘m mad I didnt keep it simple and eat at Modern 7 again. …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tWbGNFbFlhVXhWYTAxQ1V6QTFjVkZmZFZOblExRRAB
