@@ -1,11 +1,11 @@
-=== Run: 2026-09-22 02:42:46 ===
+=== Run: 2026-09-23 15:56:50 ===
 Reviews in last 7 days: 7
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pOQmREbG5kMlpQYnkxU2VuZHlMVUZmZFdOcFFVRRAB
 Author:    Sue May
 Rating:    5
-Published: 3 days ago
+Published: 5 days ago
 Text:      Stumbled into Javier’s last week to catch the end of the Lions game and was pleasantly surprised, the restaurant is just beautiful, we were taken care of by Alexa and her older sister and they were great! My brother-in-law was messing with …
 Mentions:  alexa (Alexa)
 
@@ -13,7 +13,7 @@ Mentions:  alexa (Alexa)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT25WVGNreEtjME5qUWpKMlEzVlBRamhVYVRkQ2VtYxAB
 Author:    Jonathan Dunwoody
 Rating:    5
-Published: 3 days ago
+Published: 5 days ago
 Text:      Yusuf was the greatest server of all time. Best guy I’ve ever met. Executed all the steps of service perfectly and above and beyond. It was an honor to have him as my server for my 3 year anniversary with my girlfriend! And all the food tasted wonderful.
 
 --- Review ---
