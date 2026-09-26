@@ -1,14 +1,13 @@
 # Javier's Reviews Dashboard
 
-> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 7 &nbsp;|&nbsp; **Updated:** 2026-09-25 16:19:14
+> **Period:** Last 7 days &nbsp;|&nbsp; **Reviews:** 5 &nbsp;|&nbsp; **Updated:** 2026-09-26 10:37:36
 
 ## Staff Mentions
 
 | Name | Mentions | Avg Rating |
 |:---|:---:|:---:|
-| Kat | 2 | 5.0 ★ |
 | Alexa | 1 | 5.0 ★ |
-| Bella | 1 | 5.0 ★ |
+| Kat | 1 | 5.0 ★ |
 | Leon | 1 | 5.0 ★ |
 
 ---

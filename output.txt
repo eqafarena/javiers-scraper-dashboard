@@ -1,5 +1,5 @@
-=== Run: 2026-09-25 16:19:14 ===
-Reviews in last 7 days: 7
+=== Run: 2026-09-26 10:37:36 ===
+Reviews in last 7 days: 5
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pOQmREbG5kMlpQYnkxU2VuZHlMVUZmZFdOcFFVRRAB
@@ -37,18 +37,3 @@ Rating:    5
 Published: a week ago
 Text:      Leon was O-mazing! & Cat was O-mazin as well! Can’t wait to come back!
 Mentions:  cat (Kat), leon (Leon)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25CblZtSkxSSGRXTFhsUGNHUktlbVZqU2tjeFRtYxAB
-Author:    Natalie Mootry
-Rating:    5
-Published: a week ago
-Text:      The food at the restaurant was amazing!!
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xsNVprOXFORUUxVUZkMVVYVkRUR0ZoVGs0d1RuYxAB
-Author:    Regan Salo
-Rating:    5
-Published: a week ago
-Text:      Jess, Bella, and Cat were fantastic!!
-Mentions:  cat (Kat), bella (Bella)
