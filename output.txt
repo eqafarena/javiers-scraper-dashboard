@@ -1,5 +1,12 @@
-=== Run: 2026-09-26 10:37:36 ===
-Reviews in last 7 days: 5
+=== Run: 2026-09-27 02:54:33 ===
+Reviews in last 7 days: 6
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2pCYU5HY3RUMDgxTUVkS1p6SmFkVzlwTnpKRmIxRRAB
+Author:    Kate Seidel
+Rating:    2
+Published: 14 hours ago
+Text:      We went to Javier’s for an early meal, prior to attending another event, to celebrate my birthday.  The service staff were very attentive & friendly, prompt & efficient.  The atmosphere of the restaurant was not what we were expecting… it …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pOQmREbG5kMlpQYnkxU2VuZHlMVUZmZFdOcFFVRRAB
