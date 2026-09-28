@@ -1,68 +1,24 @@
-=== Run: 2026-09-28 12:30:15 ===
-Reviews in last 7 days: 8
+=== Run: 2026-09-28 22:52:15 ===
+Reviews in last 7 days: 3
 
 --- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2kxNGNsSTNiR00yZDJSS05uRjVPR3BLUVhKRFgxRRAB
-Author:    Ciera Nicola
-Rating:    4
-Published: Hace 6 meses
-Text:      Fui a una cena de cumpleaños. Un ambiente precioso. Música genial. Mi única queja sobre la comida es que el salmón relleno venía con 4 ramilletes de brócoli sobre una especie de salsa de mantequilla. Nada más. No vale los 45 $. Deja mucho…
-Mentions:  la (La)
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2pCYU5HY3RUMDgxTUVkS1p6SmFkVzlwTnpKRmIxRRAB
+Author:    Kate Seidel
+Rating:    2
+Published: 2 days ago
+Text:      We went to Javier’s for an early meal, prior to attending another event, to celebrate my birthday.  The service staff were very attentive & friendly, prompt & efficient.  The atmosphere of the restaurant was not what we were expecting… it …
 
 --- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25sdGIwUmplRVJKUjNkTmJURlVURGRRV21KRVZIYxAB
-Author:    Olivia Thayer
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2pOQmREbG5kMlpQYnkxU2VuZHlMVUZmZFdOcFFVRRAB
+Author:    Sue May
 Rating:    5
-Published: Hace 4 meses
-Text:      Fuimos a Javier's por primera vez y tuvimos una experiencia increíble. Nuestro mesero, Ardit, fue absolutamente excepcional de principio a fin. Fue atento, amable, conocedor y logró que toda la noche fuera acogedora y divertida. El…
-Mentions:  ardit (Ardit), la (La)
+Published: a week ago
+Text:      Stumbled into Javier’s last week to catch the end of the Lions game and was pleasantly surprised, the restaurant is just beautiful, we were taken care of by Alexa and her older sister and they were great! My brother-in-law was messing with …
+Mentions:  alexa (Alexa)
 
 --- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2pGS05IcGFYM1JGUnpKSVowRTRkbEI2Ym1OSldIYxAB
-Author:    MISTER
-Rating:    3
-Published: Hace 3 meses
-Text:      Hace poco, mi esposa y yo fuimos por primera vez a almorzar por su cumpleaños. ¡El ambiente y la distribución eran muy agradables! No había nadie en la entrada… esperamos un rato y finalmente nos dirigimos a la zona del bar y preguntamos si…
-Mentions:  la (La)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2pkek4yZ3dZMkptUVVOb2VUbG9PRW81UWxRMlVsRRAB
-Author:    Hannah M Ingram, MS MA LMT SHRM-CP
-Rating:    4
-Published: Hace 4 meses
-Text:      El ambiente y el servicio de Javier's son excelentes y muy apreciados por mi paladar exigente. La comida, sin embargo, resultó un poco decepcionante en cuanto al sabor. Los calamares tenían la piel muy clara y eran insípidos. La salsa de…
-Mentions:  la (La)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xGWFIxaHFNa1J2TTBKWlZ6TklPRXBFYlZKM1pIYxAB
-Author:    Adam thevisibility “VisibilityV”
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25WVGNreEtjME5qUWpKMlEzVlBRamhVYVRkQ2VtYxAB
+Author:    Jonathan Dunwoody
 Rating:    5
-Published: Hace 4 meses
-Text:      El ambiente y la comida fueron igualmente increíbles. Probé el pez espada y no me decepcionó. Las porciones eran muy grandes y el servicio excelente. Los cócteles estaban fuertes y deliciosos 😋…
-Mentions:  la (La)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT2xwSGFHMVFNRFpaT1cxQ1YyOVhRelpRWVRNd01IYxAB
-Author:    Debbie Baldwin-Iam
-Rating:    1
-Published: Hace 4 meses
-Text:      La cena duró más de 3 horas. Reservamos a las 4:30 y nos sentaron a las 4:55. Nadie vino a preguntarnos si queríamos agua o alguna otra bebida durante 15 minutos después de sentarnos. Los aperitivos tardaron otros 20 minutos. El nain…
-Mentions:  la (La)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT25oNWRqUmlkMGR4YVd4d1p6UklhM2xUVDNsUlFsRRAB
-Author:    Kamilla Osadchuk
-Rating:    5
-Published: Hace 7 meses
-Text:      Vine aquí para San Valentín. Tenían un menú diferente, pero me gustó mucho que mantuvieran muchos de los mismos platillos del menú original. La comida estaba deliciosa; disfruté mucho de los taquitos de pollo y los calamares, estaban…
-Mentions:  la (La)
-
---- Review ---
-ID:        Ci9DQUlRQUNvZENodHljRjlvT21keVdrbDZWVzFtWkhCR01YbE9iMlE1UjJ3d2JWRRAB
-Author:    Amy Lynn
-Rating:    5
-Published: Hace 2 meses
-Text:      Mi prometido me trajo aquí para mi cumpleaños el 21/7.
-
-Desde que entramos hasta que salimos, ¡fue simplemente increíble! La comida…
-Mentions:  la (La)
+Published: a week ago
+Text:      Yusuf was the greatest server of all time. Best guy I’ve ever met. Executed all the steps of service perfectly and above and beyond. It was an honor to have him as my server for my 3 year anniversary with my girlfriend! And all the food tasted wonderful.
