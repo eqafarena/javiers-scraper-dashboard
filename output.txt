@@ -1,11 +1,18 @@
-=== Run: 2026-09-29 11:56:15 ===
-Reviews in last 7 days: 3
+=== Run: 2026-09-29 21:46:32 ===
+Reviews in last 7 days: 4
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2tFdFpXRjJPR1phVjNCWVpGTlJZM0pYUkdwdVZWRRAB
+Author:    Natalee Hill
+Rating:    5
+Published: 5 hours ago
+Text:      Fabulous food. Great atmosphere. Definitely a classy place
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pCYU5HY3RUMDgxTUVkS1p6SmFkVzlwTnpKRmIxRRAB
 Author:    Kate Seidel
 Rating:    2
-Published: 2 days ago
+Published: 3 days ago
 Text:      We went to Javier’s for an early meal, prior to attending another event, to celebrate my birthday.  The service staff were very attentive & friendly, prompt & efficient.  The atmosphere of the restaurant was not what we were expecting… it …
 
 --- Review ---
