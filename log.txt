@@ -1,21 +1,21 @@
-2026-10-02 11:39:17  INFO      === Javier's Review Scraper Starting ===
-2026-10-02 11:39:17  INFO      Loaded 37 name variants to match.
-2026-10-02 11:39:18  INFO      Warming up via Google homepage...
-2026-10-02 11:39:20  INFO      Navigating to Javier's reviews...
-2026-10-02 11:39:21  INFO      Waiting for page to fully render...
-2026-10-02 11:39:32  INFO      Page title: Javier’s Downtown - Google Maps
-2026-10-02 11:39:32  INFO      Current URL: https://www.google.com/maps/place/Javier%E2%80%99s+Downtown/@42.3368423,-83.0476069,16z/data=!4m8!3m7!1s0x883b2db5aa8d2b05:0x8123192805412075!8m2!3d42.3368384!4d-83.045032!9m1!1b1!16s%2Fg%2F11y4q2xl14?entry=ttu&g_ep=EgoyMDI2MDkyOS4wIKXMDSoASAFQAw%3D%3D
-2026-10-02 11:39:32  INFO      Found scroll container with 18 children.
-2026-10-02 11:39:45  WARNING   Could not sort by newest — sorting client-side by parsed date instead.
-2026-10-02 11:39:45  INFO      Scroll target centre: (276, 547)
-2026-10-02 11:39:45  INFO      Scrolling and collecting reviews...
-2026-10-02 11:39:46  INFO        Unique reviews collected: 5
-2026-10-02 11:39:48  INFO        Unique reviews collected: 5
-2026-10-02 11:39:50  INFO        Unique reviews collected: 5
-2026-10-02 11:39:51  INFO        Unique reviews collected: 5
-2026-10-02 11:39:53  INFO        Unique reviews collected: 5
-2026-10-02 11:39:55  INFO        Unique reviews collected: 5
-2026-10-02 11:39:55  INFO      Done. Total unique reviews collected: 5
-2026-10-02 11:39:55  INFO      Scraped 5 total. 0 within the last 7 days.
-2026-10-02 11:39:55  WARNING   No reviews scraped.
-2026-10-02 11:39:55  INFO      === Done ===
+2026-10-02 17:08:19  INFO      === Javier's Review Scraper Starting ===
+2026-10-02 17:08:19  INFO      Loaded 37 name variants to match.
+2026-10-02 17:08:21  INFO      Warming up via Google homepage...
+2026-10-02 17:08:23  INFO      Navigating to Javier's reviews...
+2026-10-02 17:08:23  INFO      Waiting for page to fully render...
+2026-10-02 17:08:34  INFO      Page title: Javier’s Downtown - Google Maps
+2026-10-02 17:08:34  INFO      Current URL: https://www.google.com/maps/place/Javier%E2%80%99s+Downtown/@42.3368423,-83.0476069,16z/data=!4m8!3m7!1s0x883b2db5aa8d2b05:0x8123192805412075!8m2!3d42.3368384!4d-83.045032!9m1!1b1!16s%2Fg%2F11y4q2xl14?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D
+2026-10-02 17:08:35  INFO      Found scroll container with 18 children.
+2026-10-02 17:08:48  WARNING   Could not sort by newest — sorting client-side by parsed date instead.
+2026-10-02 17:08:48  INFO      Scroll target centre: (276, 547)
+2026-10-02 17:08:48  INFO      Scrolling and collecting reviews...
+2026-10-02 17:08:49  INFO        Unique reviews collected: 5
+2026-10-02 17:08:51  INFO        Unique reviews collected: 5
+2026-10-02 17:08:53  INFO        Unique reviews collected: 5
+2026-10-02 17:08:54  INFO        Unique reviews collected: 5
+2026-10-02 17:08:56  INFO        Unique reviews collected: 5
+2026-10-02 17:08:57  INFO        Unique reviews collected: 5
+2026-10-02 17:08:57  INFO      Done. Total unique reviews collected: 5
+2026-10-02 17:08:58  INFO      Scraped 5 total. 0 within the last 7 days.
+2026-10-02 17:08:58  WARNING   No reviews scraped.
+2026-10-02 17:08:58  INFO      === Done ===
