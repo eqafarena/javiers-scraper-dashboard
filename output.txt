@@ -1,30 +1,30 @@
-=== Run: 2026-10-03 10:56:21 ===
+=== Run: 2026-10-03 20:28:29 ===
 Reviews in last 7 days: 4
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xwcVNYZENZVFJQTTBoamRUUkhVRVpHTW5WeGFVRRAB
 Author:    Luxury Chaos
 Rating:    3
-Published: a day ago
+Published: 2 days ago
 Text:      Javier’s is a beautiful restaurant, bar, and event space in downtown Detroit with an elegant, sexy atmosphere. We went during happy hour, which was definitely the way to go since they offer half-off appetizers, glasses of wine, and …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21kRVVHSkpYMnhMV21VNFdIUktlVTUyVVRrMmJWRRAB
 Author:    Aura Hollywood
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Good place for a vibe
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tFdFpXRjJPR1phVjNCWVpGTlJZM0pYUkdwdVZWRRAB
 Author:    Natalee Hill
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      Fabulous food. Great atmosphere. Definitely a classy place
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pCYU5HY3RUMDgxTUVkS1p6SmFkVzlwTnpKRmIxRRAB
 Author:    Kate Seidel
 Rating:    2
-Published: 6 days ago
+Published: a week ago
 Text:      We went to Javier’s for an early meal, prior to attending another event, to celebrate my birthday.  The service staff were very attentive & friendly, prompt & efficient.  The atmosphere of the restaurant was not what we were expecting… it …
