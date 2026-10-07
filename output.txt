@@ -1,25 +1,40 @@
-=== Run: 2026-10-06 12:34:19 ===
-Reviews in last 7 days: 4
+=== Run: 2026-10-07 12:26:46 ===
+Reviews in last 7 days: 6
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2tzeGVIcHViRU5FTTJKbk0zaHljRXR0UTJGRlIyYxAB
+Author:    Kourtney Vaunado
+Rating:    5
+Published: 9 hours ago
+Text:      Steak was amazing! I’ll be back
+Mentions:  stela (Stela)
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2xnMVlYZGlNVlZwT1ZGVVQwdEVPSEZCVVdaSE5FRRAB
+Author:    Kieyona Bailey
+Rating:    5
+Published: 16 hours ago
+Text:      Great food and drinks. Nice vibe.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xwcVNYZENZVFJQTTBoamRUUkhVRVpHTW5WeGFVRRAB
 Author:    Luxury Chaos
 Rating:    3
-Published: 4 days ago
+Published: 5 days ago
 Text:      Javier’s is a beautiful restaurant, bar, and event space in downtown Detroit with an elegant, sexy atmosphere. We went during happy hour, which was definitely the way to go since they offer half-off appetizers, glasses of wine, and …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT21kRVVHSkpYMnhMV21VNFdIUktlVTUyVVRrMmJWRRAB
 Author:    Aura Hollywood
 Rating:    5
-Published: 5 days ago
+Published: 6 days ago
 Text:      Good place for a vibe
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tFdFpXRjJPR1phVjNCWVpGTlJZM0pYUkdwdVZWRRAB
 Author:    Natalee Hill
 Rating:    5
-Published: 6 days ago
+Published: a week ago
 Text:      Fabulous food. Great atmosphere. Definitely a classy place
 
 --- Review ---
