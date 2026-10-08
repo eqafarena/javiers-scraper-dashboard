@@ -1,5 +1,13 @@
-=== Run: 2026-10-08 03:50:27 ===
-Reviews in last 7 days: 6
+=== Run: 2026-10-08 22:47:44 ===
+Reviews in last 7 days: 7
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2twNGFFUlBRa2g2YzNKMlRYRlVlVloyZG1NellsRRAB
+Author:    Giuseppe Schinaia
+Rating:    5
+Published: 22 hours ago
+Text:      Best Place in town 4 steak
+Mentions:  stela (Stela)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2tzeGVIcHViRU5FTTJKbk0zaHljRXR0UTJGRlIyYxAB
@@ -13,14 +21,14 @@ Mentions:  stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xnMVlYZGlNVlZwT1ZGVVQwdEVPSEZCVVdaSE5FRRAB
 Author:    Kieyona Bailey
 Rating:    5
-Published: a day ago
+Published: 2 days ago
 Text:      Great food and drinks. Nice vibe.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xwcVNYZENZVFJQTTBoamRUUkhVRVpHTW5WeGFVRRAB
 Author:    Luxury Chaos
 Rating:    3
-Published: 6 days ago
+Published: a week ago
 Text:      Javier’s is a beautiful restaurant, bar, and event space in downtown Detroit with an elegant, sexy atmosphere. We went during happy hour, which was definitely the way to go since they offer half-off appetizers, glasses of wine, and …
 
 --- Review ---
