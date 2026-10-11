@@ -1,18 +1,34 @@
-=== Run: 2026-10-10 16:43:53 ===
-Reviews in last 7 days: 7
+=== Run: 2026-10-11 03:14:21 ===
+Reviews in last 7 days: 9
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2w5SWVYaHVjVVptWTJocFRIZ3RPVEV3Y2paV1ltYxAB
+Author:    Shirley Shippings
+Rating:    1
+Published: 3 hours ago
+Text:      Steak was salty as hell and ingredients were bought as well to put on the steak  , the steak was sent back it was hard and salty asked for something else which was lobster rice it was also nasty and salty I will not come back to this place and it was my birthday
+Mentions:  stela (Stela)
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT2pkbFFrVnhMWGxvWjFkYVJFNTZRM0pGTWxkS1RXYxAB
+Author:    Tiera
+Rating:    5
+Published: 3 hours ago
+Text:      We had a great experience at Javier’s Restaurant in Detroit! A special thank you to Simon, our waiter, for accommodating our party of 17 with ease and without any issues. He was attentive, patient, professional, and made sure everyone was …
+Mentions:  simon (Simon)
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2pobFMxVjZYMGxMVVY5TU5UQlVSbE5hYnpsMWVrRRAB
 Author:    Delisa Mack
 Rating:    3
-Published: a day ago
+Published: 2 days ago
 Text:      I went for a birthday group.It was about 14 of us and they charged fifteen dollar gratuity per person.
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2twNGFFUlBRa2g2YzNKMlRYRlVlVloyZG1NellsRRAB
 Author:    Giuseppe Schinaia
 Rating:    5
-Published: 2 days ago
+Published: 3 days ago
 Text:      Best Place in town 4 steak
 Mentions:  stela (Stela)
 
@@ -28,7 +44,7 @@ Mentions:  stela (Stela)
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2xnMVlYZGlNVlZwT1ZGVVQwdEVPSEZCVVdaSE5FRRAB
 Author:    Kieyona Bailey
 Rating:    5
-Published: 3 days ago
+Published: 4 days ago
 Text:      Great food and drinks. Nice vibe.
 
 --- Review ---
