@@ -1,11 +1,18 @@
-=== Run: 2026-10-12 03:37:05 ===
-Reviews in last 7 days: 10
+=== Run: 2026-10-12 14:05:10 ===
+Reviews in last 7 days: 11
+
+--- Review ---
+ID:        Ci9DQUlRQUNvZENodHljRjlvT25CRmEyZzBaMGhoTmxOaU5UVTRRVnB0YTJ4M2JIYxAB
+Author:    Tina Seal
+Rating:    1
+Published: an hour ago
+Text:      The food quality was disappointing and far below what I expected for a $120 meal. The calamari was greasy and soggy, the corn ribs were burned, and the chicken was just okay. The best thing we ordered was the $9 bread. …
 
 --- Review ---
 ID:        Ci9DQUlRQUNvZENodHljRjlvT2t3eWFGVllMWEJQUjBSVFRGVkxaVTUyVlc5ek5sRRAB
 Author:    Yolanda Williams-Davis, MBA
 Rating:    5
-Published: 13 hours ago
+Published: 23 hours ago
 Text:      Such a delicious sparkle in downtown Detroit! Thank you Lady A for taking such great care of us. ❤️❤️❤️💃❤️❤️❤️ …
 
 --- Review ---
